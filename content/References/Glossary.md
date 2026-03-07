@@ -2,7 +2,6 @@
 > *A running reference of key terms as they are introduced across the study. Terms are linked inline throughout each chapter. Entries will be added and expanded as the study progresses.*
 
 ---
-
 ## Alpha and Omega
 
 The first and last letters of the Greek alphabet, used by Jesus in Revelation 22:13 as a title for himself: *"I am the Alpha and the Omega, the First and the Last, the Beginning and the End."* He states it three ways in a single breath, each formulation expressing the same reality from a slightly different angle.
@@ -12,7 +11,6 @@ The significance goes deeper than simply being present at the start and finish o
 *First introduced: [[02 - The Jacket Cover - In the Beginning Was the Word]]*
 
 ---
-
 ## Biblical Worldview
 
 A comprehensive framework for understanding reality — including suffering, evil, history, and human purpose — grounded in the full narrative of Scripture rather than in cultural assumptions, selective teaching, or personal experience alone.
@@ -22,17 +20,15 @@ A biblical worldview is not simply knowing Bible facts. It is a God-anchored fra
 *First introduced: [[i. Reading the Last Chapter]]*
 
 ---
-
 ## Caesarea Philippi
 
 A city in the far north of ancient Israel, near the base of Mount Hermon, and the location of Peter's confession of Christ in Matthew 16. In the first century, Caesarea Philippi was a prominent center of pagan worship associated with the Greek god Pan. At the base of a large rock cliff there was a cave and spring that the Greeks called the **Gates of Hades** — believed to be a literal entrance to the underworld. The surrounding area contained multiple temples, including a shrine to the Roman emperor Augustus.
 
 Jesus chose this location to ask *"Who do you say I am?"*, receive Peter's confession, and declare *"the gates of Hades will not overcome"* his church — a statement whose imagery would have been vivid and immediate to those standing in front of that cliff.
 
-*First introduced: [[i. Reading the Last Chapter]] — see also [[iii. Context]]*
+*First introduced: [[i. Reading the Last Chapter]] — see also [[Chapter 01/iii. Context]]*
 
 ---
-
 ## Christophany
 
 From the Greek *Christos* ("Christ") and *phaino* ("to appear") — a visible appearance of the pre-incarnate Jesus in the Old Testament, before the Incarnation at Bethlehem. These are occasions when the second person of the Trinity took on some perceptible form and made himself present to a human being in order to reveal the Father.
@@ -44,7 +40,17 @@ Christophanies matter for this study because they establish Jesus not as a New T
 *First introduced: [[02 - The Jacket Cover - In the Beginning Was the Word]] — see also [[02 - Context]]*
 
 ---
+## Enoch
 
+A figure from the line of Seth, listed in the Genesis 5 genealogy, who stands entirely apart from every other person recorded between Adam and Noah. The standard formula in Genesis 5 is uniform: a name, a lifespan, children, and death. Enoch's entry breaks the pattern in two ways. He is described as having "walked with God" — an intimacy with God that is not attributed to anyone else in this section of the record. And his entry does not end with death: *"He was no more, because God took him away"* (Genesis 5:24). He is one of only two figures in the Old Testament — the other being Elijah — who left the earth without dying in the ordinary sense.
+
+Enoch's significance extends well beyond the five verses Genesis gives him. He is the subject of an extensive extra-biblical work known as 1 Enoch (the Book of Enoch), which was found among the Dead Sea Scrolls and preserved in the Ethiopian biblical canon. This work addresses events in Genesis 6 — particularly the strange incident described in its opening verses — in far greater detail than the biblical text itself provides. The New Testament book of Jude quotes 1 Enoch directly (Jude 14-15), and both early Jewish and early Christian communities treated it with considerable seriousness, though it was not ultimately included in the 66-book Protestant canon.
+
+Enoch's full treatment — his place in the Genesis 6 narrative, the content and significance of the book attributed to him, and its bearing on the events that led to the flood — is the subject of an upcoming session.
+
+*First introduced: [[03 - The Fall - When the Enemy Came In]]*
+
+---
 ## Extra-Biblical Literature
 
 Texts produced within Jewish or early Christian communities that are not part of the canonical 66 books of the Bible, but provide valuable cultural, theological, and literary context for reading it. Examples include writings found among the Dead Sea Scrolls and various documents from the Second Temple Period.
@@ -54,7 +60,17 @@ These texts do not carry scriptural authority. Their value is contextual — the
 *First introduced: [[i. Reading the Last Chapter]]*
 
 ---
+## First Fruits
 
+The principle of giving God the first portion of one's harvest or flock — before the full extent of the season's increase is known. First fruits giving is distinguished from ordinary giving precisely by what it requires: trust that God will provide what follows. When you give from the surplus, you already know what you have. When you give the first, you are making a statement about your relationship with the one you're giving to before the outcome is confirmed.
+
+Abel's offering in Genesis 4 is the earliest illustration of this principle in Scripture. He brought "fat portions from some of the firstborn of his flock" — not leftovers, not a portion from what remained after he had secured his own supply, but the first. Cain brought "some of the fruits of the soil" — an offering without the element of trust that first fruits requires. God's acceptance of Abel's offering and his lack of favor toward Cain's has nothing to do with the category of offering and everything to do with what each offering revealed about the giver's posture toward God.
+
+First fruits giving predates the formal tithe established in the Mosaic Law by centuries. The tithe (ten percent) was a legally specified institution within Israel's social and religious structure, with specific purposes and designated recipients (particularly the Levites). First fruits reflects the heart disposition that underlies any genuine act of giving to God: the acknowledgment that everything already came from him, and the trust that he will continue to provide. The tithe was an expression of the first fruits principle — the principle came first, and the law gave it a specific form.
+
+*First introduced: [[03 - The Fall - When the Enemy Came In]]*
+
+---
 ## Free Will
 
 The capacity of human beings — and of created spiritual beings — to make genuine choices, including the choice to reject God. Free will is the foundational law of the created order: the non-negotiable condition built into the fabric of the universe that shapes every subsequent event in the biblical story.
@@ -66,7 +82,6 @@ Free will also explains the two trees in Eden. Without the Tree of the Knowledge
 *First introduced: [[02 - The Jacket Cover - In the Beginning Was the Word]]*
 
 ---
-
 ## Fullness of the Gentiles
 
 A phrase drawn from Paul's letter to the Romans (Romans 11:25), referring to the complete number of Gentile believers who will enter the kingdom of God before the end of the age. Paul writes: *"Israel has experienced a hardening in part until the full number of the Gentiles has come in."*
@@ -78,7 +93,6 @@ This also explains why believers are left in the world after coming to faith rat
 *First introduced: [[02 - The Jacket Cover - In the Beginning Was the Word]]*
 
 ---
-
 ## Imago Dei
 
 Latin for "image of God" — the theological concept derived from Genesis 1:26–27, where God declares: *"Let us make man in our image, in our likeness."* The *Imago Dei* is what distinguishes human beings from every other creature in the creation narrative. It is not a physical resemblance to God — it is a relational and spiritual likeness.
@@ -90,7 +104,6 @@ The *Imago Dei* is the theological basis for human dignity. It is also the basis
 *First introduced: [[02 - The Jacket Cover - In the Beginning Was the Word]]*
 
 ---
-
 ## Joy
 
 In the biblical sense, joy is distinct from happiness. Where happiness is circumstantial — rising and falling with external conditions — joy is a cultivated orientation rooted in the indwelling presence of the Holy Spirit and the certainty of God's promises. It is not dependent on circumstances and cannot be taken by them.
@@ -100,7 +113,6 @@ Paul describes this in Philippians 4:11: *"I have learned to be content whatever
 *First introduced: [[i. Reading the Last Chapter]]*
 
 ---
-
 ## Logos
 
 The Greek term translated "Word" in John 1:1 — *"In the beginning was the Word [Logos], and the Word was with God, and the Word was God."* John's use of *Logos* was deliberate and layered, written to resonate with both Greek philosophical readers and Jewish readers steeped in Old Testament wisdom tradition.
@@ -112,7 +124,6 @@ John synthesizes all of this. For the Greek reader: the rational ground of reali
 *First introduced: [[02 - The Jacket Cover - In the Beginning Was the Word]] — see also [[02 - Context]]*
 
 ---
-
 ## Messiah
 
 Hebrew for "anointed one" (Greek: *Christos*, from which we get "Christ"). The figure prophesied throughout the Old Testament who would come to redeem Israel and establish God's eternal kingdom.
@@ -122,7 +133,6 @@ In the first century, dominant Jewish expectation centered on a political and mi
 *First introduced: [[i. Reading the Last Chapter]]*
 
 ---
-
 ## Pentateuch
 
 The first five books of the Bible: Genesis, Exodus, Leviticus, Numbers, and Deuteronomy. Traditionally attributed to Moses and frequently referred to in the New Testament as "the Law of Moses" or simply "Moses." When Jesus says in Luke 24 that he explained *"beginning with Moses"* what the Scriptures said about him, he is starting with these five books. The Pentateuch establishes the foundational narrative, covenants, and imagery that the rest of Scripture builds on and that Revelation ultimately resolves.
@@ -130,7 +140,17 @@ The first five books of the Bible: Genesis, Exodus, Leviticus, Numbers, and Deut
 *First introduced: [[i. Reading the Last Chapter]]*
 
 ---
+## Prince of This World
 
+A title applied to Satan in the Gospel of John (John 12:31; 14:30; 16:11) that reflects the genuine governing authority he acquired over the earth and its kingdoms as a direct consequence of the Fall. When Adam — who had been given dominion over the earth by God — chose to comply with Satan's scheme in the garden, he abdicated that authority. It transferred. Satan became the inheritor of what Adam gave away.
+
+This is not metaphorical. When Satan brought Jesus to a high place during the wilderness temptation and offered him "all the authority and splendor" of the kingdoms of the world, he stated plainly: "it has been given to me, and I can give it to anyone I want" (Luke 4:6). Jesus did not dispute the claim. The authority was real, and the offer was legitimate. The kingdoms and institutions of human civilization operate within a framework that has Satan as the governing spiritual authority — with additional help from others who will be identified as the study progresses through Genesis.
+
+Understanding Satan's authority as a genuine governing reality — rather than a poetic way of saying the world is corrupt — is essential to understanding why the world operates as it does and why the work of the Messiah announced in Genesis 3:15 requires more than a moral example or a spiritual teaching. It requires a legal reclamation of what was lost.
+
+*First introduced: [[03 - The Fall - When the Enemy Came In]]*
+
+---
 ## Prosperity Gospel
 
 A theological position — also called "health, wealth, and prosperity" theology — claiming that Christian faith guarantees material blessing in this life. The core promise is that faithful Christians will be rewarded with physical health, financial prosperity, and general success as a direct result of their belief and generosity.
@@ -140,7 +160,19 @@ This is fundamentally incompatible with the Gospel Jesus presented, for two reas
 *First introduced: [[i. Reading the Last Chapter]]*
 
 ---
+## Proto-Evangelium
 
+Latin for "first gospel" — the name given by biblical interpreters to Genesis 3:15, the first messianic prophecy in Scripture. Spoken by God to the serpent in the immediate aftermath of the Fall, the verse announces: *"I will put enmity between you and the woman, and between your offspring and hers; he will crush your head, and you will strike his heel."*
+
+The prophecy moves from a broad enmity between the serpent's offspring and Eve's offspring to a singular individual — *he* — who will deliver a fatal blow to the serpent while sustaining a painful wound in the process. Everything that follows from this prophecy is significant: this person must be born of a woman, making him fully human. He will crush the serpent's head — a decisive, fatal defeat. And he will have his heel struck — a real wounding, painful but not final.
+
+Read against the cross and resurrection, the shape resolves completely. Satan struck Jesus through crucifixion. From any earthly vantage point, the death appeared decisive. But the resurrection reversed the result: the heel was struck, but the head was crushed. In dying and rising, Jesus broke the power of death — the mechanism Satan had introduced into the world through the Fall — and reclaimed what Adam surrendered.
+
+The Proto-Evangelium is the interpretive thread that runs through the entire biblical narrative. Every sacrifice, every covenant, every messianic prophecy, every act of divine deliverance is downstream of this first announcement. The story is not wandering toward a resolution — the resolution was announced in the garden, in the very moment the problem was introduced.
+
+*First introduced: [[03 - The Fall - When the Enemy Came In]]*
+
+---
 ## Revelation
 
 The final book of the Christian canon, and the destination of this study. A prophetic vision given to the Apostle John — traditionally identified as the Apostle and author of the Gospel of John — concerning the culmination of God's redemptive plan and the end of history as we know it.
@@ -150,7 +182,17 @@ Revelation is written in a genre called *apocalyptic literature*, which uses viv
 *First introduced: [[i. Reading the Last Chapter]]*
 
 ---
+## Shame
 
+In the biblical framework, shame is not merely an emotion but a mechanism — specifically, one of Satan's primary tools for isolating human beings from God and from one another. Its first appearance in Scripture is in Genesis 3:7-10, immediately following the Fall. Adam and Eve's recognition of their nakedness, their covering of themselves with fig leaves, and their hiding from God when they heard him approach all represent the same movement: away from the relationship in which their need could actually be addressed, and toward increasingly inadequate self-management.
+
+Shame operates as a tool of isolation. It drives people away from God and from community — the two sources of genuine help — and toward private, self-generated attempts to control their exposure. This is Satan's primary tactical goal, because once a person is isolated, they are far more vulnerable to everything that follows. Peter's description of Satan as a roaring lion (1 Peter 5:8) is instructive here: lions don't charge the front of the herd. They work the edges, worry the group, and wait for the weak and the young to fall behind. Once separated, those individuals become easy targets. Shame accomplishes the separation.
+
+The remedy for shame in Scripture is not self-improvement but covering — and consistently, in the biblical record, it is God who initiates the covering at personal cost. He clothed Adam and Eve with animal skins in Genesis 3:21. He provided the sacrificial system to cover Israel's corporate shame before him. And the covering that all of those sacrifices pointed toward was accomplished at the cross, where the one who bore no shame took on the shame of everyone else. The movement of the gospel is precisely the reversal of what shame does: where shame drives us to hide, the gospel calls us back into the open — covered by what God provided, not by what we manufactured ourselves.
+
+*First introduced: [[03 - The Fall - When the Enemy Came In]]*
+
+---
 ## Second Temple Period
 
 The era of Jewish history roughly spanning 516 BC to 70 AD, bookended by the rebuilding of the Jerusalem Temple after the Babylonian exile and its destruction by Rome. The entire New Testament was written within this period, and the cultural, theological, and literary world it describes is rooted here.
@@ -160,7 +202,6 @@ Much of the extra-biblical literature referenced in this study originates from t
 *First introduced: [[i. Reading the Last Chapter]]*
 
 ---
-
 ## Son of Man
 
 A title Jesus applied to himself frequently throughout the Gospels. It carries two distinct layers of meaning in the Jewish world Jesus was speaking into.
@@ -175,5 +216,13 @@ When Jesus called himself the Son of Man, he was drawing on both layers simultan
 *Also relevant: [[02 - The Jacket Cover - In the Beginning Was the Word]]*
 
 ---
+## The Fall
 
+The event described in Genesis 3 in which Adam and Eve disobeyed God by eating from the Tree of the Knowledge of Good and Evil, resulting in the entry of sin and death into the created order. The Fall is not simply a moral failure — it is the foundational rupture in the relationship between God and humanity and between humanity and the rest of creation.
+
+Its consequences include shame, the breakdown of human relational equality, painful toil, physical death, expulsion from the garden, and the transfer of Adam's governing authority to Satan. Everything that follows in Scripture — every covenant, sacrifice, prophecy, and promise — is a response to what happened in Genesis 3. The Fall did not take God by surprise. The first prophecy in Scripture (Genesis 3:15, the Proto-Evangelium) announces the remedy within the same passage that describes the problem, establishing the pattern the rest of the Bible follows: God speaks redemption into the midst of judgment.
+
+*First introduced: [[03 - The Fall - When the Enemy Came In]]*
+
+---
 *This glossary grows with each chapter. Terms are linked inline throughout the study notes.*

@@ -25,6 +25,7 @@ If you ever want to come back to this Welcome page, just click on the Home butto
 ### Chapters
 - [[i. Reading the Last Chapter|01)  Reading the Last Chapter]] — *Why context is everything, and how Jesus modeled the interpretive method this study follows*
 - [[i. The Jacket Cover|02) The Jacket Cover]] — *The Parable of the Wheat and Weeds as the story's outline, Genesis 1–2, and Jesus as the pre-incarnate Creator threading from the first page to the last*
+- [[i. The Fall - When the Enemy Came In|03) The Fall: When the Enemy Came In]] — *How an enemy entered a good creation, what was lost when Adam surrendered his authority, and what God's first response to sin revealed about the story's ultimate direction*
 
 ### References
 - [[Glossary]] — *Key terms defined and cross-referenced across the study*
