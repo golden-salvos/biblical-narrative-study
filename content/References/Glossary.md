@@ -46,9 +46,10 @@ A figure from the line of Seth, listed in the Genesis 5 genealogy, who stands en
 
 Enoch's significance extends well beyond the five verses Genesis gives him. He is the subject of an extensive extra-biblical work known as 1 Enoch (the Book of Enoch), which was found among the Dead Sea Scrolls and preserved in the Ethiopian biblical canon. This work addresses events in Genesis 6 — particularly the strange incident described in its opening verses — in far greater detail than the biblical text itself provides. The New Testament book of Jude quotes 1 Enoch directly (Jude 14-15), and both early Jewish and early Christian communities treated it with considerable seriousness, though it was not ultimately included in the 66-book Protestant canon.
 
-Enoch's full treatment — his place in the Genesis 6 narrative, the content and significance of the book attributed to him, and its bearing on the events that led to the flood — is the subject of an upcoming session.
+The New Testament's engagement with 1 Enoch — particularly Jude's direct quotation of its opening chapter and attribution to the pre-flood patriarch — establishes it as a text the study takes seriously as supplemental historical background. Reading it does not add it to the canon; it recovers the context the original audience already possessed.
 
 *First introduced: [[03 - The Fall - When the Enemy Came In]]*
+*Also relevant: [[04 - The Watchers and the Flood]]*
 
 ---
 ## Extra-Biblical Literature
@@ -133,6 +134,28 @@ In the first century, dominant Jewish expectation centered on a political and mi
 *First introduced: [[i. Reading the Last Chapter]]*
 
 ---
+## Nephilim
+
+The Hebrew term used in Genesis 6:4 for the offspring of the sons of God and the daughters of men. Typically translated "giants," the word carries connotations of both physical stature and an extraordinary nature — the root *naphal* is associated with falling, though the precise etymology remains debated. The Nephilim are described in Genesis 6 as "heroes of old, men of renown" — beings of unusual power who were known and feared, not simply large.
+
+Every major ancient culture carries some version of this account: divine beings producing offspring with human women, resulting in heroes, demigods, and beings of superhuman capacity. The Greek heroes Heracles and Achilles, the Mesopotamian Gilgamesh, and countless equivalents across world mythology reflect the same underlying event processed through different cultural and linguistic lenses. This convergence across unrelated civilizations is most simply explained by a common origin: something happened, and every culture carries its own account of it.
+
+The Nephilim appear in the biblical record both before the flood (Genesis 6:4) and after — a detail the text notes explicitly ("and also afterward"). Their post-flood presence is concentrated in Canaan, where they appear in the accounts of Israel's scouts and the subsequent conquest under Joshua. How they appear again after the flood, and why they are specifically located in Canaan, is addressed in the session covering the Book of Jubilees.
+
+*First introduced: [[04 - The Watchers and the Flood]]*
+
+---
+## Noahic Covenant
+
+The unconditional covenant God establishes with Noah, his descendants, and all living creatures in Genesis 9:1–17 following the flood. It is the first unconditional covenant in Scripture — placing no obligations on the human party and carrying no conditionality. God commits unilaterally: he will never again destroy all life by flood. Nothing Noah or his descendants do can invalidate it.
+
+The Noahic Covenant is distinguished from every other biblical covenant by its scope. It is made not with a particular person, lineage, or nation, but with "every living creature" and with "the earth" itself. Every covenant that follows is narrower: the Abrahamic covenant is made with Abraham and his seed; the Mosaic covenant is made with Israel; the Davidic covenant is made with the house of David. The Noahic covenant stands behind all of them as the foundational guarantee that the created order will endure until God himself brings the age to a close — and when he does, it will not be by flood, but by fire (2 Peter 3:10).
+
+The sign of the covenant is the rainbow. Unlike every other covenant sign in Scripture, it is produced by natural law rather than by any human act — light refracted through water in the atmosphere, appearing over every part of the earth. In later prophetic and apocalyptic literature, the rainbow consistently marks the appearance of God's own glory: Ezekiel 1:28 describes the divine radiance as "like a rainbow in the clouds," and Revelation 4:3 places a rainbow around the throne of God. The covenant sign and the marker of divine presence are the same image.
+
+*First introduced: [[04 - The Watchers and the Flood]]*
+
+---
 ## Pentateuch
 
 The first five books of the Bible: Genesis, Exodus, Leviticus, Numbers, and Deuteronomy. Traditionally attributed to Moses and frequently referred to in the New Testament as "the Law of Moses" or simply "Moses." When Jesus says in Luke 24 that he explained *"beginning with Moses"* what the Scriptures said about him, he is starting with these five books. The Pentateuch establishes the foundational narrative, covenants, and imagery that the rest of Scripture builds on and that Revelation ultimately resolves.
@@ -202,6 +225,17 @@ Much of the extra-biblical literature referenced in this study originates from t
 *First introduced: [[i. Reading the Last Chapter]]*
 
 ---
+## Sons of God (Bene Elohim)
+
+The Hebrew phrase *bene Elohim* — literally "sons of God" — used in Genesis 6:2 and 4 to identify the beings who took human women and fathered the Nephilim. The same phrase appears in Job 1:6, 2:1, and 38:7, in each case referring unambiguously to members of the heavenly court — angelic beings who appear before God. The linguistic evidence therefore points consistently toward a heavenly, rather than human, identity for the sons of God in Genesis 6.
+
+The competing interpretation — identifying the sons of God as the line of Seth and the daughters of men as Cain's line — gained traction through Augustine and became the dominant reading in Western Christianity. It fails, however, to account for the extraordinary result of the unions: if two lines of ordinary human beings intermarry, the offspring are ordinary. The text requires an explanation for why these children were giants and heroes of renown, and the Seth-Cain theory cannot supply one.
+
+The designation "sons of God" for angelic beings reflects the ancient Near Eastern understanding of the divine council — a body of heavenly beings created to serve God and govern aspects of his creation under his authority. The sons of God of Genesis 6, who abandoned that authority and descended to the earth, are the beings 1 Enoch identifies as the Watchers.
+
+*First introduced: [[04 - The Watchers and the Flood]] — see also [[04 - iii. Context]]*
+
+---
 ## Son of Man
 
 A title Jesus applied to himself frequently throughout the Gospels. It carries two distinct layers of meaning in the Jewish world Jesus was speaking into.
@@ -223,6 +257,19 @@ The event described in Genesis 3 in which Adam and Eve disobeyed God by eating f
 Its consequences include shame, the breakdown of human relational equality, painful toil, physical death, expulsion from the garden, and the transfer of Adam's governing authority to Satan. Everything that follows in Scripture — every covenant, sacrifice, prophecy, and promise — is a response to what happened in Genesis 3. The Fall did not take God by surprise. The first prophecy in Scripture (Genesis 3:15, the Proto-Evangelium) announces the remedy within the same passage that describes the problem, establishing the pattern the rest of the Bible follows: God speaks redemption into the midst of judgment.
 
 *First introduced: [[03 - The Fall - When the Enemy Came In]]*
+
+---
+## Watchers
+
+The class of angelic beings described in Genesis 6:1–4 who descended from their assigned domain, took human women without consent, and fathered the Nephilim. The term comes from the Aramaic *'iyr* (used in Daniel 4:13, 17, 23 for heavenly beings who deliver God's decrees) and became the standard designation for these angels in Second Temple Jewish literature, including 1 Enoch, Jubilees, and the Damascus Document.
+
+The Watchers were assigned to observe and guard the human world — a commission they violated by abandoning their proper domain and overriding the free will of the women they took. This violation triggered immediate, permanent consequences. Both 2 Peter 2:4 and Jude 6 confirm that God did not delay: the Watchers are currently imprisoned in darkness, bound with chains, held for final judgment.
+
+This response stands in deliberate contrast to how God has dealt with Satan. Satan's strategy has consistently operated through deception and manipulation while technically preserving the free choice of his targets. The Watchers overrode free will entirely — they took. God's different treatment of the Watchers versus Satan is therefore not inconsistency but precision: the nature of the violation, not merely the degree of the harm, determines the response.
+
+The full account of the Watchers — their oath before descending, what they taught humanity, and the consequences that followed — is the subject of 1 Enoch chapters 6 and following, which the study covers in the session immediately after this one.
+
+*First introduced: [[04 - The Watchers and the Flood]] — see also [[04 - iii. Context]]*
 
 ---
 *This glossary grows with each chapter. Terms are linked inline throughout the study notes.*

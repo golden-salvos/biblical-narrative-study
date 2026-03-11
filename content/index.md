@@ -25,8 +25,8 @@ If you ever want to come back to this Welcome page, just click on the Home butto
 ### Chapters
 - [[i. Reading the Last Chapter|01)  Reading the Last Chapter]] — *Why context is everything, and how Jesus modeled the interpretive method this study follows*
 - [[i. The Jacket Cover|02) The Jacket Cover]] — *The Parable of the Wheat and Weeds as the story's outline, Genesis 1–2, and Jesus as the pre-incarnate Creator threading from the first page to the last*
-- [[i. The Start of the Story]] — *How an enemy entered a good creation, what was lost when Adam surrendered his authority, and what God's first response to sin revealed about the story's ultimate direction*
-- [[i. The Watchers and the Flood]]
+- [[i. The Start of the Story|03) The Start of the Story]] — *How an enemy entered a good creation, what was lost when Adam surrendered his authority, and what God's first response to sin revealed about the story's ultimate direction*
+- [[i. The Watchers and the Flood|04) The Watchers and the Flood]] — *Genesis 6's sons of God and the Nephilim, the flood as God's surgical response to protect the messianic bloodline, the Noahic Covenant and the sign of the rainbow, and the introduction of 1 Enoch as a supplemental source*
 
 ### References
 - [[Glossary]] — *Key terms defined and cross-referenced across the study*
