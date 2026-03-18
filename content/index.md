@@ -27,6 +27,7 @@ If you ever want to come back to this Welcome page, just click on the Home butto
 - [[i. The Jacket Cover|02) The Jacket Cover]] — *The Parable of the Wheat and Weeds as the story's outline, Genesis 1–2, and Jesus as the pre-incarnate Creator threading from the first page to the last*
 - [[i. The Fall|03) The Fall]] — *How an enemy entered a good creation, what was lost when Adam surrendered his authority, and what God's first response to sin revealed about the story's ultimate direction*
 - [[i. The Watchers and the Flood|04) The Watchers and the Flood]] — *Genesis 6's sons of God and the Nephilim, the flood as God's surgical response to protect the messianic bloodline, the Noahic Covenant and the sign of the rainbow, and the introduction of 1 Enoch as a supplemental source*
+- [[i. 1 Enoch — A Quick Glance|05) 1 Enoch — A Quick Glance]] — *1 Enoch establishes its audience as the last generation, traces the Watchers' sworn descent at Mount Hermon, and reveals the origin of demons as the disembodied spirits of the Nephilim still operating in the world today*
 
 ### References
 - [[Glossary]] — *Key terms defined and cross-referenced across the study*

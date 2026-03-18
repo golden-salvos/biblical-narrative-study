@@ -11,6 +11,15 @@ The significance goes deeper than simply being present at the start and finish o
 *First introduced: [[02 - The Jacket Cover - In the Beginning Was the Word]]*
 
 ---
+## Azazel
+
+One of the principal Watchers identified in 1 Enoch as bearing primary responsibility for what was taught to humanity — specifically the arts of warfare, metallurgy, and the use of costly ornamentation. Per 1 Enoch 10, God directed Raphael to bind Azazel hand and foot and cast him into the wilderness, where he is covered in rocks and darkness until the day of final judgment.
+
+The name appears directly in Leviticus 16, the Day of Atonement ceremony, where one of the two goats is designated for Azazel and released into the wilderness. The Hebrew *l'Azazel* (for Azazel) appears four times in that passage. The scapegoat sent to the wilderness was not merely a symbol of sin removal in the abstract — it was sent to the specific location of the bound and imprisoned Watcher to whom, as 1 Enoch states explicitly, "all sin" is ascribed. The sacrificial system thus acknowledges, built into its very structure, the cosmic origin of the problem it exists to address.
+
+*First introduced: [[05 - First Enoch — The Oath, the Giants, and the Origin of Demons]]*
+
+---
 ## Biblical Worldview
 
 A comprehensive framework for understanding reality — including suffering, evil, history, and human purpose — grounded in the full narrative of Scripture rather than in cultural assumptions, selective teaching, or personal experience alone.
@@ -40,6 +49,17 @@ Christophanies matter for this study because they establish Jesus not as a New T
 *First introduced: [[02 - The Jacket Cover - In the Beginning Was the Word]] — see also [[02 - Context]]*
 
 ---
+## Demons
+
+The disembodied spirits of the Nephilim — the offspring born from the union of the Watchers and human women — who remain active on the earth after their bodies were destroyed. Demons are not fallen angels. Satan is a fallen angel; the imprisoned Watchers are fallen angels. Demons belong to a third category that God did not design to exist: beings born on the earth from an unauthorized union, neither fully human nor fully angelic, belonging to no category with a mapped destiny when their physical existence ended.
+
+Per 1 Enoch 15, when the bodies of the Nephilim died, their spirits did not depart the earth. They remained — without bodies, driven by appetites they can no longer satisfy, persistently targeting the human descendants of the women they came from. Their drive to inhabit and oppress human beings is consistent with their origin. Their terror of the abyss, expressed by the demon Legion in Luke 8:31 (*"Have you come to torment us before the time?"*), reflects precise knowledge of their eventual judgment.
+
+The existence of demons is never argued or defended in the New Testament — it is assumed. Jesus cast them out as a routine feature of his ministry. The disciples did the same. Understanding their origin in the Watchers' rebellion explains their behavior, their targeting of humanity, and the framework within which the New Testament's treatment of spiritual warfare makes sense.
+
+*First introduced: [[05 - First Enoch — The Oath, the Giants, and the Origin of Demons]]*
+
+---
 ## Enoch
 
 A figure from the line of Seth, listed in the Genesis 5 genealogy, who stands entirely apart from every other person recorded between Adam and Noah. The standard formula in Genesis 5 is uniform: a name, a lifespan, children, and death. Enoch's entry breaks the pattern in two ways. He is described as having "walked with God" — an intimacy with God that is not attributed to anyone else in this section of the record. And his entry does not end with death: *"He was no more, because God took him away"* (Genesis 5:24). He is one of only two figures in the Old Testament — the other being Elijah — who left the earth without dying in the ordinary sense.
@@ -50,6 +70,7 @@ The New Testament's engagement with 1 Enoch — particularly Jude's direct quota
 
 *First introduced: [[03 - The Fall - When the Enemy Came In]]*
 *Also relevant: [[04 - The Watchers and the Flood]]*
+*Also relevant: [[05 - First Enoch — The Oath, the Giants, and the Origin of Demons]]*
 
 ---
 ## Extra-Biblical Literature
@@ -134,6 +155,19 @@ In the first century, dominant Jewish expectation centered on a political and mi
 *First introduced: [[i. Reading the Last Chapter]]*
 
 ---
+## Mount Hermon
+
+The mountain range anchoring the far northern border of ancient Israel, rising across the intersection of modern Syria, Lebanon, and the Golan Heights. In biblical theology, Mount Hermon is not simply a geographic feature — it is a site of profound spiritual significance at three distinct points in the narrative.
+
+First, it is the location of the Watchers' oath and descent, per 1 Enoch 6. The mountain takes its name from the *herem* — the sworn and binding oath — the two hundred Watchers made there before descending to take human women. The rebellion that led to the Nephilim, the flood, and the origin of demons was formally initiated on this mountain.
+
+Second, at its southern base lies Caesarea Philippi, where Jesus chose to ask his disciples *"Who do you say I am?"*, receive Peter's confession, and declare that the gates of Hades would not overcome his church. The cave and spring at that location were literally called the Gates of Hades in the first century, associated with the god Pan and believed to be an entrance to the underworld. Jesus made his declaration standing in front of that landmark at the foot of the mountain where the original angelic rebellion was sworn.
+
+Third, the Transfiguration — in which Jesus revealed himself in full divine glory to Peter, James, and John, with the Father's voice declaring his identity from a cloud — took place on the summit of this same mountain. On the site of the Watchers' rebellion, Jesus showed himself to be God.
+
+*First introduced: [[05 - First Enoch — The Oath, the Giants, and the Origin of Demons]]*
+
+---
 ## Nephilim
 
 The Hebrew term used in Genesis 6:4 for the offspring of the sons of God and the daughters of men. Typically translated "giants," the word carries connotations of both physical stature and an extraordinary nature — the root *naphal* is associated with falling, though the precise etymology remains debated. The Nephilim are described in Genesis 6 as "heroes of old, men of renown" — beings of unusual power who were known and feared, not simply large.
@@ -143,6 +177,8 @@ Every major ancient culture carries some version of this account: divine beings 
 The Nephilim appear in the biblical record both before the flood (Genesis 6:4) and after — a detail the text notes explicitly ("and also afterward"). Their post-flood presence is concentrated in Canaan, where they appear in the accounts of Israel's scouts and the subsequent conquest under Joshua. How they appear again after the flood, and why they are specifically located in Canaan, is addressed in the session covering the Book of Jubilees.
 
 *First introduced: [[04 - The Watchers and the Flood]]*
+*Also relevant: [[05 - First Enoch — The Oath, the Giants, and the Origin of Demons]]*
+
 
 ---
 ## Noahic Covenant
@@ -270,6 +306,8 @@ This response stands in deliberate contrast to how God has dealt with Satan. Sat
 The full account of the Watchers — their oath before descending, what they taught humanity, and the consequences that followed — is the subject of 1 Enoch chapters 6 and following, which the study covers in the session immediately after this one.
 
 *First introduced: [[04 - The Watchers and the Flood]] — see also [[04 - iii. Context]]*
+*Also relevant: [[05 - First Enoch — The Oath, the Giants, and the Origin of Demons]]*
+
 
 ---
 *This glossary grows with each chapter. Terms are linked inline throughout the study notes.*
