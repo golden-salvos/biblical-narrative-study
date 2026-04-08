@@ -55,6 +55,26 @@ Christophanies matter for this study because they establish Jesus not as a New T
 
 ---
 
+## Cosmic Geography
+
+The theological framework — sometimes called the Deuteronomy 32 Worldview — describing the arrangement God established at Babel, in which he divided the nations of the world and assigned a member of the divine council (a son of God) to govern each one, while retaining Israel as his own direct inheritance. The phrase "cosmic geography" refers to the spiritual boundaries overlaid on the physical geography of the earth: each region of the world corresponds to a spiritual governing authority, and conflicts between nations are always simultaneously conflicts between the beings that govern them.
+
+This framework is the essential background for reading the entire Old Testament. When the prophets describe military defeats as evidence of a foreign god overpowering Israel's God, or when Elijah confronts the prophets of Baal, or when Paul tells believers in Ephesians 6 that "our struggle is not against flesh and blood, but against rulers, against authorities, against the powers of this dark world" — all of it is rooted in the cosmic geography established at Babel and described in Deuteronomy 32:8–9.
+
+*First introduced: [[i. God Presides in the Great Assembly|Chapter 07 - God Presides in the Great Assembly]]*
+
+---
+
+## Dead Sea Scrolls
+
+A collection of Jewish manuscripts discovered between 1947 and 1956 in caves near the site of Qumran on the northwestern shore of the Dead Sea. The scrolls include biblical texts, sectarian documents, commentaries, and extra-biblical works such as 1 Enoch and Jubilees. Paleographic dating places them between approximately 250 BC and 68 AD — making them roughly 1,000 years older than the primary manuscripts underlying the Masoretic Text and contemporaneous with or predating the New Testament era.
+
+The Dead Sea Scrolls are critical for biblical textual studies because they provide manuscript evidence for the Hebrew Bible from the time of Jesus, allowing comparison with the later Masoretic tradition. In several significant cases — including Deuteronomy 32:8, where the Scrolls read "sons of God" rather than "sons of Israel" — the older manuscripts preserve readings that help recover what the original text said. The Scrolls also contained multiple copies of 1 Enoch, confirming how central that text was to Jewish religious life in the Second Temple period.
+
+*First introduced: [[i. God Presides in the Great Assembly|Chapter 07 - God Presides in the Great Assembly]]*
+
+---
+
 ## Demons
 
 The disembodied spirits of the Nephilim — the offspring born from the union of the Watchers and human women — who remain active on the earth after their bodies were destroyed. Demons are not fallen angels. Satan is a fallen angel; the imprisoned Watchers are fallen angels. Demons belong to a third category that God did not design to exist: beings born on the earth from an unauthorized union, neither fully human nor fully angelic, belonging to no category with a mapped destiny when their physical existence ended.
@@ -174,6 +194,16 @@ In Greek thought, the *Logos* was the rational principle underlying the universe
 John synthesizes all of this. For the Greek reader: the rational ground of reality you have always sensed is not an abstract force but a person. For the Jewish reader: the divine Word and Wisdom you have read about your whole life became flesh. The theological precision of John 1:1 — "with God" (distinction) and "was God" (identity) — establishes the Logos as the pre-incarnate Son, who then becomes flesh in the Incarnation (verse 14). The Logos is not a secondary or lesser divine being; he is the agent of all creation, the one through whom "all things were made."
 
 *First introduced: [[i. The Jacket Cover|Chapter 02 - The Jacket Cover]] — see also [[Chapter 02/iii. Context|Chapter 02 - Context]]*
+
+---
+
+## Masoretic Text
+
+The authoritative Hebrew manuscript tradition of the Old Testament, compiled and standardized by Jewish scholars called the Masoretes between approximately 600 and 1000 AD. The Masoretes added vowel markings and cantillation notes to the consonantal Hebrew text, preserving the received pronunciation and reading tradition that had been passed down orally. Most English translations of the Old Testament have historically relied on the Masoretic Text as their primary source, particularly the Leningrad Codex (1008 AD), the oldest complete Masoretic manuscript.
+
+The Dead Sea Scrolls discovery in 1947 provided manuscript evidence for the Hebrew Bible roughly 1,000 years older than the primary Masoretic sources. In most cases the Masoretic Text and the Dead Sea Scrolls agree closely, confirming the careful preservation of the scribal tradition. In cases where they diverge — such as Deuteronomy 32:8, where the Scrolls read "sons of God" and the Masoretic Text reads "sons of Israel" — the older witness generally carries more weight, and modern critical scholarship and many contemporary translations reflect these corrections.
+
+*First introduced: [[i. God Presides in the Great Assembly|Chapter 07 - God Presides in the Great Assembly]]*
 
 ---
 

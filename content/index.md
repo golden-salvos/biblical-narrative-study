@@ -29,6 +29,7 @@ If you ever want to come back to this Welcome page, just click on the Home butto
 - [[i. The Watchers and the Flood|04) The Watchers and the Flood]] — *Genesis 6's sons of God and the Nephilim, the flood as God's surgical response to protect the messianic bloodline, the Noahic Covenant and the sign of the rainbow, and the introduction of 1 Enoch as a supplemental source*
 - [[i. 1 Enoch — A Quick Glance|05) 1 Enoch — A Quick Glance]] — *1 Enoch establishes its audience as the last generation, traces the Watchers' sworn descent at Mount Hermon, and reveals the origin of demons as the disembodied spirits of the Nephilim still operating in the world today*
 - [[i. The Divine Council and the Seventy Nations|06) The Divine Council and the Seventy Nations]] — *How God structured spiritual authority over the post-Babel nations, why Canaan's transgression invited the giants back, and why Abraham is the answer to everything that has gone wrong since Eden*
+- [[i. God Presides in the Great Assembly|07) God Presides in the Great Assembly]] — *Deuteronomy 32 and Psalm 82 unlock the spiritual structure of the world: the divine council, the cosmic geography of the nations, God's judgment of the gods, and the framework for reading everything ahead*
 
 ### References
 - [[Glossary]] — *Key terms defined and cross-referenced across the study*
