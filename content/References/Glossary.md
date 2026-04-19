@@ -3,6 +3,35 @@
 
 ---
 
+## Abrahamic Covenant
+
+The unconditional covenant God establishes with Abraham in Genesis 12 and formalizes in Genesis 15 through a covenant-cutting ceremony. It is the first of the four covenants that form the structural framework of the biblical narrative and the one on which all subsequent covenants build.
+
+The Abrahamic Covenant contains four interlocking promises. First, Abraham will become a great nation — not a large family, but a people who will become a nation. Second, his name will be made great, a guarantee of legacy and significance. Third, the relationship between Abraham's line and the nations around it will be reciprocal: those who bless Abraham and his descendants will themselves be blessed; those who curse them will be cursed. Fourth — and most far-reaching — through Abraham's offspring all peoples on earth will be blessed.
+
+That fourth promise is the one that connects the Abrahamic Covenant to the [[Glossary#Proto-Evangelium|Proto-Evangelium]] of Genesis 3:15. The seed of the woman who will crush the serpent's head must travel through a human lineage. God is now identifying which one. The blessing that reaches all nations will eventually take the form of the [[Glossary#Messiah|Messiah]].
+
+The covenant-cutting ceremony of Genesis 15 establishes its unconditional character in the most concrete possible terms: God alone passes between the divided animals. Abraham does not. God takes both sides of the oath — he is simultaneously the suzerain making the terms and the one invoking the self-curse if those terms are not fulfilled. Abraham's faithfulness or unfaithfulness cannot void what God has sworn.
+
+The covenant sign established in Genesis 17 is circumcision — a permanent physical mark borne by every male in Abraham's household and every male descendant, a mark in the flesh of the covenant in the covenant.
+
+*First introduced: [[i. The Abrahamic Covenant|Chapter 08 - The Abrahamic Covenant]]*
+
+---
+## Akedah
+
+The Hebrew term for the near-sacrifice of Isaac described in Genesis 22, derived from the root *aqad*, meaning "to bind" — a reference to Abraham's binding of Isaac before placing him on the altar. The Akedah is one of the most studied passages in the Torah and one of the most theologically loaded texts in the Abrahamic tradition.
+
+In Jewish interpretation, the Akedah represents the culmination of God's testing of Abraham across his lifetime — the final and definitive demonstration of his faith. The ram's horn (shofar) sounded on Rosh Hashanah is traditionally associated with the ram caught in the thicket, and the Akedah is invoked in Jewish liturgy as a basis for appealing to God's mercy on behalf of Abraham's descendants.
+
+In Christian interpretation, the Akedah functions as one of the most precise [[Glossary#Typology|typological]] prefigurations of the crucifixion: the beloved son, the wood carried up the mountain, the three-day journey, the willing submission, the substitute provided at the last moment, the thorns around the ram's head, and the location — Mount Moriah, later identified as the Temple Mount.
+
+In Islamic tradition, the Quran's account of the near-sacrifice does not name the son, and Islamic scholarly consensus has generally identified him as Ishmael — the firstborn — rather than Isaac. This divergence is not academic: it underlies competing claims to the Abrahamic inheritance and shapes the significance each tradition attaches to the Temple Mount in Jerusalem.
+
+*First introduced: [[i. The Abrahamic Covenant|Chapter 08 - The Abrahamic Covenant]] — see also [[Chapter 08/iii. Context|Chapter 08 - Context]]*
+
+---
+
 ## Alpha and Omega
 
 The first and last letters of the Greek alphabet, used by Jesus in Revelation 22:13 as a title for himself: *"I am the Alpha and the Omega, the First and the Last, the Beginning and the End."* He states it three ways in a single breath, each formulation expressing the same reality from a slightly different angle.
@@ -62,6 +91,15 @@ The theological framework — sometimes called the Deuteronomy 32 Worldview — 
 This framework is the essential background for reading the entire Old Testament. When the prophets describe military defeats as evidence of a foreign god overpowering Israel's God, or when Elijah confronts the prophets of Baal, or when Paul tells believers in Ephesians 6 that "our struggle is not against flesh and blood, but against rulers, against authorities, against the powers of this dark world" — all of it is rooted in the cosmic geography established at Babel and described in Deuteronomy 32:8–9.
 
 *First introduced: [[i. God Presides in the Great Assembly|Chapter 07 - God Presides in the Great Assembly]]*
+
+---
+## Davidic Covenant
+
+The covenant God makes with King David, recorded in 2 Samuel 7, promising that David's line will produce a son whose throne will be established forever. God says: *"I will establish the throne of his kingdom forever... I will be his father, and he will be my son"* (2 Samuel 7:13–14). Like the Abrahamic Covenant, the Davidic Covenant is unconditional — God promises to maintain the line of David regardless of the failures of individual kings.
+
+The Davidic Covenant forms the third wall of the covenant framework: it narrows the lens of the Abrahamic promise by specifying that the royal line of the [[Glossary#Messiah|Messiah]] will come specifically from David's house. This is why Matthew's Gospel opens with a genealogy tracing Jesus back through David to Abraham — the genealogy is not padding; it is the fulfillment of the Davidic Covenant on the first page of the New Testament.
+
+*First introduced: [[i. The Abrahamic Covenant|Chapter 08 - The Abrahamic Covenant]]*
 
 ---
 
@@ -242,6 +280,17 @@ Third, the Transfiguration — in which Jesus revealed himself in full divine gl
 *First introduced: [[i. 1 Enoch — A Quick Glance|Chapter 05 - 1 Enoch — A Quick Glance]]*
 
 ---
+## Mosaic Covenant
+
+The conditional covenant God establishes with the nation of Israel at Mount Sinai through Moses, recorded in Exodus 19–24 and elaborated throughout Leviticus, Numbers, and Deuteronomy. Unlike the three other major covenants in Scripture — Abrahamic, Davidic, and New — the Mosaic Covenant is bilateral: both parties make binding commitments, and the blessings Israel receives are contingent on its obedience to the covenant's terms.
+
+The Mosaic Covenant functions as a marriage covenant. God takes Israel as his people; Israel commits to walk in his ways. Obedience brings blessing — national flourishing, protection, and the continued presence of God among them. Disobedience brings the curses laid out in Deuteronomy 28 — ultimately including exile from the land. The covenant does not eliminate God's relationship with Israel, but it does establish consequences for breaking it.
+
+The Mosaic Covenant was never designed to be permanent. Paul argues at length in Galatians and Romans that it was added for a specific period — to govern the nation of Israel and to make sin's character explicit — until the [[Glossary#Messiah|Messiah]] came as the fulfillment of the Abrahamic promise. The New Covenant, established in Jesus' blood, replaces the Mosaic as the governing covenant for the people of God.
+
+*First introduced: [[i. The Abrahamic Covenant|Chapter 08 - The Abrahamic Covenant]]*
+
+---
 
 ## Nephilim
 
@@ -254,6 +303,17 @@ The Nephilim appear in the biblical record both before the flood (Genesis 6:4) a
 *First introduced: [[i. The Watchers and the Flood|Chapter 04 - The Watchers and the Flood]]*
 *Also relevant: [[i. 1 Enoch — A Quick Glance|Chapter 05 - 1 Enoch — A Quick Glance]]*
 *Also relevant: [[i. The Divine Council and the Seventy Nations|Chapter 06 - The Divine Council and the Seventy Nations]]*
+
+---
+## New Covenant
+
+The covenant established by Jesus at the Last Supper and enacted through his death and resurrection, replacing the [[Glossary#Mosaic Covenant|Mosaic Covenant]] as the governing covenant between God and his people. Announced in Jeremiah 31:31–34, where God declares: *"I will make a new covenant with the people of Israel... I will put my law in their minds and write it on their hearts."* Jesus identifies the cup of communion as *"the new covenant in my blood"* (Luke 22:20).
+
+The New Covenant is unconditional from God's side — like the Abrahamic Covenant, it does not depend on human faithfulness for its validity. It resolves what the Mosaic Covenant could not: rather than an external code requiring compliance, it operates through the internal transformation of those who receive the Holy Spirit. The New Covenant is the mechanism through which Gentiles are grafted into the promises God made to Abraham — it is the fulfillment, not the cancellation, of the Abrahamic line.
+
+Every celebration of communion is a participation in the New Covenant — a declaration that the bill has been paid, the relationship is restored, and the inheritance is secured.
+
+*First introduced: [[i. The Abrahamic Covenant|Chapter 08 - The Abrahamic Covenant]]*
 
 ---
 
@@ -323,6 +383,17 @@ Read against the cross and resurrection, the shape resolves completely. Satan st
 The Proto-Evangelium is the interpretive thread that runs through the entire biblical narrative. Every sacrifice, every covenant, every messianic prophecy, every act of divine deliverance is downstream of this first announcement. The story is not wandering toward a resolution — the resolution was announced in the garden, in the very moment the problem was introduced.
 
 *First introduced: [[i. The Fall|Chapter 03 - The Fall]]*
+
+---
+## Replacement Theology
+
+The theological position claiming that God is finished with the nation of Israel and has transferred her covenantal promises to the church, which has now replaced Israel as the recipient of those promises. On this view, references to Israel in biblical prophecy should be read as referring to the church, and the modern nation-state of Israel carries no particular theological significance.
+
+This position is at odds with Paul's argument in Romans 11, where he explicitly uses the image of an olive tree to describe the relationship between Israel and Gentile believers. Israel is the cultivated tree — the original, rooted plant. Gentile believers are wild branches that have been grafted in. They share the root and the sap. They do not replace the tree. Paul warns against exactly the kind of arrogance that Replacement Theology encourages: *"Do not be arrogant toward the branches... if God did not spare the natural branches, neither will he spare you"* (Romans 11:18, 21).
+
+Beyond the theological problem, Replacement Theology carries practical risk. The Genesis 12:3 promise — that those who bless Abraham's descendants will be blessed, and those who curse them will be cursed — does not carry an expiration date in Scripture. Positioning the church as having replaced Israel does not eliminate that promise; it positions the one making the substitution on the wrong side of it.
+
+*First introduced: [[i. The Abrahamic Covenant|Chapter 08 - The Abrahamic Covenant]]*
 
 ---
 
@@ -419,6 +490,19 @@ God's response was to confuse the builders' shared language, making coordination
 The Babel event is the historical occasion described in Deuteronomy 32:8–9, when God divided mankind, set up boundaries for the peoples, and assigned governance of the resulting nations to the sons of God. The seventy nations of the Table of Nations and the seventy divine council members assigned to govern them correspond to each other, with the Babel scattering as the event that created the need for that assignment.
 
 *First introduced: [[i. The Divine Council and the Seventy Nations|Chapter 06 - The Divine Council and the Seventy Nations]]*
+
+---
+## Typology
+
+The interpretive framework, built into Scripture itself, in which persons, institutions, or events in the Old Testament are recognized as deliberate patterns that God designed to preview later and greater realities — most centrally, the person and work of Jesus. A "type" (from the Greek *typos*, meaning an impression or pattern) is the earlier figure or event; the "antitype" is its fulfillment.
+
+Typology is not a reading strategy imported from outside the text. The New Testament writers present it as the interpretive framework Jesus himself used and taught. Paul calls Adam a "pattern of the one to come" (Romans 5:14). The writer of Hebrews treats the entire Levitical priesthood as a "shadow" of Christ's final priestly work (Hebrews 10:1). Jesus reads the bronze serpent lifted in the wilderness (Numbers 21) as pointing to his own lifting up on the cross (John 3:14).
+
+Two of the most sustained typological figures in the Old Testament appear in the final chapters of Genesis: Isaac, whose near-sacrifice on Mount Moriah prefigures the crucifixion in structural detail, and Joseph, whose arc — beloved son betrayed by brothers, handed to foreigners, treated as a slave, imprisoned though innocent, and elevated to the right hand of a king to save those who rejected him — maps with precision onto the life, death, and resurrection of Jesus.
+
+Recognizing typological patterns does not reduce the Old Testament figures to mere symbols. Their lives were real, their faithfulness was real, and their suffering was real. What typology adds is the recognition that the same God who knows the end from the beginning was writing the story in deliberate layers — and the deeper layer points always toward the one who is the beginning and the end.
+
+*First introduced: [[i. The Abrahamic Covenant|Chapter 08 - The Abrahamic Covenant]] — see also [[Chapter 08/iii. Context|Chapter 08 - Context]]*
 
 ---
 
