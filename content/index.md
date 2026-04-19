@@ -30,7 +30,7 @@ If you ever want to come back to this Welcome page, just click on the Home butto
 - [[i. 1 Enoch — A Quick Glance|05) 1 Enoch — A Quick Glance]] — *1 Enoch establishes its audience as the last generation, traces the Watchers' sworn descent at Mount Hermon, and reveals the origin of demons as the disembodied spirits of the Nephilim still operating in the world today*
 - [[i. The Divine Council and the Seventy Nations|06) The Divine Council and the Seventy Nations]] — *How God structured spiritual authority over the post-Babel nations, why Canaan's transgression invited the giants back, and why Abraham is the answer to everything that has gone wrong since Eden*
 - [[i. God Presides in the Great Assembly|07) God Presides in the Great Assembly]] — *Deuteronomy 32 and Psalm 82 unlock the spiritual structure of the world: the divine council, the cosmic geography of the nations, God's judgment of the gods, and the framework for reading everything ahead*
-- [[i. The Abrahamic Covenant|The Abrahamic Covenant]] — *The four-covenant framework of Scripture, the call of Abraham, the covenant-cutting ceremony of Genesis 15, the origin of the Islam-Israel conflict in Isaac and Ishmael, and the sacrifice of Isaac as a typological portrait of the cross*
+- [[i. The Abrahamic Covenant|08) The Abrahamic Covenant]] — *The four-covenant framework of Scripture, the call of Abraham, the covenant-cutting ceremony of Genesis 15, the origin of the Islam-Israel conflict in Isaac and Ishmael, and the sacrifice of Isaac as a typological portrait of the cross*
 
 ### References
 - [[Glossary]] — *Key terms defined and cross-referenced across the study*
