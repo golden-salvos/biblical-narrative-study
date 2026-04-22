@@ -289,6 +289,7 @@ The Mosaic Covenant functions as a marriage covenant. God takes Israel as his pe
 The Mosaic Covenant was never designed to be permanent. Paul argues at length in Galatians and Romans that it was added for a specific period — to govern the nation of Israel and to make sin's character explicit — until the [[Glossary#Messiah|Messiah]] came as the fulfillment of the Abrahamic promise. The New Covenant, established in Jesus' blood, replaces the Mosaic as the governing covenant for the people of God.
 
 *First introduced: [[i. The Abrahamic Covenant|Chapter 08 - The Abrahamic Covenant]]*
+*Also relevant: [[i. Then You Will Know|Chapter 09 - Then You Will Know]]*
 
 ---
 
@@ -326,6 +327,18 @@ The Noahic Covenant is distinguished from every other biblical covenant by its s
 The sign of the covenant is the rainbow. Unlike every other covenant sign in Scripture, it is produced by natural law rather than by any human act — light refracted through water in the atmosphere, appearing over every part of the earth. In later prophetic and apocalyptic literature, the rainbow consistently marks the appearance of God's own glory: Ezekiel 1:28 describes the divine radiance as "like a rainbow in the clouds," and Revelation 4:3 places a rainbow around the throne of God. The covenant sign and the marker of divine presence are the same image.
 
 *First introduced: [[i. The Watchers and the Flood|Chapter 04 - The Watchers and the Flood]]*
+
+---
+
+## Passover
+
+The feast established in Exodus 12 to commemorate God's deliverance of Israel from Egypt on the night of the final plague. Observed annually on the 14th of Nisan, it involves a lamb without defect slaughtered at twilight, its blood applied to the doorposts and lintel of the household, the meat eaten in haste with unleavened bread and bitter herbs. When God passed through Egypt that night to strike every firstborn, he passed over the houses marked with blood. The name comes directly from this act: he passed over.
+
+The Passover is one of the most structurally precise typological previews of the crucifixion in the entire Old Testament. The lamb must be without defect — paralleling the claim that Christ offered himself as "a lamb without blemish or defect" (1 Peter 1:19). The blood must be actively applied to provide protection — not merely possessed. The household eats in haste, dressed for immediate travel, living as people already on their way somewhere. Paul identifies the connection explicitly: *"Christ, our Passover lamb, has been sacrificed"* (1 Corinthians 5:7). At the Last Supper, Jesus takes the cup traditionally associated in Passover liturgy with the redemption language of Exodus 6 and declares it *"the new covenant in my blood"* (Luke 22:20), placing the New Covenant institution directly within the Passover frame it was designed to fulfill.
+
+The Passover also marks the beginning of the Israelite religious calendar — Exodus 12:2 designates its month as the first month of the year. It is not simply the founding event of the nation. It is the event around which all of Israel's subsequent time is oriented.
+
+*First introduced: [[i. Then You Will Know|Chapter 09 - Then You Will Know]]*
 
 ---
 
@@ -407,6 +420,18 @@ Revelation is written in a genre called *apocalyptic literature*, which uses viv
 
 ---
 
+## Shekinah Glory
+
+The visible, tangible manifestation of God's presence among his people. The word *Shekinah* does not appear in the biblical text itself but derives from the Hebrew *shakan*, meaning "to dwell" or "to settle," and was developed in rabbinic literature to name what the text describes but never labels: the luminous, cloud-like phenomenon that marks the immediate presence of God in a physical location.
+
+The Shekinah glory appears most dramatically when the cloud fills the Tabernacle at its consecration — so completely that Moses cannot enter (Exodus 40:34–35) — and at the dedication of Solomon's Temple, when the cloud fills the newly built structure so that the priests cannot perform their service (1 Kings 8:10–11). Both occasions mark the moment when God formally takes up residence in a new dwelling. The Shekinah is not simply dramatic imagery. It is the reality of the transcendent God making his immediate presence perceptible within a physical location.
+
+The pillar of cloud and fire that led Israel through the wilderness is an expression of the same presence in a mobile form: visible guidance for a people on the move. The New Testament picks up the concept directly. John's statement that the Word *"tabernacled among us"* (John 1:14, using the same Greek root as the Hebrew *shakan*) identifies the Incarnation as the Shekinah in human form — God taking up residence not in a tent but in a body. In Revelation, the same cloud-glory associated with God's presence in the Tabernacle and Temple appears again in the final vision of God dwelling with his people (Revelation 21:3).
+
+*First introduced: [[i. Then You Will Know|Chapter 09 - Then You Will Know]]*
+
+---
+
 ## Shame
 
 In the biblical framework, shame is not merely an emotion but a mechanism — specifically, one of Satan's primary tools for isolating human beings from God and from one another. Its first appearance in Scripture is in Genesis 3:7-10, immediately following the Fall. Adam and Eve's recognition of their nakedness, their covering of themselves with fig leaves, and their hiding from God when they heard him approach all represent the same movement: away from the relationship in which their need could actually be addressed, and toward increasingly inadequate self-management.
@@ -426,6 +451,18 @@ The era of Jewish history roughly spanning 516 BC to 70 AD, bookended by the reb
 Much of the extra-biblical literature referenced in this study originates from this period. The religious traditions, messianic expectations, and interpretive frameworks that shaped the disciples — and that Jesus was constantly engaging and correcting — were formed during these centuries.
 
 *First introduced: [[i. Reading the Last Chapter|Chapter 01 - Reading the Last Chapter]]*
+
+---
+
+## Song of Moses
+
+The song sung by Moses and the Israelites in Exodus 15 following the crossing of the Red Sea and the destruction of Pharaoh's army — one of the oldest substantial pieces of poetry in the Hebrew Bible and one of the structurally most significant in the study of Revelation.
+
+Its central declaration — *"Who among the gods is like you, O Lord? Who is like you — majestic in holiness, awesome in glory, working wonders?"* (Exodus 15:11) — is addressed to the divine council, the spiritual powers governing the nations, and carries an implicit but total answer: no one. The song also looks forward to the effect the Exodus will have on the surrounding nations: the peoples of Philistia, Edom, Moab, and Canaan will hear and tremble, *"until the people you bought pass by"* (Exodus 15:16) — the language of divine purchase appearing at the first moment of Israel's corporate worship.
+
+The Song of Moses reappears in Revelation 15:3, where those who have overcome the beast stand on a sea of glass and sing *"the song of Moses the servant of God and the song of the Lamb."* The two deliverances — Israel from Egypt and the redeemed from final judgment — are treated as a single song sung to the same God. The first great worship response of God's redeemed people becomes the model for the last.
+
+*First introduced: [[i. Then You Will Know|Chapter 09 - Then You Will Know]]*
 
 ---
 
@@ -456,6 +493,18 @@ When Jesus called himself the Son of Man, he was drawing on both layers simultan
 
 *First introduced: [[i. Reading the Last Chapter|Chapter 01 - Reading the Last Chapter]]*
 *Also relevant: [[i. The Jacket Cover|Chapter 02 - The Jacket Cover]]*
+
+---
+
+## Tabernacle
+
+The portable sanctuary built by the Israelites in the wilderness according to the precise specifications God gave Moses on Sinai, serving as God's dwelling place among his people throughout the forty years of desert travel and into the early period of settlement in Canaan. Also called the Tent of Meeting (*Ohel Mo'ed*) — the place where God met with Moses and, through that meeting, with Israel. It was the forerunner of the Temple Solomon would later build in Jerusalem, and both were modeled, according to Hebrews 8:5, on a heavenly reality that preceded them.
+
+The Tabernacle's structure reflected a graduated approach to God's immediate presence. The outer court was accessible to all Israelites with a sacrifice to offer. The Holy Place was accessible only to the priests on duty. The Holy of Holies — where the Ark of the Covenant rested between the cherubim — was accessible only to the High Priest, and only once a year on the Day of Atonement. This architecture did not reflect God's desire to be distant from his people. It reflected the problem that a holy God cannot be approached carelessly by an unholy one, and that the approach requires provision for the gap.
+
+The letter to the Hebrews treats the entire Tabernacle structure as a "shadow of heavenly things" (Hebrews 8:5) — a type pointing toward the direct access to God made possible through Christ, whose death tore the Temple veil from top to bottom (Matthew 27:51), opening the Holy of Holies to anyone who approaches through him. The imagery of the Tabernacle — particularly the Ark, the mercy seat, the lampstand, and the altar of incense — recurs throughout the vision of Revelation as part of the heavenly sanctuary the earthly Tabernacle was always copying.
+
+*First introduced: [[i. Then You Will Know|Chapter 09 - Then You Will Know]]*
 
 ---
 
@@ -521,4 +570,17 @@ The full account of the Watchers — their oath before descending, what they tau
 *Also relevant: [[i. The Divine Council and the Seventy Nations|Chapter 06 - The Divine Council and the Seventy Nations]]*
 
 ---
+
+## Yahweh
+
+The proper name of the God of Israel as revealed to Moses at the burning bush. In Hebrew it is written with four consonants — Yod-He-Vav-He (יהוה) — and is therefore referred to by scholars as the Tetragrammaton (from the Greek for "four-letter word"). Most English Bibles render it as LORD in small capital letters to distinguish it from the ordinary word for Lord (*Adonai*). The name's actual ancient pronunciation is uncertain; "Yahweh" is the most widely accepted scholarly reconstruction. "Jehovah," a later form, is a hybrid that combined the consonants of the Tetragrammaton with the vowel sounds of *Adonai* in a way that was never intended to be pronounced.
+
+The name is derived from the Hebrew verb *hayah* ("to be") and carries its meaning in its grammar: it is a causative form, sometimes understood as "He who causes to be" or simply "I AM." When God answers Moses' question about his name in Exodus 3:14, he says *"I AM WHO I AM"* — the name is simultaneously a statement about his nature and an act of self-disclosure. Every other named deity in the ancient world had an origin story; their names referred to roles, domains, or characteristics they possessed within a created order they also inhabited. The Tetragrammaton asserts something categorically different: this one simply *is*, without cause, without origin, without the need for anything outside himself to account for his existence.
+
+In Jewish tradition, the name is too holy to pronounce and is replaced in reading with *Adonai* or, in casual speech, *HaShem* ("The Name"). When the Jewish scholars who produced the Septuagint rendered the Hebrew text into Greek, they translated the Tetragrammaton as *Kyrios* ("Lord") — the same word the New Testament writers then use both for the God of Israel and for Jesus, a convergence that is theologically deliberate. Jesus' statement *"Before Abraham was, I AM"* (John 8:58) uses the same self-referential present tense, invoking the divine name directly — which is precisely why the crowd immediately moves to stone him.
+
+*First introduced: [[i. Then You Will Know|Chapter 09 - Then You Will Know]]*
+
+---
+
 *This glossary grows with each chapter. Terms are linked inline throughout the study notes.*
