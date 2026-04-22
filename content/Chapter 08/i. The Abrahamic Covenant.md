@@ -2,6 +2,12 @@
 > — Genesis 12:2–3
 
 ---
+## Audio Version
+
+![[[Audio] Chapter 08.mp3]]
+
+---
+
 ## Overview
 
 The previous sessions established the stage: creation, the Fall, the Watchers' rebellion, the flood, and God's dispersal of the nations through the confusion of languages at Babel. Seventy nations were assigned to the sons of God. Humanity was fractured, living under foreign spiritual authority, worshipping gods that were not God. Into that world, God does something entirely unexpected. He singles out one man — a foreigner living among pagans, worshipping a foreign god — and announces that through this man and his descendants, every nation on earth will eventually be blessed. The Abrahamic Covenant is not a sidebar in biblical history. It is the turn on which everything that follows depends.
