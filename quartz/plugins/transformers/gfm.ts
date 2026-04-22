@@ -24,7 +24,7 @@ export const GitHubFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>> =
     htmlPlugins() {
       if (opts.linkHeadings) {
         return [
-          rehypeSlug,
+	  rehypeSlug,
           [
             rehypeAutolinkHeadings,
             {

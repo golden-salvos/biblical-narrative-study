@@ -4,9 +4,10 @@
 ---
 ## Audio Version
 
-<audio controls> 
-	<source src="/static/audio/chapter-08.mp3" type="audio/mpeg"> 
-</audio>
+<figure>
+<audio controls src="/static/audio/chapter-08.mp3"></audio>
+</figure>
+
 ---
 
 ## Overview
