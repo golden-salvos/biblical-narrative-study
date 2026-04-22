@@ -4,8 +4,9 @@
 ---
 ## Audio Version
 
-![[[Audio] Chapter 08.mp3]]
-
+<audio controls> 
+	<source src="/static/audio/chapter-08.mp3" type="audio/mpeg"> 
+</audio>
 ---
 
 ## Overview
