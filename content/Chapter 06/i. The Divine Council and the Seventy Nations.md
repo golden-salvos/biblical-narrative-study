@@ -2,6 +2,11 @@
 > — Deuteronomy 32:8–9
 
 ---
+## Audio Version
+
+Coming Soon!
+
+---
 
 ## Overview
 

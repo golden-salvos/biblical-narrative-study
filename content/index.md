@@ -32,6 +32,7 @@ If you ever want to come back to this Welcome page, just click on the Home butto
 - [[i. God Presides in the Great Assembly|07) God Presides in the Great Assembly]] — *Deuteronomy 32 and Psalm 82 unlock the spiritual structure of the world: the divine council, the cosmic geography of the nations, God's judgment of the gods, and the framework for reading everything ahead*
 - [[i. The Abrahamic Covenant|08) The Abrahamic Covenant]] — *The four-covenant framework of Scripture, the call of Abraham, the covenant-cutting ceremony of Genesis 15, the origin of the Islam-Israel conflict in Isaac and Ishmael, and the sacrifice of Isaac as a typological portrait of the cross*
 - [[i. Then You Will Know|09) Then You Will Know]] — *The plagues as God's systematic war against Egypt's gods, the Passover as the prototype of the crucifixion, and the three pillars of the Mosaic Covenant established at Sinai*
+- [[i. The Feasts of the Lord and the Throne of David|10) The Feasts of the Lord and the Throne of David]] — *God's prophetic calendar in Leviticus 23, the blessings and curses of the Mosaic Covenant, the conquest of Canaan as holy war against the Nephilim, and the Davidic Covenant as the narrowing of the messianic promise to the hidden line that would produce Jesus*
 
 ### References
 - [[Glossary]] — *Key terms defined and cross-referenced across the study*

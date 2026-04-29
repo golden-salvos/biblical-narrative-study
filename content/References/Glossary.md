@@ -42,6 +42,28 @@ The significance goes deeper than simply being present at the start and finish o
 
 ---
 
+## Anakites
+
+The post-flood Nephilim clans occupying portions of Canaan when Israel arrived to take the land, identified as descendants of Anak. The name Anak and its derivatives — Anakim, Anakites — appear in Numbers 13, Deuteronomy 9, Joshua 11, and elsewhere as designations for the giant peoples encountered in the land of Canaan. The scouts Moses sent into Canaan specifically noted the Anakites as the reason the land could not be taken: "We seemed like grasshoppers in our own eyes, and we looked the same to them" (Numbers 13:33).
+
+The Anakites are among the post-flood survivors of the Nephilim line — the giants whose presence in Canaan was one of the factors that made that specific land spiritually charged territory. Joshua conducted a systematic campaign to eliminate them from Israelite territory, described in Joshua 11:21-22, but survivors remained in three cities outside Israel's boundaries: Gaza, Gath, and Ashdod. Goliath was a descendant of the Anakim from Gath. His defeat by David, and the subsequent killing of Goliath's brothers by David's warriors, completed the elimination of the Anakites that Joshua's campaign had begun.
+
+*First introduced: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]*
+
+---
+
+## Appointed Times
+
+The English rendering of the Hebrew *moedim* — a term used in Leviticus 23 to describe the seven annual festivals God established for Israel. The word is more precisely translated "appointed meetings" or "scheduled times," carrying the sense of a pre-arranged moment between two parties. When applied to the festivals, it conveys that these are not merely traditional celebrations but dates God has marked on his calendar as moments when he intends to act.
+
+The seven appointed times are: Passover (14th day of the first month), Unleavened Bread (15th-21st of the first month), First Fruits (the day after the Sabbath following Unleavened Bread), Feast of Weeks/Pentecost (fifty days after First Fruits), Feast of Trumpets (1st day of the seventh month), Day of Atonement (10th day of the seventh month), and Feast of Tabernacles (15th-21st of the seventh month). The Sabbath is also noted in Leviticus 23 as a framing principle but is a weekly observance rather than one of the seven annual festivals.
+
+Four of the seven have been fulfilled in Jesus' first coming — Passover (crucifixion), Unleavened Bread (burial and sinless offering), First Fruits (resurrection), and Feast of Weeks/Pentecost (descent of the Holy Spirit) — all on the calendar days Israel was already observing. The remaining three (Trumpets, Day of Atonement, and Tabernacles) await fulfillment at his return.
+
+*First introduced: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]*
+
+---
+
 ## Azazel
 
 One of the principal Watchers identified in 1 Enoch as bearing primary responsibility for what was taught to humanity — specifically the arts of warfare, metallurgy, and the use of costly ornamentation. Per 1 Enoch 10, God directed Raphael to bind Azazel hand and foot and cast him into the wilderness, where he is covered in rocks and darkness until the day of final judgment.
@@ -49,6 +71,18 @@ One of the principal Watchers identified in 1 Enoch as bearing primary responsib
 The name appears directly in Leviticus 16, the Day of Atonement ceremony, where one of the two goats is designated for Azazel and released into the wilderness. The Hebrew *l'Azazel* (for Azazel) appears four times in that passage. The scapegoat sent to the wilderness was not merely a symbol of sin removal in the abstract — it was sent to the specific location of the bound and imprisoned Watcher to whom, as 1 Enoch states explicitly, "all sin" is ascribed. The sacrificial system thus acknowledges, built into its very structure, the cosmic origin of the problem it exists to address.
 
 *First introduced: [[i. 1 Enoch — A Quick Glance|Chapter 05 - 1 Enoch — A Quick Glance]]*
+
+---
+
+## Balaam
+
+A non-Israelite prophet from Pethor, near the Euphrates River, hired by Balak king of Moab to curse Israel as the nation advanced toward Canaan. The account is recorded in Numbers 22–24. Despite repeated attempts, Balaam could only speak what the Lord put in his mouth — which was blessing, not cursing. His four oracles over Israel constitute some of the most concentrated messianic prophecy outside the major prophets.
+
+Balaam's third oracle identifies Israel's future king as greater than Agog — a figure the Septuagint and significant strands of first-century Jewish scholarship identified with Gog, the end-times adversary of Ezekiel 38–39. His fourth oracle announces: "A star will come out of Jacob. A scepter will rise out of Israel" — royal and messianic language that later Jewish and Christian interpreters consistently connected to the coming king. The lion imagery in Balaam's oracles matches Jacob's blessing of Judah in Genesis 49 and anticipates the lion of Judah title applied to Jesus in Revelation 5.
+
+Balaam's subsequent history is complicated. Numbers 31:16 and Revelation 2:14 indicate that he later advised the Midianites on how to lead Israel into sexual immorality and idolatry — a strategy that succeeded where direct cursing had failed. He is therefore a figure held in deep ambivalence in both Jewish and Christian tradition: an authentic conduit of genuine prophecy who nonetheless later acted against the people of God.
+
+*First introduced: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]*
 
 ---
 
@@ -81,6 +115,7 @@ The theological grounding comes from John 1:18: *"No one has ever seen God, but 
 Christophanies matter for this study because they establish Jesus not as a New Testament figure who arrives late in the story, but as the one who has been present, active, and revealing the Father throughout the entire biblical narrative.
 
 *First introduced: [[i. The Jacket Cover|Chapter 02 - The Jacket Cover]] — see also [[Chapter 02/iii. Context|Chapter 02 - Context]]*
+*Also relevant: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]*
 
 ---
 
@@ -100,6 +135,7 @@ The covenant God makes with King David, recorded in 2 Samuel 7, promising that D
 The Davidic Covenant forms the third wall of the covenant framework: it narrows the lens of the Abrahamic promise by specifying that the royal line of the [[Glossary#Messiah|Messiah]] will come specifically from David's house. This is why Matthew's Gospel opens with a genealogy tracing Jesus back through David to Abraham — the genealogy is not padding; it is the fulfillment of the Davidic Covenant on the first page of the New Testament.
 
 *First introduced: [[i. The Abrahamic Covenant|Chapter 08 - The Abrahamic Covenant]]*
+*Also relevant: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]*
 
 ---
 
@@ -174,6 +210,7 @@ Abel's offering in Genesis 4 is the earliest illustration of this principle in S
 First fruits giving predates the formal tithe established in the Mosaic Law by centuries. The tithe (ten percent) was a legally specified institution within Israel's social and religious structure, with specific purposes and designated recipients (particularly the Levites). First fruits reflects the heart disposition that underlies any genuine act of giving to God: the acknowledgment that everything already came from him, and the trust that he will continue to provide. The tithe was an expression of the first fruits principle — the principle came first, and the law gave it a specific form.
 
 *First introduced: [[i. The Fall|Chapter 03 - The Fall]]*
+*Also relevant: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]* 
 
 ---
 
@@ -198,6 +235,18 @@ This concept answers the question of why God has not yet ended history and estab
 This also explains why believers are left in the world after coming to faith rather than being immediately taken home. They are left here on mission — as agents of the Holy Spirit in bringing others into the kingdom.
 
 *First introduced: [[i. The Jacket Cover|Chapter 02 - The Jacket Cover]]*
+
+---
+
+## Gog
+
+The name used in Ezekiel 38–39 for the leader of the great end-times military coalition that moves against Israel before the final judgment. Gog is identified in Ezekiel as coming from the land of Magog, out of the far north, and leading an alliance of nations against a restored Israel. The War of Gog and Magog described in Ezekiel 38–39 is among the most debated prophetic passages in the Old Testament, and its relationship to the events described in Revelation is a point of ongoing scholarly discussion.
+
+Gog enters this study through Balaam's third oracle in Numbers 24, where the Septuagint reads the king who will be greater than Agog — with "Agog" widely identified in the first-century Jewish interpretive tradition as Gog, the end-times adversary. The connection signals that even in Moses' time, the figure who would oppose Israel at the end of the age was being anticipated. Jesus — Israel's ultimate king — is the one whose kingdom will surpass and defeat this adversary.
+
+*(The full treatment of Gog, the War of Armageddon, and the relationship of Ezekiel 38–39 to Revelation will be addressed when the study reaches those texts.)*
+
+*First introduced: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]*
 
 ---
 
@@ -304,6 +353,7 @@ The Nephilim appear in the biblical record both before the flood (Genesis 6:4) a
 *First introduced: [[i. The Watchers and the Flood|Chapter 04 - The Watchers and the Flood]]*
 *Also relevant: [[i. 1 Enoch — A Quick Glance|Chapter 05 - 1 Enoch — A Quick Glance]]*
 *Also relevant: [[i. The Divine Council and the Seventy Nations|Chapter 06 - The Divine Council and the Seventy Nations]]*
+*Also relevant: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]* 
 
 ---
 ## New Covenant
@@ -407,6 +457,18 @@ This position is at odds with Paul's argument in Romans 11, where he explicitly 
 Beyond the theological problem, Replacement Theology carries practical risk. The Genesis 12:3 promise — that those who bless Abraham's descendants will be blessed, and those who curse them will be cursed — does not carry an expiration date in Scripture. Positioning the church as having replaced Israel does not eliminate that promise; it positions the one making the substitution on the wrong side of it.
 
 *First introduced: [[i. The Abrahamic Covenant|Chapter 08 - The Abrahamic Covenant]]*
+
+---
+
+## Resurrection Body
+
+The glorified, transformed, eternal body that believers will receive at the resurrection of the dead, distinct from the physical mortal body occupied in the present age and distinct from being merely raised from the dead. The distinction is important: when Lazarus was raised in John 11, he returned to the same mortal body — still subject to sin, decay, and eventual death. When Jesus rose on the third day, he received a body categorically different — one that could appear in a locked room without using the door, that was not always immediately recognizable, that no longer operated under the constraints of mortal existence, and that will never be subject to death again.
+
+Paul develops this distinction at length in 1 Corinthians 15, using the image of a seed and a plant: the earthly body is the seed sown into the ground; the resurrection body is the plant that emerges — related to what went in, but dramatically different in form and nature. Jesus' resurrection body is, in Paul's language, the "first fruit" — the first of its kind, guaranteeing that the full harvest will follow. All who belong to Christ will receive their resurrection bodies at his coming (1 Corinthians 15:23), not at the moment of individual death.
+
+The souls of believers who have died before the resurrection are present with God — conscious, as Revelation 6:9-11 indicates — but not yet in resurrection bodies. The resurrection body is the completion of redemption, not its beginning. The New Testament treats the resurrection as the bodily dimension of the restoration of all things, not merely a spiritual event: the same created, physical world God declared good at the beginning is the world he intends to restore and dwell in permanently.
+
+*First introduced: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]*
 
 ---
 

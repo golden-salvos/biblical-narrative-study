@@ -3,6 +3,11 @@
 > — John 1:1–3
 
 ---
+## Audio Version
+
+Coming Soon!
+
+---
 
 ## Overview
 

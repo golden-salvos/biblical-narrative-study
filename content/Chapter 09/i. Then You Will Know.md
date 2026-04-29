@@ -2,6 +2,11 @@
 > — Exodus 6:7
 
 ---
+## Audio Version
+
+Coming Soon!
+
+---
 
 ## Overview
 
