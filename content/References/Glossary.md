@@ -18,6 +18,19 @@ The covenant sign established in Genesis 17 is circumcision — a permanent phys
 *First introduced: [[i. The Abrahamic Covenant|Chapter 08 - The Abrahamic Covenant]]*
 
 ---
+
+## Agapē
+
+The Greek word (ἀγάπη) used throughout the New Testament for the highest order of love — unconditional, self-giving, and entirely oriented toward the welfare of its object rather than the preferences or needs of the one loving. It is the word used in John 3:16 ("For God so *loved* the world"), in Paul's definition of love in 1 Corinthians 13, and in Jesus' new command to his disciples in John 13:34. In everyday Greek the word could carry relatively ordinary meanings, but the New Testament reshapes it into a theologically precise term for love that gives at cost to itself with no expectation of return.
+
+*Agapē* is not a human capacity. It is the love of God himself, and it flows through people who have received it from its source. Paul states this plainly in Romans 5:5: *"God's love has been poured out into our hearts through the Holy Spirit."* We love with *agapē* only because we have received it, not because we have cultivated it. This is why Jesus' new command — "love one another as I have loved you" — is not simply a raised standard but a description of a different kind of love altogether: one that the Holy Spirit supplies to those in whom he lives.
+
+The distinction between *agapē* and *phileō* (warm, brotherly affection) comes into sharpest focus in John 21:15–17, where Jesus asks Peter three times whether he loves him. Jesus uses *agapē* in the first two questions; Peter consistently responds with *phileō*, being honest about what he can offer in that moment. On the third exchange Jesus meets him with *phileō* — acknowledging where Peter actually is and commissioning him anyway. The transformation of Peter's love into something capable of leading him eventually to his own death was not accomplished by Peter's greater effort but by the Spirit poured out at Pentecost.
+
+*First introduced: [[i. A New Creation|Chapter 12 — A New Creation]] — see also [[Chapter 12/iii. Context|Chapter 12 — Context]]*
+
+---
+
 ## Akedah
 
 The Hebrew term for the near-sacrifice of Isaac described in Genesis 22, derived from the root *aqad*, meaning "to bind" — a reference to Abraham's binding of Isaac before placing him on the altar. The Akedah is one of the most studied passages in the Torah and one of the most theologically loaded texts in the Abrahamic tradition.
@@ -264,6 +277,18 @@ Free will also explains the two trees in Eden. Without the Tree of the Knowledge
 
 ---
 
+## Fruit of the Spirit
+
+The qualities produced in a believer's life by the Holy Spirit, as named in Galatians 5:22–23: love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control. The term "fruit" is precise — it describes the natural output of a living branch that remains connected to the vine, not behaviors a Christian achieves through greater discipline or willpower.
+
+The [[Glossary#Agape|agapē]] that heads the list is the same love described in 1 Corinthians 13 and commanded in John 13. The rest of the qualities flow from it. None of them are self-generated; they are produced by the Spirit in a believer who remains in genuine relationship with Christ. As Jesus describes in John 15, the Father prunes the branches precisely to enable them to bear more fruit — and pruning is often painful. The discipline God brings into a believer's life follows that same logic: not punitive, but purposeful, preparing the branch to bear what the Spirit intends to produce through it.
+
+Paul places the fruit of the Spirit in deliberate contrast with the works of the flesh earlier in Galatians 5. The contrast is not between effort and no effort. It is a contrast of source: what the flesh produces on its own, and what the Spirit produces through a person who is genuinely connected to Christ. The fruit is not a performance standard. It is evidence of a relationship.
+
+*First introduced: [[i. A New Creation|Chapter 12 — A New Creation]]*
+
+---
+
 ## Fullness of the Gentiles
 
 A phrase drawn from Paul's letter to the Romans (Romans 11:25), referring to the complete number of Gentile believers who will enter the kingdom of God before the end of the age. Paul writes: *"Israel has experienced a hardening in part until the full number of the Gentiles has come in."*
@@ -285,6 +310,20 @@ Gog enters this study through Balaam's third oracle in Numbers 24, where the Sep
 *(The full treatment of Gog, the War of Armageddon, and the relationship of Ezekiel 38–39 to Revelation will be addressed when the study reaches those texts.)*
 
 *First introduced: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]*
+
+---
+
+## Great Commission
+
+The final instruction Jesus gave his disciples before his ascension, recorded in Matthew 28:18–20: *"All authority in heaven and on earth has been given to me. Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age."*
+
+The word "commission" signals a partnership, not a delegation. The authority behind the going belongs to Jesus; the disciples do not carry it independently. They go with him, sustained by the presence he promises through the final line of the instruction. The commission is bracketed by his authority at the start and his presence at the end — both making the task possible, neither of which is handed off to the disciples to manage on their own.
+
+The content is specific: make disciples, which means forming followers of Christ — not transferring information but producing people shaped by Christ's character. The teaching component is explicitly tied to what Jesus commanded, not to the Mosaic Law. What he commanded, as John 13 and 1 John 3 establish, is to believe in his name and to love one another as he loved. Those two things — belief and love — constitute the core of what disciples are formed to embody and extend.
+
+The Great Commission is also the explanation for why God does not take believers to glory immediately upon conversion. They are left in the world on mission, as instruments through whom the Spirit reaches those who have not yet come in. The presence of believers in the world is not accidental. It is the form of God's ongoing mission.
+
+*First introduced: [[i. A New Creation|Chapter 12 — A New Creation]]*
 
 ---
 
@@ -391,6 +430,7 @@ The Mosaic Covenant was never designed to be permanent. Paul argues at length in
 *First introduced: [[i. The Abrahamic Covenant|Chapter 08 - The Abrahamic Covenant]]*
 *Also relevant: [[i. Then You Will Know|Chapter 09 - Then You Will Know]]*
 *Also relevant: [[i. Today This Scripture Is Fulfilled|Chapter 11 - Today This Scripture Is Fulfilled]]*
+*Also relevant: [[i. A New Creation|Chapter 12 — A New Creation]]*
 
 ---
 
@@ -418,6 +458,19 @@ Every celebration of communion is a participation in the New Covenant — a decl
 
 *First introduced: [[i. The Abrahamic Covenant|Chapter 08 - The Abrahamic Covenant]]*
 *Also relevant: [[i. Today This Scripture Is Fulfilled|Chapter 11 - Today This Scripture Is Fulfilled]]*
+*Also relevant: [[i. A New Creation|Chapter 12 — A New Creation]]*
+
+---
+
+## New Creation
+
+The theological reality described in 2 Corinthians 5:17 — *"If anyone is in Christ, he is a new creation; the old has gone, the new has come."* The phrase is not metaphorical in Paul's use of it. It describes an actual change in what a person is when they come to faith in Christ.
+
+The "old" that has gone is not the sinful nature — Christians still sin, and something genuinely dead cannot compel anyone toward anything. What has gone is the governing power of the flesh over the spirit. Before conversion, the flesh drove the whole of human existence; its compulsions were inescapable. At conversion, the spirit is made alive in Christ and the flesh is severed from its position of control. The new creation is therefore not an improved version of the old person but a structurally different one — the same physical body, but a spirit now alive in Christ and no longer subject to the compulsive authority of the flesh.
+
+The concept connects directly to what Jesus describes in John 3 as being born again — a second birth, this one of the Spirit rather than the flesh. It also stands in direct continuity with what the [[Glossary#New Covenant|New Covenant]] promised through Ezekiel and Jeremiah: not an external code pressed onto an unchanged people, but a new heart, a new spirit, the law written from the inside out. The new creation is what that promise looks like in the life of an individual.
+
+*First introduced: [[i. A New Creation|Chapter 12 — A New Creation]]*
 
 ---
 
@@ -501,6 +554,19 @@ The Proto-Evangelium is the interpretive thread that runs through the entire bib
 *First introduced: [[i. The Fall|Chapter 03 - The Fall]]*
 
 ---
+
+## Regeneration
+
+The theological term for what the New Testament calls being "born again" — the spiritual rebirth that occurs when a person comes to faith in Christ, in which the Holy Spirit gives life to the spirit of a person who, apart from that act, is spiritually incomplete and cut off from God.
+
+Jesus describes this in John 3:5–6: *"No one can enter the kingdom of God unless he is born of water and the Spirit. Flesh gives birth to flesh, but the Spirit gives birth to spirit."* The capital-S Spirit — the Holy Spirit — is the agent of regeneration. It is entirely God's act, not a human decision that God ratifies. The person receives it; they do not produce it.
+
+Regeneration is the beginning of the [[Glossary#New Creation|new creation]], not its completion. The regenerated person is alive in Christ, connected to God in a relationship that is permanent and unbreakable. But the flesh remains, the mind requires renewal, and the character of Christ is formed over a lifetime — which is the process of [[Glossary#Sanctification|sanctification]]. Regeneration establishes the status; sanctification develops the character that status calls for.
+
+*First introduced: [[i. A New Creation|Chapter 12 — A New Creation]]*
+
+---
+
 ## Replacement Theology
 
 The theological position claiming that God is finished with the nation of Israel and has transferred her covenantal promises to the church, which has now replaced Israel as the recipient of those promises. On this view, references to Israel in biblical prophecy should be read as referring to the church, and the modern nation-state of Israel carries no particular theological significance.
@@ -510,6 +576,7 @@ This position is at odds with Paul's argument in Romans 11, where he explicitly 
 Beyond the theological problem, Replacement Theology carries practical risk. The Genesis 12:3 promise — that those who bless Abraham's descendants will be blessed, and those who curse them will be cursed — does not carry an expiration date in Scripture. Positioning the church as having replaced Israel does not eliminate that promise; it positions the one making the substitution on the wrong side of it.
 
 *First introduced: [[i. The Abrahamic Covenant|Chapter 08 - The Abrahamic Covenant]]*
+*Also relevant: [[i. A New Creation|Chapter 12 — A New Creation]]*
 
 ---
 
@@ -532,6 +599,18 @@ The final book of the Christian canon, and the destination of this study. A prop
 Revelation is written in a genre called *apocalyptic literature*, which uses vivid symbolic imagery to communicate spiritual and cosmic realities. Its symbols and figures are almost entirely drawn from earlier Old Testament texts — particularly Daniel, Ezekiel, Isaiah, and Zechariah. This means Revelation cannot be read in isolation; it is the final chapter of a story that must be understood from the beginning to be read correctly.
 
 *First introduced: [[i. Reading the Last Chapter|Chapter 01 - Reading the Last Chapter]]*
+
+---
+
+## Sanctification
+
+The ongoing process by which the Holy Spirit forms the character of Christ in a believer — transforming the mind, desires, and habits of the person who has been [[Glossary#Regeneration|regenerated]] toward increasing conformity to what they already are in Christ. Where regeneration is an event, sanctification is a process. It begins at conversion and continues until death.
+
+Paul describes the principle in Romans 12:2: *"Do not conform to the pattern of this world, but be transformed by the renewing of your mind."* The mind is the primary site of sanctification because it determines which reality a person is oriented toward. If the enemy can convince a believer that nothing has actually changed — that they are still trapped by the flesh's compulsions — then behaviorally very little changes. When the mind is renewed to the truth of what Christ has actually accomplished, behavior follows.
+
+Sanctification is not self-improvement. It is the fruit of relationship — the Spirit working through the circumstances of a person's life, including difficulty and discipline, to produce the character that the relationship is designed to produce. God uses suffering, pruning, and seasons of apparent unproductivity as instruments of formation. None of it is random. All of it is aimed at making the branch capable of bearing the weight of what the Spirit intends to grow through it.
+
+*First introduced: [[i. A New Creation|Chapter 12 — A New Creation]]*
 
 ---
 

@@ -34,6 +34,7 @@ If you ever want to come back to this Welcome page, just click on the Home butto
 - [[i. Then You Will Know|09) Then You Will Know]] — *The plagues as God's systematic war against Egypt's gods, the Passover as the prototype of the crucifixion, and the three pillars of the Mosaic Covenant established at Sinai*
 - [[i. The Feasts of the Lord and the Throne of David|10) The Feasts of the Lord and the Throne of David]] — *God's prophetic calendar in Leviticus 23, the blessings and curses of the Mosaic Covenant, the conquest of Canaan as holy war against the Nephilim, and the Davidic Covenant as the narrowing of the messianic promise to the hidden line that would produce Jesus*
 - [[i. Today This Scripture Is Fulfilled|11) Today This Scripture Is Fulfilled]] — *How the exile prophets — Jeremiah, Isaiah, and the Psalms — painted a composite portrait of the Messiah as both suffering servant and conquering king, climaxing in Jesus stopping mid-sentence in Isaiah 61 to show that two comings were always the plan*
+- [[i. A New Creation|12) A New Creation]] — *What it means to be a new creation in Christ — the separation of flesh and spirit at conversion, eternal life as a present reality, and love as the singular command that the New Covenant produces in those who belong to him*
 
 ### References
 - [[Glossary]] — *Key terms defined and cross-referenced across the study*
