@@ -16,6 +16,7 @@ The covenant-cutting ceremony of Genesis 15 establishes its unconditional charac
 The covenant sign established in Genesis 17 is circumcision — a permanent physical mark borne by every male in Abraham's household and every male descendant, a mark in the flesh of the covenant in the covenant.
 
 *First introduced: [[i. The Abrahamic Covenant|Chapter 08 - The Abrahamic Covenant]]*
+*Also relevant: [[i. Can These Bones Live|Chapter 13 — Can These Bones Live]]*
 
 ---
 
@@ -151,6 +152,7 @@ The Davidic Covenant forms the third wall of the covenant framework: it narrows 
 *First introduced: [[i. The Abrahamic Covenant|Chapter 08 - The Abrahamic Covenant]]*
 *Also relevant: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]*
 *Also relevant: [[i. Today This Scripture Is Fulfilled|Chapter 11 - Today This Scripture Is Fulfilled]]*
+*Also relevant: [[i. Can These Bones Live|Chapter 13 — Can These Bones Live]]*
 
 ---
 
@@ -195,6 +197,7 @@ The period in Israelite history following the death of Solomon (approximately 93
 The Divided Kingdom is the historical setting from which the major prophetic literature emerged. Both kingdoms pursued foreign gods, both were warned by prophets, and both were ultimately sent into exile as a consequence — Israel to Assyria in the eighth century BC, Judah to Babylon in the sixth. The division of the kingdom also created the theological problem the prophets repeatedly address: a promise made to the unified people of Israel and a covenant people now fractured, scattered, and subject to foreign rule. The restoration of both kingdoms as a unified nation under the [[Glossary#Davidic Covenant|Davidic]] heir is one of the most frequently repeated promises in the prophetic literature and remains unfulfilled.
 
 *First introduced: [[i. Today This Scripture Is Fulfilled|Chapter 11 - Today This Scripture Is Fulfilled]]*
+*Also relevant: [[i. Can These Bones Live|Chapter 13 — Can These Bones Live]]*
 
 ---
 
@@ -298,6 +301,7 @@ This concept answers the question of why God has not yet ended history and estab
 This also explains why believers are left in the world after coming to faith rather than being immediately taken home. They are left here on mission — as agents of the Holy Spirit in bringing others into the kingdom.
 
 *First introduced: [[i. The Jacket Cover|Chapter 02 - The Jacket Cover]]*
+*Also relevant: [[i. Can These Bones Live|Chapter 13 — Can These Bones Live]]*
 
 ---
 
@@ -406,6 +410,20 @@ In the first century, dominant Jewish expectation centered on a political and mi
 
 ---
 
+## Millennial Kingdom
+
+The thousand-year reign of Jesus Christ on earth described in Revelation 20:1–6, during which Satan is bound and unable to deceive the nations, and Jesus rules from Jerusalem. The term "millennial" derives from the Latin *mille* (thousand) and *annum* (year). While the explicit thousand-year frame appears in Revelation, the content of that reign is detailed across the Old Testament prophetic literature — most fully in Ezekiel 37–48, Isaiah 11, and Zechariah 14.
+
+The [[Glossary#Millennial Kingdom|Millennial Kingdom]] is the period in which the covenant promises made to Israel across the entirety of the biblical narrative reach their comprehensive fulfillment. The [[Glossary#Abrahamic Covenant|Abrahamic Covenant]] promises — the land, the nation, the blessing — find their completion as Israel inhabits the full extent of the promised land. The [[Glossary#Davidic Covenant|Davidic Covenant]] is fulfilled as Jesus, the son of David, reigns as king from Jerusalem. The [[Glossary#New Covenant|New Covenant]] is enacted as the Spirit is poured out on the whole house of Israel in the way Ezekiel 36–37 describes.
+
+Those who belong to Christ and have been raised or transformed at his coming — the church — will reign with him as priests and rulers during this period, having already received their resurrection bodies and completed their journey of faith. The nation of Israel will be in the land, living under their Messiah, responding to the fulfillment of every promise made to their ancestors. Other nations will also exist outside the land of Israel and will similarly have the opportunity to respond to what they see during this period.
+
+The Millennial Kingdom ends with the brief release of Satan, a final rebellion, and his permanent defeat, followed by the Great White Throne Judgment and the establishment of the new heaven and new earth.
+
+*First introduced: [[i. Can These Bones Live|Chapter 13 — Can These Bones Live]]*
+
+---
+
 ## Mount Hermon
 
 The mountain range anchoring the far northern border of ancient Israel, rising across the intersection of modern Syria, Lebanon, and the Golan Heights. In biblical theology, Mount Hermon is not simply a geographic feature — it is a site of profound spiritual significance at three distinct points in the narrative.
@@ -419,6 +437,7 @@ Third, the Transfiguration — in which Jesus revealed himself in full divine gl
 *First introduced: [[i. 1 Enoch — A Quick Glance|Chapter 05 - 1 Enoch — A Quick Glance]]*
 
 ---
+
 ## Mosaic Covenant
 
 The conditional covenant God establishes with the nation of Israel at Mount Sinai through Moses, recorded in Exodus 19–24 and elaborated throughout Leviticus, Numbers, and Deuteronomy. Unlike the three other major covenants in Scripture — Abrahamic, Davidic, and New — the Mosaic Covenant is bilateral: both parties make binding commitments, and the blessings Israel receives are contingent on its obedience to the covenant's terms.
@@ -431,6 +450,7 @@ The Mosaic Covenant was never designed to be permanent. Paul argues at length in
 *Also relevant: [[i. Then You Will Know|Chapter 09 - Then You Will Know]]*
 *Also relevant: [[i. Today This Scripture Is Fulfilled|Chapter 11 - Today This Scripture Is Fulfilled]]*
 *Also relevant: [[i. A New Creation|Chapter 12 — A New Creation]]*
+*Also relevant: [[i. Can These Bones Live|Chapter 13 — Can These Bones Live]]*
 
 ---
 
@@ -448,6 +468,7 @@ The Nephilim appear in the biblical record both before the flood (Genesis 6:4) a
 *Also relevant: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]* 
 
 ---
+
 ## New Covenant
 
 The covenant established by Jesus at the Last Supper and enacted through his death and resurrection, replacing the [[Glossary#Mosaic Covenant|Mosaic Covenant]] as the governing covenant between God and his people. Announced in Jeremiah 31:31–34, where God declares: *"I will make a new covenant with the people of Israel... I will put my law in their minds and write it on their hearts."* Jesus identifies the cup of communion as *"the new covenant in my blood"* (Luke 22:20).
@@ -459,6 +480,7 @@ Every celebration of communion is a participation in the New Covenant — a decl
 *First introduced: [[i. The Abrahamic Covenant|Chapter 08 - The Abrahamic Covenant]]*
 *Also relevant: [[i. Today This Scripture Is Fulfilled|Chapter 11 - Today This Scripture Is Fulfilled]]*
 *Also relevant: [[i. A New Creation|Chapter 12 — A New Creation]]*
+*Also relevant: [[i. Can These Bones Live|Chapter 13 — Can These Bones Live]]*
 
 ---
 
@@ -577,6 +599,7 @@ Beyond the theological problem, Replacement Theology carries practical risk. The
 
 *First introduced: [[i. The Abrahamic Covenant|Chapter 08 - The Abrahamic Covenant]]*
 *Also relevant: [[i. A New Creation|Chapter 12 — A New Creation]]*
+*Also relevant: [[i. Can These Bones Live|Chapter 13 — Can These Bones Live]]*
 
 ---
 
@@ -738,6 +761,20 @@ The specific timeline and character of this period are addressed most precisely 
 
 ---
 
+## Time of the Gentiles
+
+The period between Israel's rejection of her [[Glossary#Messiah|Messiah]] and the completion of God's purposes for the Gentile nations — the interval in the prophetic calendar that has now extended nearly two thousand years. During this period, Israel's national role in God's redemptive plan is temporarily set aside while the gospel goes out to the nations of the world and Gentile believers are brought into the covenant promises through Jesus Christ.
+
+Paul describes this period's terminus in Romans 11:25: *"Israel has experienced a hardening in part until the full number of the Gentiles has come in."* The [[Glossary#Fullness of the Gentiles|fullness of the Gentiles]] is the completion marker — when the last Gentile who will enter does so, the period closes and God's redemptive focus returns to Israel in preparation for the events of the end of the age.
+
+The Time of the Gentiles was not an afterthought. Moses wrote that God would make Israel envious through a nation that was not a nation. Isaiah said he would be found by those who were not seeking him. The global scope of the [[Glossary#Abrahamic Covenant|Abrahamic Covenant]] promise — *"all peoples on earth will be blessed through you"* — is being fulfilled across this period. Its precise structural relationship to Daniel's prophetic calendar will be addressed when the study reaches Daniel.
+
+*(The detailed structure of the Time of the Gentiles and its connection to Daniel's seventy-weeks prophecy will be examined in a later session.)*
+
+*First introduced: [[i. Can These Bones Live|Chapter 13 — Can These Bones Live]]*
+
+---
+
 ## The Fall
 
 The event described in Genesis 3 in which Adam and Eve disobeyed God by eating from the Tree of the Knowledge of Good and Evil, resulting in the entry of sin and death into the created order. The Fall is not simply a moral failure — it is the foundational rupture in the relationship between God and humanity and between humanity and the rest of creation.
@@ -771,6 +808,18 @@ Recognizing typological patterns does not reduce the Old Testament figures to me
 
 *First introduced: [[i. The Abrahamic Covenant|Chapter 08 - The Abrahamic Covenant]] — see also [[Chapter 08/iii. Context|Chapter 08 - Context]]*
 *Also relevant: [[i. Today This Scripture Is Fulfilled|Chapter 11 - Today This Scripture Is Fulfilled]]*
+
+---
+
+## Valley of Dry Bones
+
+The vision given to Ezekiel in chapter 37 of his book, in which he is set down in a valley filled with dry bones and commanded to prophesy to them, causing them to reassemble, be clothed with flesh, and finally receive breath — at which point they stand as a vast army. God's own interpretation of the vision follows immediately: *"These bones are the whole house of Israel."*
+
+The vision is not a general metaphor about spiritual renewal. It is a specific prophetic declaration about what God is going to do with the scattered and exiled nation of Israel at the end of the age. The two-stage structure — physical assembly followed by the breath of the Spirit — mirrors the two-stage pattern of Israel's actual restoration: first the physical return to the land (a process that began with the reestablishment of the modern state of Israel in 1948 and is ongoing), and second the spiritual outpouring that will complete the work described in Ezekiel 36:26–27.
+
+The vision is immediately followed by the prophecy of the two sticks (Ezekiel 37:15–28), in which the division between the northern and southern kingdoms is healed and the whole house of Israel is united under one king — the [[Glossary#Messiah|Messiah]], described as "my servant David." Together the two passages describe the comprehensive fulfillment of every major covenant promise in the biblical narrative, locating that fulfillment in what the New Testament calls the [[Glossary#Millennial Kingdom|Millennial Kingdom]].
+
+*First introduced: [[i. Can These Bones Live|Chapter 13 — Can These Bones Live]] — see also [[Chapter 13/iii. Context|Chapter 13 — Context]]*
 
 ---
 
