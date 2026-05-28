@@ -36,6 +36,7 @@ If you ever want to come back to this Welcome page, just click on the Home butto
 - [[i. Today This Scripture Is Fulfilled|11) Today This Scripture Is Fulfilled]] — *How the exile prophets — Jeremiah, Isaiah, and the Psalms — painted a composite portrait of the Messiah as both suffering servant and conquering king, climaxing in Jesus stopping mid-sentence in Isaiah 61 to show that two comings were always the plan*
 - [[i. A New Creation|12) A New Creation]] — *What it means to be a new creation in Christ — the separation of flesh and spirit at conversion, eternal life as a present reality, and love as the singular command that the New Covenant produces in those who belong to him*
 - [[i. Can These Bones Live|13) Can These Bones Live]] — *God's plan for His nation, Israel, as it relates to our present day, as well as God's plan for what role Israel will play in the latter days
+- [[i. Matthew 24|14) Matthew 24]] — *Jesus's own sequential account of end-times events, from the four birth pains through the Abomination of Desolation and the return of the Son of Man, confirmed by Paul in 1 and 2 Thessalonians*
 
 ### References
 - [[Glossary]] — *Key terms defined and cross-referenced across the study*

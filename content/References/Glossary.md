@@ -3,6 +3,18 @@
 
 ---
 
+## Abomination of Desolation
+
+The phrase used in Daniel's prophecy (Daniel 9:27, 11:31, 12:11) and quoted directly by Jesus in Matthew 24:15 to describe a specific act by the [[Glossary#Antichrist|Antichrist]] at the midpoint of the final seven-year period: standing in the rebuilt temple in Jerusalem, ending the sacrificial system, and declaring himself to be God. It is the singular most identifiable event of the end times — the sign Jesus himself points to when his disciples ask how they will know his coming is near.
+
+The phrase originates in the Hebrew *shiqquts shomem*, carrying the sense of a profanity so extreme that it renders the consecrated space desolate — abandoned by God's presence and unfit for worship. A historical preview of this event occurred in 167 BC when Antiochus IV Epiphanes desecrated the Second Temple by erecting an altar to Zeus on the altar of burnt offering and sacrificing a pig on it. Jesus's reference to a future fulfillment in Matthew 24 indicates that Antiochus's act was typological rather than final. The final Abomination requires someone who exceeds even Antiochus: not merely installing a foreign idol, but standing personally in the temple and claiming to be God.
+
+Two prerequisites have not existed since 70 AD: a standing temple and an active sacrificial system. The final fulfillment cannot occur until both are in place. When the Abomination does occur, Jesus's instruction to those who recognize it is unconditional: flee immediately, without turning back.
+
+*First introduced: [[i. Matthew 24|Chapter 14 — Matthew 24]] — see also [[Chapter 14/iii. Context|Chapter 14 — Context]]*
+
+---
+
 ## Abrahamic Covenant
 
 The unconditional covenant God establishes with Abraham in Genesis 12 and formalizes in Genesis 15 through a covenant-cutting ceremony. It is the first of the four covenants that form the structural framework of the biblical narrative and the one on which all subsequent covenants build.
@@ -66,6 +78,18 @@ The Anakites are among the post-flood survivors of the Nephilim line — the gia
 
 ---
 
+## Antichrist
+
+The figure described across Daniel, Matthew 24, 2 Thessalonians, and Revelation as the primary human agent of Satan during the final period of history. The word comes from the Greek *anti-Christos*, which carries both "against Christ" and "in place of Christ" — both dimensions are simultaneously operative. The Antichrist does not present himself as an enemy but as a savior, arriving with the appearance and credentials of the deliverer the world is waiting for.
+
+His career follows a specific trajectory. He emerges as a conquering figure who consolidates power through war and achieves what no one before him has managed: a peace arrangement, most significantly in the Middle East. He makes a covenant with many at the beginning of a seven-year period. For the first 3.5 years, his true nature remains concealed. At the midpoint, Satan — newly expelled from heaven with no remaining access to the divine court and no remaining avenue but through a human agent — fully possesses him. The Antichrist then stands in the rebuilt temple in Jerusalem, declares himself God, ends the sacrificial system, and demands universal worship. From that point, those who refuse to bow to him or participate in his economic system face execution. His career ends at Armageddon, where Jesus destroys him at his return.
+
+The Antichrist is not the same as Satan. He is Satan's instrument — a human being through whom Satan operates fully once expelled from heaven. The distinction matters: Satan is currently working in secret, through deception and manipulation, while maintaining the appearance that his agent is merely a remarkable political figure. The Abomination of Desolation is the moment that pretense ends.
+
+*First introduced: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
+
+---
+
 ## Appointed Times
 
 The English rendering of the Hebrew *moedim* — a term used in Leviticus 23 to describe the seven annual festivals God established for Israel. The word is more precisely translated "appointed meetings" or "scheduled times," carrying the sense of a pre-arranged moment between two parties. When applied to the festivals, it conveys that these are not merely traditional celebrations but dates God has marked on his calendar as moments when he intends to act.
@@ -75,6 +99,7 @@ The seven appointed times are: Passover (14th day of the first month), Unleavene
 Four of the seven have been fulfilled in Jesus' first coming — Passover (crucifixion), Unleavened Bread (burial and sinless offering), First Fruits (resurrection), and Feast of Weeks/Pentecost (descent of the Holy Spirit) — all on the calendar days Israel was already observing. The remaining three (Trumpets, Day of Atonement, and Tabernacles) await fulfillment at his return.
 
 *First introduced: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]*
+*Also relevant: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
 
 ---
 
@@ -107,6 +132,18 @@ A comprehensive framework for understanding reality — including suffering, evi
 A biblical worldview is not simply knowing Bible facts. It is a God-anchored framework robust enough to interpret current events, personal suffering, and the claims of others without depending on outside voices for orientation. It is the single best defense against fear-mongering and spiritual manipulation — because when you know what God has already said, you don't need someone else to tell you how to feel about what's happening.
 
 *First introduced: [[i. Reading the Last Chapter|Chapter 01 - Reading the Last Chapter]]*
+
+---
+
+## Birth Pains (Eschatological)
+
+The framework Jesus uses in Matthew 24:8 to describe the preliminary events of the end times — the period before the Abomination of Desolation that inaugurates the Great Tribulation. Just as a mother's contractions prepare the body for delivery, these events prepare the world and the church for the arrival of the kingdom. The analogy carries three distinct implications: the events are purposeful rather than random, they increase in intensity over time, and they come closer together as the end approaches.
+
+Jesus groups four events under this heading: the rise of the [[Glossary#Antichrist|Antichrist]] through deception, wars and rumors of wars, conflict between nations and kingdoms producing economic collapse and scarcity, and natural disasters including famines and earthquakes. These four are explicitly labeled "the beginning of birth pains" — the preliminary phase that precedes the more concentrated persecution and the Abomination of Desolation.
+
+The birth pains are not merely events to endure. They are the conditions under which the church is purified, the gospel reaches the remaining nations, and the world is confronted with a witness it cannot explain. They serve a purpose.
+
+*First introduced: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
 
 ---
 
@@ -165,6 +202,7 @@ The Day of the Lord is not primarily about the destruction of Israel's enemies f
 In the New Testament, the Day of the Lord is associated with the return of Jesus and the final judgment. The language of Psalm 110 — crushing kings, judging nations, heaping up the dead — describes the same event. It corresponds to the period following the [[Glossary#Time of Jacob's Trouble|time of Jacob's trouble]] in the eschatological sequence, and its full content will be addressed in detail when the study reaches Revelation.
 
 *First introduced: [[i. Today This Scripture Is Fulfilled|Chapter 11 - Today This Scripture Is Fulfilled]]*
+*Also relevant: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
 
 ---
 
@@ -187,6 +225,16 @@ Per 1 Enoch 15, when the bodies of the Nephilim died, their spirits did not depa
 The existence of demons is never argued or defended in the New Testament — it is assumed. Jesus cast them out as a routine feature of his ministry. The disciples did the same. Understanding their origin in the Watchers' rebellion explains their behavior, their targeting of humanity, and the framework within which the New Testament's treatment of spiritual warfare makes sense.
 
 *First introduced: [[i. 1 Enoch — A Quick Glance|Chapter 05 - 1 Enoch — A Quick Glance]]*
+
+---
+
+## Dispensationalism
+
+A theological framework dividing biblical history into distinct "dispensations" — eras in which God relates to humanity according to different governing principles. The most eschatologically significant division is between a "church age" (from Pentecost to the rapture) and a resumed "Jewish age" (the tribulation period and its aftermath). Because Dispensationalism treats Israel and the church as fundamentally separate programs operating in separate eras, it requires the church to be removed from the earth before God's end-times program for Israel can resume. This is the theological engine driving the pre-tribulation rapture doctrine.
+
+Dispensationalism as a formal system was developed in the nineteenth century by John Nelson Darby and codified in the Scofield Reference Bible (1909). It should not be confused with a general recognition that God works differently at different periods in redemptive history — which is simply reading the biblical narrative on its own terms. The distinctive claim of Dispensationalism is a hard structural separation between Israel and the church that the biblical text does not support, and which Paul explicitly argues against in Romans 11 using the olive tree imagery.
+
+*First introduced: [[i. Matthew 24|Chapter 14 — Matthew 24]] — see also [[Chapter 14/iii. Context|Chapter 14 — Context]]*
 
 ---
 
@@ -302,6 +350,7 @@ This also explains why believers are left in the world after coming to faith rat
 
 *First introduced: [[i. The Jacket Cover|Chapter 02 - The Jacket Cover]]*
 *Also relevant: [[i. Can These Bones Live|Chapter 13 — Can These Bones Live]]*
+*Also relevant: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
 
 ---
 
@@ -421,6 +470,7 @@ Those who belong to Christ and have been raised or transformed at his coming —
 The Millennial Kingdom ends with the brief release of Satan, a final rebellion, and his permanent defeat, followed by the Great White Throne Judgment and the establishment of the new heaven and new earth.
 
 *First introduced: [[i. Can These Bones Live|Chapter 13 — Can These Bones Live]]*
+*Also relevant: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
 
 ---
 
@@ -528,6 +578,18 @@ The first five books of the Bible: Genesis, Exodus, Leviticus, Numbers, and Deut
 
 ---
 
+## Pre-Tribulation Rapture
+
+The doctrine claiming that Jesus will secretly return to gather the church before the events of the Great Tribulation begin, leaving unbelievers to face the Antichrist and the tribulation period alone. On this view, the removal of the church is a prerequisite for the resumption of God's prophetic program for Israel, which the church age is believed to have interrupted.
+
+This position does not appear in the sequence Jesus describes in Matthew 24, where the gathering of the elect follows the Abomination of Desolation, the Great Tribulation, and the darkening of the sky. It is also absent from Paul's account in 1 and 2 Thessalonians, where the coming of the Lord and the gathering of the saints is explicitly conditioned on the prior revelation of the man of lawlessness. The doctrine originates not in these texts but in the [[Glossary#Dispensationalism|Dispensationalist]] framework developed by John Nelson Darby in the 1830s and distributed widely through the Scofield Reference Bible from 1909 onward.
+
+Its practical danger is not only theological. A church that has been taught it will not suffer is a church that is structurally unprepared for persecution. When tribulation arrives and the Lord has not come to remove the church first, the result is either a crisis of faith or an abandonment of faith — exactly what Jesus warns against in his description of many turning away when the pressure becomes severe.
+
+*First introduced: [[i. Matthew 24|Chapter 14 — Matthew 24]] — see also [[Chapter 14/iii. Context|Chapter 14 — Context]]*
+
+---
+
 ## Prince of This World
 
 A title applied to Satan in the Gospel of John (John 12:31; 14:30; 16:11) that reflects the genuine governing authority he acquired over the earth and its kingdoms as a direct consequence of the Fall. When Adam — who had been given dominion over the earth by God — chose to comply with Satan's scheme in the garden, he abdicated that authority. It transferred. Satan became the inheritor of what Adam gave away.
@@ -560,6 +622,7 @@ A theological position — also called "health, wealth, and prosperity" theology
 This is fundamentally incompatible with the Gospel Jesus presented, for two reasons. Logically, it sets believers up for a crisis of faith when suffering inevitably comes — forcing them to conclude either that God failed or that their own faith is insufficient. Textually, it contradicts Jesus' explicit teaching on suffering, discipleship, and the nature of the kingdom, as well as his warnings about false prophets who offer thorns and thistles (the curse) while calling them fruit (Matthew 7:15–16; Matthew 13:22).
 
 *First introduced: [[i. Reading the Last Chapter|Chapter 01 - Reading the Last Chapter]]*
+*Also relevant: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
 
 ---
 
@@ -574,6 +637,18 @@ Read against the cross and resurrection, the shape resolves completely. Satan st
 The Proto-Evangelium is the interpretive thread that runs through the entire biblical narrative. Every sacrifice, every covenant, every messianic prophecy, every act of divine deliverance is downstream of this first announcement. The story is not wandering toward a resolution — the resolution was announced in the garden, in the very moment the problem was introduced.
 
 *First introduced: [[i. The Fall|Chapter 03 - The Fall]]*
+
+---
+
+## Rapture
+
+The gathering of the elect at the return of Jesus Christ — both those who have died in Christ (who rise first) and those who are alive at his coming (who are caught up together with them to meet the Lord in the air). The word "rapture" comes from the Latin *rapio* ("to seize" or "to catch up"), which is how the Vulgate renders the Greek *harpazō* in 1 Thessalonians 4:17: *"we who are still alive and are left will be caught up together with them in the clouds to meet the Lord in the air."*
+
+Matthew 24:31 describes the same event: after the darkening of the sky and the appearance of the sign of the Son of Man, *"he will send his angels with a loud trumpet call, and they will gather his elect from the four winds, from one end of the heavens to the other."* Paul's description and Jesus's description are the same gathering, from different vantage points.
+
+The placement of the rapture within the end-times sequence is not ambiguous in either account. It follows the Abomination of Desolation, the Great Tribulation, and the cosmic signs in the heavens. The gathering occurs when the Lord returns visibly, in the Shekinah glory, with a trumpet call. The teaching that the rapture precedes these events is a later doctrinal development not supported by the sequence the Lord himself describes. See also: [[Glossary#Pre-Tribulation Rapture|Pre-Tribulation Rapture]].
+
+*First introduced: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
 
 ---
 
@@ -658,6 +733,7 @@ The Shekinah glory appears most dramatically when the cloud fills the Tabernacle
 The pillar of cloud and fire that led Israel through the wilderness is an expression of the same presence in a mobile form: visible guidance for a people on the move. The New Testament picks up the concept directly. John's statement that the Word *"tabernacled among us"* (John 1:14, using the same Greek root as the Hebrew *shakan*) identifies the Incarnation as the Shekinah in human form — God taking up residence not in a tent but in a body. In Revelation, the same cloud-glory associated with God's presence in the Tabernacle and Temple appears again in the final vision of God dwelling with his people (Revelation 21:3).
 
 *First introduced: [[i. Then You Will Know|Chapter 09 - Then You Will Know]]*
+*Also relevant: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
 
 ---
 
@@ -722,6 +798,7 @@ When Jesus called himself the Son of Man, he was drawing on both layers simultan
 
 *First introduced: [[i. Reading the Last Chapter|Chapter 01 - Reading the Last Chapter]]*
 *Also relevant: [[i. The Jacket Cover|Chapter 02 - The Jacket Cover]]*
+*Also relevant: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
 
 ---
 
@@ -758,6 +835,7 @@ The passage in Jeremiah 30 frames this period as the final birth pains before Go
 The specific timeline and character of this period are addressed most precisely in Daniel, which the study will cover in a later session. The phrase is introduced here because it originates in the prophetic material covered in this session.
 
 *First introduced: [[i. Today This Scripture Is Fulfilled|Chapter 11 - Today This Scripture Is Fulfilled]]*
+*Also relevant: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
 
 ---
 
