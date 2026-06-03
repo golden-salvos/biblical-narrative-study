@@ -37,6 +37,7 @@ If you ever want to come back to this Welcome page, just click on the Home butto
 - [[i. A New Creation|12) A New Creation]] — *What it means to be a new creation in Christ — the separation of flesh and spirit at conversion, eternal life as a present reality, and love as the singular command that the New Covenant produces in those who belong to him*
 - [[i. Can These Bones Live|13) Can These Bones Live]] — *God's plan for His nation, Israel, as it relates to our present day, as well as God's plan for what role Israel will play in the latter days
 - [[i. Matthew 24|14) Matthew 24]] — *Jesus's own sequential account of end-times events, from the four birth pains through the Abomination of Desolation and the return of the Son of Man, confirmed by Paul in 1 and 2 Thessalonians*
+- [[i. Not by Human Hands|15) Not by Human Hands]] — *Daniel 2 and 7: the statue and the four beasts — the same parade of Gentile empires seen first as man's dazzling monument and then as heaven's feral predators, ending in the stone cut without human hands. The Son of Man receives an everlasting kingdom; the saints inherit it, but only after being overcome by the little horn for a time, times, and half a time.*
 
 ### References
 - [[Glossary]] — *Key terms defined and cross-referenced across the study*

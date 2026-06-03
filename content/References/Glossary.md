@@ -12,6 +12,7 @@ The phrase originates in the Hebrew *shiqquts shomem*, carrying the sense of a p
 Two prerequisites have not existed since 70 AD: a standing temple and an active sacrificial system. The final fulfillment cannot occur until both are in place. When the Abomination does occur, Jesus's instruction to those who recognize it is unconditional: flee immediately, without turning back.
 
 *First introduced: [[i. Matthew 24|Chapter 14 — Matthew 24]] — see also [[Chapter 14/iii. Context|Chapter 14 — Context]]*
+*Also relevant: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 
 ---
 
@@ -29,6 +30,7 @@ The covenant sign established in Genesis 17 is circumcision — a permanent phys
 
 *First introduced: [[i. The Abrahamic Covenant|Chapter 08 - The Abrahamic Covenant]]*
 *Also relevant: [[i. Can These Bones Live|Chapter 13 — Can These Bones Live]]*
+*Also relevant: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 
 ---
 
@@ -78,6 +80,16 @@ The Anakites are among the post-flood survivors of the Nephilim line — the gia
 
 ---
 
+## Ancient of Days
+
+The title given to God the Father in the throne-room vision of Daniel 7:9–10, where Daniel sees thrones set in place and the Ancient of Days take his seat to convene the heavenly court. His clothing is white as snow and the hair of his head like pure wool; his throne is flaming with fire, its wheels ablaze, with a river of fire flowing out from before him, attended by thousands upon thousands. The court sits and the books are opened — a scene of formal divine judgment.
+
+The phrase (Aramaic *attiq yomin*) evokes God's eternity and his standing as the supreme judge over the rise and fall of nations. The vision's imagery deliberately echoes Ezekiel's throne vision in Ezekiel 1, with its wheels and fire, and is taken up again in the Revelation throne scenes, where the same eternal, fiery glory surrounds the one seated in judgment. The significance for this study is twofold: it establishes that the parade of beastly empires unfolds under the gaze of a seated, sovereign judge, and it sets the stage for the [[Glossary#Son of Man|Son of Man]], who approaches the Ancient of Days to receive an everlasting kingdom.
+
+*First introduced: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
+
+---
+
 ## Antichrist
 
 The figure described across Daniel, Matthew 24, 2 Thessalonians, and Revelation as the primary human agent of Satan during the final period of history. The word comes from the Greek *anti-Christos*, which carries both "against Christ" and "in place of Christ" — both dimensions are simultaneously operative. The Antichrist does not present himself as an enemy but as a savior, arriving with the appearance and credentials of the deliverer the world is waiting for.
@@ -87,6 +99,7 @@ His career follows a specific trajectory. He emerges as a conquering figure who 
 The Antichrist is not the same as Satan. He is Satan's instrument — a human being through whom Satan operates fully once expelled from heaven. The distinction matters: Satan is currently working in secret, through deception and manipulation, while maintaining the appearance that his agent is merely a remarkable political figure. The Abomination of Desolation is the moment that pretense ends.
 
 *First introduced: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
+*Also relevant: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 
 ---
 
@@ -144,6 +157,17 @@ Jesus groups four events under this heading: the rise of the [[Glossary#Antichri
 The birth pains are not merely events to endure. They are the conditions under which the church is purified, the gospel reaches the remaining nations, and the world is confronted with a witness it cannot explain. They serve a purpose.
 
 *First introduced: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
+
+---
+## Book of Daniel
+
+The Old Testament book recording the life and visions of Daniel, a young noble of Judah carried into Babylonian exile and elevated to high office in the courts of both Babylon and Medo-Persia. The book divides into two halves: court narratives demonstrating God's sovereignty over pagan empires (chapters 1–6), and apocalyptic visions charting the course of Gentile world history to the end of the age (chapters 7–12). It is the foundational prophetic framework for biblical eschatology — Jesus points his disciples to it directly, and Revelation draws its core imagery from it.
+
+The book is bilingual: Hebrew in 1:1–2:4a and chapters 8–12, and Aramaic in 2:4b–7:28. The Aramaic section, concerned with the Gentile nations, forms a deliberate mirror-image structure whose outer frame is the two parallel visions of chapters 2 and 7 — which is why those visions describe the same four empires from opposite perspectives. Because Daniel 7 is in Aramaic, its phrase "one like a son of man" is the direct source of the Aramaic title Jesus most often used of himself.
+
+Daniel's placement in the East carries a long significance for this study. As chief over the wise men of Babylon and a high official under Medo-Persia, his influence shaped the scholarly tradition later called the *magi* — the most economical explanation for why wise men from the East would come centuries later seeking a king of the Jews and know what sign to watch for.
+
+*First introduced: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 
 ---
 
@@ -225,6 +249,16 @@ Per 1 Enoch 15, when the bodies of the Nephilim died, their spirits did not depa
 The existence of demons is never argued or defended in the New Testament — it is assumed. Jesus cast them out as a routine feature of his ministry. The disciples did the same. Understanding their origin in the Watchers' rebellion explains their behavior, their targeting of humanity, and the framework within which the New Testament's treatment of spiritual warfare makes sense.
 
 *First introduced: [[i. 1 Enoch — A Quick Glance|Chapter 05 - 1 Enoch — A Quick Glance]]*
+
+---
+
+## Diadochi
+
+The Greek term ("successors") for the leading generals of Alexander the Great who divided his empire among themselves after his death at Babylon in 323 BC. Alexander died young and without a viable heir, and after decades of conflict his empire consolidated into four major kingdoms: Macedon and Greece under Cassander, Thrace and Asia Minor under Lysimachus, Syria and the East under Seleucus (the Seleucids), and Egypt under Ptolemy (the Ptolemies).
+
+The four-fold division is the historical reality behind the imagery in Daniel's visions — the four heads and four wings of the leopard (Daniel 7:6) and the four horns that replace the broken great horn of the goat (Daniel 8:8, 22). Two of these successor kingdoms become the central rivals of the detailed prophecy in Daniel 11: the Seleucid "king of the North" and the Ptolemaic "king of the South," with the land of Israel positioned between them. *(The campaigns of the king of the North and the king of the South are developed in the study's work through Daniel 8 and 11.)*
+
+*First introduced: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 
 ---
 
@@ -316,6 +350,18 @@ First fruits giving predates the formal tithe established in the Mosaic Law by c
 
 ---
 
+## Four Kingdoms of Daniel
+
+The sequence of four Gentile empires charted in both of Daniel's parallel visions: the statue of Daniel 2 and the four beasts of Daniel 7. The two visions describe the identical sequence from opposite vantage points. Nebuchadnezzar's statue — head of gold, chest of silver, belly of bronze, legs of iron, feet of iron and clay — is humanity's view of its own civilizations as a single dazzling monument. Daniel's four beasts rising from the sea — lion, bear, leopard, and a terrifying fourth — are heaven's view of the same powers as predators emerging from chaos.
+
+The book identifies the first three directly: **Babylon** (the head of gold; the lion), **Medo-Persia** (the silver; the lopsided bear), and **Greece** (the bronze; the swift four-headed leopard). The **fourth kingdom** is never named in Scripture and must be discerned from clues — its uniquely totalizing brutality, its ten-fold division (the ten toes / ten horns), and the little horn ([[Glossary#Antichrist|the Antichrist]]) who rises among the ten. Its identity is genuinely debated: the traditional reading is Rome, the critical-scholarly reading is Greece (the Seleucids), and the reading this study adopts is a revived Islamic power. *(The case for the fourth kingdom's identity, and the meaning of the iron-and-clay mixture that fails to hold together, is developed across Daniel 8–12 and Revelation.)*
+
+Both visions end the same way: every human empire is shattered and swept away, while God establishes a kingdom — the stone cut without human hands — that fills the earth and endures forever, given to the [[Glossary#Son of Man|Son of Man]] and inherited by the saints.
+
+*First introduced: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
+
+---
+
 ## Free Will
 
 The capacity of human beings — and of created spiritual beings — to make genuine choices, including the choice to reject God. Free will is the foundational law of the created order: the non-negotiable condition built into the fabric of the universe that shapes every subsequent event in the biblical story.
@@ -392,6 +438,16 @@ The *Imago Dei* is the theological basis for human dignity. It is also the basis
 
 ---
 
+## Islamic Caliphate
+
+The political-religious institution claiming leadership (the *caliphate*) over the worldwide Muslim community, headed by a *caliph* who functioned as both political and religious ruler — a theocracy uniting many nations under a single authority. Historically it passed through several phases: the Rashidun (632–661), Umayyad (661–750), and Abbasid (750–1258, and nominal thereafter), culminating in the Ottoman claim. The Ottoman sultanate was abolished in 1922, and the caliphate was formally abolished by the Turkish Grand National Assembly under Mustafa Kemal Atatürk on 3 March 1924.
+
+In this study, the historical caliphate — and its anticipated revival — is the proposed identity of the unnamed fourth kingdom of Daniel. The interpretive argument rests on the behavior of the fourth beast (which crushes rather than assimilates) and on reading its final ten-king coalition as nations surrounding Israel. This is a minority eschatological position; the traditional identification of the fourth kingdom is Rome. The reading is recorded here as the position the study takes, not as a settled fact. *(The full case is developed in later sessions on Daniel and Revelation.)*
+
+*First introduced: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
+
+---
+
 ## Joy
 
 In the biblical sense, joy is distinct from happiness. Where happiness is circumstantial — rising and falling with external conditions — joy is a cultivated orientation rooted in the indwelling presence of the Holy Spirit and the certainty of God's promises. It is not dependent on circumstances and cannot be taken by them.
@@ -411,6 +467,16 @@ In Greek thought, the *Logos* was the rational principle underlying the universe
 John synthesizes all of this. For the Greek reader: the rational ground of reality you have always sensed is not an abstract force but a person. For the Jewish reader: the divine Word and Wisdom you have read about your whole life became flesh. The theological precision of John 1:1 — "with God" (distinction) and "was God" (identity) — establishes the Logos as the pre-incarnate Son, who then becomes flesh in the Incarnation (verse 14). The Logos is not a secondary or lesser divine being; he is the agent of all creation, the one through whom "all things were made."
 
 *First introduced: [[i. The Jacket Cover|Chapter 02 - The Jacket Cover]] — see also [[Chapter 02/iii. Context|Chapter 02 - Context]]*
+
+---
+
+## Mahdi
+
+The awaited end-times redeemer of Islamic tradition ("the rightly guided one"), expected to appear before the end of the age to restore justice and lead the Muslim community to triumph. The figure is doctrinally central in Shia Islam, where he is identified with the Twelfth Imam, believed to be hidden and destined to return; he also appears in Sunni hadith literature in a less formally fixed form.
+
+Islamic eschatology is layered: alongside the Mahdi it includes its own deceiver-figure, *al-Masih ad-Dajjal* (the false messiah), and holds that Isa (Jesus) returns to defeat the Dajjal, often acting with the Mahdi. The reading this study advances — that the Mahdi corresponds to the figure the Bible calls the [[Glossary#Antichrist|Antichrist]] — is an interpretive claim built on the observation that the two traditions are structured as near-mirror images: what one awaits as a deliverer, the other warns against. It is recorded here as the study's interpretation, with the accurate note that Islam casts its own antichrist (the Dajjal) as the enemy and Jesus as the one who defeats him.
+
+*First introduced: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 
 ---
 
@@ -471,6 +537,7 @@ The Millennial Kingdom ends with the brief release of Satan, a final rebellion, 
 
 *First introduced: [[i. Can These Bones Live|Chapter 13 — Can These Bones Live]]*
 *Also relevant: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
+*Also relevant: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 
 ---
 
@@ -587,6 +654,7 @@ This position does not appear in the sequence Jesus describes in Matthew 24, whe
 Its practical danger is not only theological. A church that has been taught it will not suffer is a church that is structurally unprepared for persecution. When tribulation arrives and the Lord has not come to remove the church first, the result is either a crisis of faith or an abandonment of faith — exactly what Jesus warns against in his description of many turning away when the pressure becomes severe.
 
 *First introduced: [[i. Matthew 24|Chapter 14 — Matthew 24]] — see also [[Chapter 14/iii. Context|Chapter 14 — Context]]*
+*Also relevant: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 
 ---
 
@@ -623,6 +691,7 @@ This is fundamentally incompatible with the Gospel Jesus presented, for two reas
 
 *First introduced: [[i. Reading the Last Chapter|Chapter 01 - Reading the Last Chapter]]*
 *Also relevant: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
+*Also relevant: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 
 ---
 
@@ -709,6 +778,16 @@ Paul describes the principle in Romans 12:2: *"Do not conform to the pattern of 
 Sanctification is not self-improvement. It is the fruit of relationship — the Spirit working through the circumstances of a person's life, including difficulty and discipline, to produce the character that the relationship is designed to produce. God uses suffering, pruning, and seasons of apparent unproductivity as instruments of formation. None of it is random. All of it is aimed at making the branch capable of bearing the weight of what the Spirit intends to grow through it.
 
 *First introduced: [[i. A New Creation|Chapter 12 — A New Creation]]*
+
+---
+ 
+## Sea (Biblical Symbol of Chaos)
+
+The recurring biblical image of the sea as the realm of chaos — the part of creation that resists ordering and, in apocalyptic imagery, becomes the source of what is monstrous. The motif has deep roots across the ancient Near East, where the primeval sea was personified as a chaos power (the Mesopotamian Tiamat, the Ugaritic Yam). The Hebrew Bible engages this imagery but always subordinates the sea to God: it is never his rival, only a creature he masters and sets boundaries for.
+
+The motif runs throughout Scripture — the unformed deep of Genesis 1:2, the chaos monsters Leviathan and Rahab (Psalm 74; Psalm 89; Isaiah 27; Isaiah 51), and God's mastery of the waters as proof of his sovereignty (Job 38). In Daniel 7 the four beasts rise *out of the sea*, marking the Gentile empires as eruptions of chaos rather than products of order. Revelation carries the image to its conclusion: the beast rises from the sea (Revelation 13:1), and in the renewed creation "there was no longer any sea" (Revelation 21:1) — the announcement that chaos itself has been permanently undone.
+
+*First introduced: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 
 ---
 
@@ -799,6 +878,7 @@ When Jesus called himself the Son of Man, he was drawing on both layers simultan
 *First introduced: [[i. Reading the Last Chapter|Chapter 01 - Reading the Last Chapter]]*
 *Also relevant: [[i. The Jacket Cover|Chapter 02 - The Jacket Cover]]*
 *Also relevant: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
+*Also relevant: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 
 ---
 
@@ -836,6 +916,7 @@ The specific timeline and character of this period are addressed most precisely 
 
 *First introduced: [[i. Today This Scripture Is Fulfilled|Chapter 11 - Today This Scripture Is Fulfilled]]*
 *Also relevant: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
+*Also relevant: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 
 ---
 
@@ -850,6 +931,16 @@ The Time of the Gentiles was not an afterthought. Moses wrote that God would mak
 *(The detailed structure of the Time of the Gentiles and its connection to Daniel's seventy-weeks prophecy will be examined in a later session.)*
 
 *First introduced: [[i. Can These Bones Live|Chapter 13 — Can These Bones Live]]*
+
+---
+
+## Time, Times, and Half a Time
+
+A symbolic time-designation from Daniel 7:25, resolving to three and a half years (one "time" = one year, "times" = two years, and "half a time" = half a year). It marks the period during which the little horn — [[Glossary#Antichrist|the Antichrist]] — is permitted to wage war against the saints and prevail, before the [[Glossary#Ancient of Days|Ancient of Days]] pronounces judgment in their favor and the saints receive the kingdom.
+
+The same three-and-a-half-year span recurs throughout biblical prophecy in several forms (1,260 days; forty-two months), consistently denoting the second half of the final seven-year period — the era of the [[Glossary#Time of Jacob's Trouble|great tribulation]] that begins with the [[Glossary#Abomination of Desolation|abomination of desolation]] at the seven-year midpoint. *(The seven-year structure and the precise placement of these periods belong to Daniel 9, which the study takes up next.)*
+
+*First introduced: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 
 ---
 
