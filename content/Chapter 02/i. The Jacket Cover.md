@@ -5,7 +5,9 @@
 ---
 ## Audio Version
 
-Coming Soon!
+<figure>
+<audio controls src="/static/audio/chapter-02.mp3"></audio>
+</figure>
 
 ---
 
