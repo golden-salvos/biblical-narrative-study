@@ -13,6 +13,7 @@ Two prerequisites have not existed since 70 AD: a standing temple and an active 
 
 *First introduced: [[i. Matthew 24|Chapter 14 — Matthew 24]] — see also [[Chapter 14/iii. Context|Chapter 14 — Context]]*
 *Also relevant: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
+*Also relevant: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
 
 ---
 
@@ -60,6 +61,16 @@ In Islamic tradition, the Quran's account of the near-sacrifice does not name th
 
 ---
 
+## Alexander the Great
+
+The Macedonian king (356–323 BC) who conquered the Persian Empire and extended Greek rule from Greece through Egypt, Persia, and as far east as India — the largest empire the ancient world had yet seen. In Daniel 8, he is the large horn on the goat from the west: the speed of his conquest (the goat "crossed the whole earth without touching the ground") and the unprecedented scale of his power are central to the prophecy. He established his capital in Babylon and died there in 323 BC without a viable heir.
+
+His death precipitated the division of his empire among his generals (the [[Glossary#Diadochi|Diadochi]]) — the four horns of Daniel 8:8 and the four heads of the leopard in Daniel 7:6. Two of those successor kingdoms, the [[Glossary#Seleucid Empire|Seleucid]] north and the [[Glossary#Ptolemaic Empire|Ptolemaic]] south, became the dominant rivals over the land of Israel for the following two centuries and are the geographic theater of Daniel 11's detailed prophecies.
+
+*First introduced: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
+
+---
+
 ## Alpha and Omega
 
 The first and last letters of the Greek alphabet, used by Jesus in Revelation 22:13 as a title for himself: *"I am the Alpha and the Omega, the First and the Last, the Beginning and the End."* He states it three ways in a single breath, each formulation expressing the same reality from a slightly different angle.
@@ -100,6 +111,19 @@ The Antichrist is not the same as Satan. He is Satan's instrument — a human be
 
 *First introduced: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
 *Also relevant: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
+*Also relevant: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
+
+---
+
+## Antiochus IV Epiphanes
+
+The eighth king of the [[Glossary#Seleucid Empire|Seleucid Empire]], who ruled from 175 to 164 BC and serves in Scripture as the primary historical type of the [[Glossary#Antichrist|Antichrist]]. His adopted title *Epiphanes* means "God Manifest" — an irony Jewish contemporaries captured in their counter-title *Epimanes* ("the Mad One"). He did not come to power through legitimate succession but seized the throne through political intrigue while the rightful heir was held hostage in Rome.
+
+His campaign against Jewish religious practice was framed as cultural unification (Hellenization) but amounted to the systematic destruction of covenantal identity: he sold the Jerusalem high priesthood to compliant collaborators, defiled the temple by sacrificing a pig on the altar, erected an idol of Zeus in the sanctuary, and outlawed Sabbath observance, Torah reading, and circumcision on pain of death. These actions desecrated the temple from 167 to 164 BC — the historical event that corresponds to the 2,300 evenings and mornings of Daniel 8:14.
+
+His career is described in extraordinary detail in Daniel 11:21–35 and was recognized as such by Jewish interpreters before the Christian era. Jesus's reference to a future abomination of desolation in Matthew 24:15 establishes that Antiochus's acts were a preview, not the final fulfillment. What Antiochus did to a pagan idol the Antichrist will do in his own person: stand in the temple and declare himself God.
+
+*First introduced: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]] — see also [[Chapter 16/iii. Context|Chapter 16 — Context]]*
 
 ---
 
@@ -259,6 +283,7 @@ The Greek term ("successors") for the leading generals of Alexander the Great wh
 The four-fold division is the historical reality behind the imagery in Daniel's visions — the four heads and four wings of the leopard (Daniel 7:6) and the four horns that replace the broken great horn of the goat (Daniel 8:8, 22). Two of these successor kingdoms become the central rivals of the detailed prophecy in Daniel 11: the Seleucid "king of the North" and the Ptolemaic "king of the South," with the land of Israel positioned between them. *(The campaigns of the king of the North and the king of the South are developed in the study's work through Daniel 8 and 11.)*
 
 *First introduced: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
+Add: *Also relevant: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
 
 ---
 
@@ -359,6 +384,7 @@ The book identifies the first three directly: **Babylon** (the head of gold; the
 Both visions end the same way: every human empire is shattered and swept away, while God establishes a kingdom — the stone cut without human hands — that fills the earth and endures forever, given to the [[Glossary#Son of Man|Son of Man]] and inherited by the saints.
 
 *First introduced: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
+*Also relevant: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
 
 ---
 
@@ -426,6 +452,16 @@ The Great Commission is also the explanation for why God does not take believers
 
 ---
 
+## Hanukkah
+
+The eight-day Jewish festival commemorating the rededication of the Jerusalem temple in 164 BC following its desecration by [[Glossary#Antiochus IV Epiphanes|Antiochus IV Epiphanes]]. The Hebrew word *Hanukkah* means "dedication." The festival is the historical memorial of the [[Glossary#Maccabees|Maccabean]] victory — the recapture of Jerusalem, the cleansing of the temple, and the restoration of Jewish worship.
+
+The miracle at the center of the celebration is that oil sufficient for only one day of burning in the temple menorah burned continuously for eight days — the time required to prepare a new supply of ritually pure oil. This is the basis for the festival's eight-day duration and the lighting of the Hanukkiah (the eight-branched menorah). Hanukkah is mentioned in John 10:22, which records Jesus walking in the temple portico during the Feast of Dedication — indicating that he was in Jerusalem for the celebration and that the question of the consecration of sacred space was live in the minds of those who approached him there.
+
+*First introduced: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
+
+---
+
 ## Imago Dei
 
 Latin for "image of God" — the theological concept derived from Genesis 1:26–27, where God declares: *"Let us make man in our image, in our likeness."* The *Imago Dei* is what distinguishes human beings from every other creature in the creation narrative. It is not a physical resemblance to God — it is a relational and spiritual likeness.
@@ -445,6 +481,7 @@ The political-religious institution claiming leadership (the *caliphate*) over t
 In this study, the historical caliphate — and its anticipated revival — is the proposed identity of the unnamed fourth kingdom of Daniel. The interpretive argument rests on the behavior of the fourth beast (which crushes rather than assimilates) and on reading its final ten-king coalition as nations surrounding Israel. This is a minority eschatological position; the traditional identification of the fourth kingdom is Rome. The reading is recorded here as the position the study takes, not as a settled fact. *(The full case is developed in later sessions on Daniel and Revelation.)*
 
 *First introduced: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
+*Also relevant: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
 
 ---
 
@@ -467,6 +504,18 @@ In Greek thought, the *Logos* was the rational principle underlying the universe
 John synthesizes all of this. For the Greek reader: the rational ground of reality you have always sensed is not an abstract force but a person. For the Jewish reader: the divine Word and Wisdom you have read about your whole life became flesh. The theological precision of John 1:1 — "with God" (distinction) and "was God" (identity) — establishes the Logos as the pre-incarnate Son, who then becomes flesh in the Incarnation (verse 14). The Logos is not a secondary or lesser divine being; he is the agent of all creation, the one through whom "all things were made."
 
 *First introduced: [[i. The Jacket Cover|Chapter 02 - The Jacket Cover]] — see also [[Chapter 02/iii. Context|Chapter 02 - Context]]*
+
+---
+
+## Maccabees
+
+The priestly family — formally the Hasmoneans — who led the Jewish revolt against [[Glossary#Antiochus IV Epiphanes|Antiochus IV Epiphanes]] beginning in 167 BC. The family patriarch Mattathias, a priest from Modi'in, initiated the revolt when he killed both the Seleucid official and a Jewish collaborator who attempted to perform pagan sacrifice publicly. His son Judas became the primary military commander and earned the epithet *Maccabeus* ("the Hammer"), a nickname that passed to the family and to the revolt.
+
+The Maccabean campaign recaptured Jerusalem in 164 BC, cleansed and rededicated the temple (the origin of [[Glossary#Hanukkah|Hanukkah]]), and ultimately established an independent Jewish state — the Hasmonean dynasty — that endured until Roman conquest. The revolt is documented in 1 and 2 Maccabees, books preserved in the deuterocanonical literature (Catholic and Orthodox canon) and treated as historical but non-canonical by most Protestants. The events they record are among the most thoroughly verified by external historical sources of any period in the intertestamental era.
+
+The Maccabean revolt is the historical fulfillment of the "little help" received by the people in Daniel 11:34, and the reconsecration of the temple closes out the 2,300-day period of Daniel 8:14.
+
+*First introduced: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]] — see also [[Chapter 16/iii. Context|Chapter 16 — Context]]*
 
 ---
 
@@ -645,6 +694,16 @@ The first five books of the Bible: Genesis, Exodus, Leviticus, Numbers, and Deut
 
 ---
 
+## Ptolemaic Empire
+
+One of the four successor kingdoms that emerged from the breakup of Alexander the Great's empire following his death in 323 BC. Founded by Ptolemy I Soter, one of Alexander's generals, the Ptolemaic Empire was centered in Egypt with its capital at Alexandria. It controlled Egypt, Libya, Cyprus, and at various points portions of the southern Levant — including Judea.
+
+In Daniel's prophetic framework, the Ptolemaic Empire is the "king of the South" whose campaigns against the [[Glossary#Seleucid Empire|Seleucid]] "king of the North" form the central drama of Daniel 11. The land of Israel, positioned directly between them, was fought over repeatedly in what historians call the Syrian Wars. The Ptolemaic dynasty produced one of the most significant textual artifacts of the ancient world: the Septuagint, the Greek translation of the Hebrew scriptures, produced in Alexandria under Ptolemaic patronage in the third and second centuries BC. It became the Bible of the early church and the version most frequently quoted in the New Testament.
+
+*First introduced: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]] — see also [[Chapter 16/iii. Context|Chapter 16 — Context]]*
+
+---
+
 ## Pre-Tribulation Rapture
 
 The doctrine claiming that Jesus will secretly return to gather the church before the events of the Great Tribulation begin, leaving unbelievers to face the Antichrist and the tribulation period alone. On this view, the removal of the church is a prerequisite for the resumption of God's prophetic program for Israel, which the church age is believed to have interrupted.
@@ -791,6 +850,19 @@ The motif runs throughout Scripture — the unformed deep of Genesis 1:2, the ch
 
 ---
 
+## Seleucid Empire
+
+One of the four successor kingdoms of [[Glossary#Alexander the Great|Alexander the Great]], founded by Seleucus I Nicator after the fragmentation of the empire following Alexander's death in 323 BC. The Seleucid Empire controlled Syria, Mesopotamia, and significant portions of Asia Minor, Persia, and the northern Middle East — with its primary capital at Antioch on the Orontes (near the present-day Syrian-Turkish border) and a secondary capital at Seleucia on the Tigris.
+
+In Daniel's prophetic framework, the Seleucid Empire is the "king of the North" — the northern power whose campaigns against the [[Glossary#Ptolemaic Empire|Ptolemaic]] "king of the South" dominate Daniel 11. The land of Israel lay between them. The most historically significant Seleucid king for biblical prophecy is [[Glossary#Antiochus IV Epiphanes|Antiochus IV Epiphanes]], who desecrated the Jerusalem temple in 167 BC and is the near fulfillment of the little horn in Daniel 8.
+
+The geographic region of the Seleucid Empire — present-day Turkey and northern Syria — is the area identified across Daniel, and consistent with Isaiah's use of "the Assyrian" as a title for the end-times enemy, as the origin point of the final [[Glossary#Antichrist|Antichrist]] power. The northern Seleucid kingdom is the seed from which that final empire grows.
+
+*First introduced: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]] — see also [[Chapter 16/iii. Context|Chapter 16 — Context]]*
+
+---
+
+
 ## Servant Songs
 
 The connected body of passages in Isaiah in which God designates and describes a figure called "my servant" (*eved*), building a composite portrait of a person who accomplishes for Israel and the nations what Israel itself was called but failed to do. The term "Servant Songs" in biblical scholarship typically refers to four primary passages: Isaiah 42:1–9, Isaiah 49:1–6, Isaiah 50:4–11, and Isaiah 52:13–53:12 — with the related passage of Isaiah 61 sometimes included. The designation is a modern scholarly convenience for a pattern that ancient readers also recognized as thematically unified.
@@ -800,6 +872,18 @@ The servant in these passages is characterized by a distinctive combination of q
 The New Testament consistently reads the Servant Songs as fulfilled in Jesus — a reading Jesus himself initiates in Luke 4 and develops in his self-identification with the songs' imagery throughout his ministry. Isaiah 53 is quoted or referenced more times in the New Testament than almost any other Old Testament passage.
 
 *First introduced: [[i. Today This Scripture Is Fulfilled|Chapter 11 - Today This Scripture Is Fulfilled]] — see also [[Chapter 11/iii. Context|Chapter 11 - Context]]*
+
+---
+
+## Seventy Weeks (Seventy Sevens)
+
+The prophetic framework given to Daniel by the angel [[Glossary#Gabriel|Gabriel]] in Daniel 9:24–27, covering 490 years (seventy "sevens" of years) from the decree to rebuild Jerusalem to the completion of God's ultimate purposes for his people and their city. The six objectives of the prophecy — finishing transgression, putting an end to sin, atoning for wickedness, bringing in everlasting righteousness, sealing up vision and prophecy, and anointing the Most Holy Place — describe conditions that will exist only at the establishment of the [[Glossary#Millennial Kingdom|Millennial Kingdom]].
+
+The 490 years are structured in three segments. The first forty-nine years (seven sevens) account for the physical rebuilding of Jerusalem under Nehemiah. The following 434 years (sixty-two sevens) run from that rebuilding to the coming of the Anointed One as ruler — historically the [[Glossary#Triumphal Entry|Triumphal Entry]] of Jesus into Jerusalem. Together these sixty-nine sevens equal 483 years, which, calculated in Jewish lunar years and adjusted to the Julian calendar, resolve to 33 AD from the decree of Artaxerxes in 444 BC.
+
+After the sixty-ninth seven, two events occur outside the timeline: the Anointed One is cut off (the crucifixion), and the city and sanctuary are destroyed by the people of the coming ruler (70 AD). The gap between the sixty-ninth and seventieth weeks is the [[Glossary#Time of the Gentiles|Time of the Gentiles]]. The seventieth week — the final seven years — begins when the [[Glossary#Antichrist|Antichrist]] confirms a covenant with many. Its midpoint is the [[Glossary#Abomination of Desolation|Abomination of Desolation]]. Its end is the destruction of the Antichrist and the beginning of the Millennial Kingdom.
+
+*First introduced: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
 
 ---
 
@@ -928,9 +1012,8 @@ Paul describes this period's terminus in Romans 11:25: *"Israel has experienced 
 
 The Time of the Gentiles was not an afterthought. Moses wrote that God would make Israel envious through a nation that was not a nation. Isaiah said he would be found by those who were not seeking him. The global scope of the [[Glossary#Abrahamic Covenant|Abrahamic Covenant]] promise — *"all peoples on earth will be blessed through you"* — is being fulfilled across this period. Its precise structural relationship to Daniel's prophetic calendar will be addressed when the study reaches Daniel.
 
-*(The detailed structure of the Time of the Gentiles and its connection to Daniel's seventy-weeks prophecy will be examined in a later session.)*
-
 *First introduced: [[i. Can These Bones Live|Chapter 13 — Can These Bones Live]]*
+*Also relevant: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
 
 ---
 
@@ -938,9 +1021,10 @@ The Time of the Gentiles was not an afterthought. Moses wrote that God would mak
 
 A symbolic time-designation from Daniel 7:25, resolving to three and a half years (one "time" = one year, "times" = two years, and "half a time" = half a year). It marks the period during which the little horn — [[Glossary#Antichrist|the Antichrist]] — is permitted to wage war against the saints and prevail, before the [[Glossary#Ancient of Days|Ancient of Days]] pronounces judgment in their favor and the saints receive the kingdom.
 
-The same three-and-a-half-year span recurs throughout biblical prophecy in several forms (1,260 days; forty-two months), consistently denoting the second half of the final seven-year period — the era of the [[Glossary#Time of Jacob's Trouble|great tribulation]] that begins with the [[Glossary#Abomination of Desolation|abomination of desolation]] at the seven-year midpoint. *(The seven-year structure and the precise placement of these periods belong to Daniel 9, which the study takes up next.)*
+The same three-and-a-half-year span recurs throughout biblical prophecy in several forms (1,260 days; forty-two months), consistently denoting the second half of the final seven-year period — the era of the [[Glossary#Time of Jacob's Trouble|great tribulation]] that begins with the [[Glossary#Abomination of Desolation|abomination of desolation]] at the seven-year midpoint. 
 
 *First introduced: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
+*Also relevant: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
 
 ---
 
@@ -965,6 +1049,19 @@ The Babel event is the historical occasion described in Deuteronomy 32:8–9, wh
 *First introduced: [[i. The Divine Council and the Seventy Nations|Chapter 06 - The Divine Council and the Seventy Nations]]*
 
 ---
+
+## Triumphal Entry
+
+The event recorded in all four Gospels (Matthew 21:1–11; Mark 11:1–11; Luke 19:28–44; John 12:12–19) in which Jesus entered Jerusalem on a donkey during Passover week, approximately 33 AD, to the proclamation of the crowd — *Hosanna! Blessed is he who comes in the name of the Lord!* — and the spreading of cloaks and palm branches on the road before him.
+
+In Daniel 9:25, this event closes the sixty-ninth seven of the Seventy Weeks prophecy — the moment the Anointed One (Hebrew: *Mashiach*; Greek: *Christos*) comes as the ruler. The entry fulfills Zechariah 9:9, which prophesied that Zion's king would come riding on a donkey. The date 10 Nisan — when lambs were selected for Passover sacrifice — is the day on which Jesus presented himself in Jerusalem, four days before his crucifixion on 14 Nisan (Passover). The alignment is not incidental: he is the Passover lamb.
+
+The Triumphal Entry is the moment Israel's king officially presented himself. The crowd recognized it. The religious establishment refused it. And everything that follows — crucifixion, resurrection, the destruction of Jerusalem, and the long gap of the Time of the Gentiles — flows from that rejection.
+
+*First introduced: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
+
+---
+
 ## Typology
 
 The interpretive framework, built into Scripture itself, in which persons, institutions, or events in the Old Testament are recognized as deliberate patterns that God designed to preview later and greater realities — most centrally, the person and work of Jesus. A "type" (from the Greek *typos*, meaning an impression or pattern) is the earlier figure or event; the "antitype" is its fulfillment.
