@@ -1,6 +1,8 @@
 > *"Seventy 'sevens' are decreed for your people and your holy city to finish transgression, to put an end to sin, to atone for wickedness, to bring in everlasting righteousness, to seal up vision and prophecy and to anoint the Most Holy Place."*
 > — Daniel 9:24
 
+---
+
 # 1. Recap: The Four Kingdoms of Daniel 2 and 7
 
 The previous session established the parallel visions of Daniel 2 and 7 — two pictures of the same sequence of Gentile empires, one from the ground up (Nebuchadnezzar's statue) and one from heaven down (four beasts rising from the sea). The first three kingdoms were identified directly by the text: [[Glossary#Babylon|Babylon]], [[Glossary#Medo-Persia|Medo-Persia]], and [[Glossary#Greece|Greece]]. The fourth kingdom — brutal, totalizing, and unlike all its predecessors — remains contested by scholars but is presented in this study as a revived [[Glossary#Islamic Caliphate|Islamic Caliphate]]. Both visions culminate in the same conclusion: every human empire is swept away and replaced by God's eternal kingdom, given to the [[Glossary#Son of Man|Son of Man]].
