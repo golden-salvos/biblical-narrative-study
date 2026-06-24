@@ -14,6 +14,7 @@ Two prerequisites have not existed since 70 AD: a standing temple and an active 
 *First introduced: [[i. Matthew 24|Chapter 14 — Matthew 24]] — see also [[Chapter 14/iii. Context|Chapter 14 — Context]]*
 *Also relevant: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 *Also relevant: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
+*Also relevant: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
 
 ---
 
@@ -112,6 +113,7 @@ The Antichrist is not the same as Satan. He is Satan's instrument — a human be
 *First introduced: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
 *Also relevant: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 *Also relevant: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
+*Also relevant: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
 
 ---
 
@@ -284,6 +286,7 @@ The four-fold division is the historical reality behind the imagery in Daniel's 
 
 *First introduced: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 Add: *Also relevant: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
+*Also relevant: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
 
 ---
 
@@ -438,6 +441,18 @@ Gog enters this study through Balaam's third oracle in Numbers 24, where the Sep
 
 ---
 
+## Gabriel
+
+One of two named archangels in the canonical Scriptures (the other being [[Glossary#Michael|Michael]]). Gabriel functions consistently as the revealer — the angelic messenger assigned to deliver divine explanation of visions and prophecies. In Daniel, he appears in chapters 8, 9, and 10, each time explaining to Daniel what a vision means or what is about to occur.
+
+His role in Daniel 10 is particularly significant for understanding how spiritual warfare operates at the national and cosmic level: Gabriel was dispatched from heaven the moment Daniel began praying, but was detained for twenty-one days by the "prince of the Persian kingdom" before Michael came to assist him. This episode establishes that even archangels operate within an authority structure that respects the jurisdictional lines of the divine council.
+
+In the New Testament, Gabriel announces to Zechariah that his wife Elizabeth will bear John the Baptist (Luke 1:19), and announces to Mary that she will conceive Jesus (Luke 1:26–38). He identifies himself in Luke 1:19 as one who "stands in the presence of God" — a description of his standing in the divine court.
+
+*First introduced: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
+
+---
+
 ## Great Commission
 
 The final instruction Jesus gave his disciples before his ascension, recorded in Matthew 28:18–20: *"All authority in heaven and on earth has been given to me. Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age."*
@@ -449,6 +464,18 @@ The content is specific: make disciples, which means forming followers of Christ
 The Great Commission is also the explanation for why God does not take believers to glory immediately upon conversion. They are left in the world on mission, as instruments through whom the Spirit reaches those who have not yet come in. The presence of believers in the world is not accidental. It is the form of God's ongoing mission.
 
 *First introduced: [[i. A New Creation|Chapter 12 — A New Creation]]*
+
+---
+
+## Great Tribulation
+
+The term used by Jesus in Matthew 24:21 to describe the final three-and-a-half-year period of history that begins at the [[Glossary#Abomination of Desolation|Abomination of Desolation]] — when the [[Glossary#Antichrist|Antichrist]] stands in the rebuilt temple in Jerusalem, declares himself God, and demands worship. The period is also described in Daniel as "a time of distress such as has not happened from the beginning of nations until then" (Daniel 12:1), and in Revelation as the forty-two months during which the beast wages war against the saints (Revelation 13:5–7).
+
+Three-and-a-half years, 1260 days, forty-two months, and "time, times, and half a time" all refer to the same period. The great tribulation is the second half of the final seven-year period described in Daniel 9. It is distinct from the first three-and-a-half years, during which the Antichrist operates as a political figure without having yet revealed his full nature.
+
+The author of the great tribulation is the Antichrist, empowered by Satan after his expulsion from heaven (Revelation 12). This distinguishes it from the [[Glossary#Wrath of God|wrath of God]], which is poured out only by God himself upon those who have hardened themselves against him. The great tribulation is persecution; the wrath of God is judgment. Both are present in the final period, but they are not the same thing and they do not have the same author.
+
+*First introduced: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
 
 ---
 
@@ -492,6 +519,18 @@ In the biblical sense, joy is distinct from happiness. Where happiness is circum
 Paul describes this in Philippians 4:11: *"I have learned to be content whatever the circumstances"* — written from prison. Joy, in this framework, is not a feeling that happens to you. It is a settled state that forms in you through relationship with God, particularly through difficulty.
 
 *First introduced: [[i. Reading the Last Chapter|Chapter 01 - Reading the Last Chapter]]*
+
+---
+
+## King of the North / King of the South
+
+Designations used in Daniel 11 for the two successor kingdoms of Alexander the Great's fragmented empire that share a border through the land of Israel. After Alexander's death and the division of his empire among his generals (the [[Glossary#Diadochi|Diadochi]]), the two kingdoms that become relevant to Israel's history are the Ptolemaic kingdom, based in Egypt (the king of the south), and the Seleucid kingdom, based in Syria and the northern Levant (the king of the north).
+
+Israel sits between them — geographically, economically, and strategically — and Daniel 11 describes their roughly 150-year conflict in prophetic detail, covering events from approximately 320 BC to 167 BC.
+
+The same language appears in Daniel 11:40–43 in an eschatological context, describing events at "the time of the end." There, the king of the south and the king of the north engage the [[Glossary#Antichrist|Antichrist]] in battle. These are end-times actors in the same geographic region, not the same historical kingdoms — the designations carry forward as geographic and directional references rather than as identifications of the Ptolemaic or Seleucid dynasties specifically.
+
+*First introduced: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
 
 ---
 
@@ -571,6 +610,18 @@ In the first century, dominant Jewish expectation centered on a political and mi
 
 *First introduced: [[i. Reading the Last Chapter|Chapter 01 - Reading the Last Chapter]]*
 *Also relevant: [[i. Today This Scripture Is Fulfilled|Chapter 11 - Today This Scripture Is Fulfilled]]*
+
+---
+
+## Michael
+
+One of two named archangels in canonical Scripture (the other being [[Glossary#Gabriel|Gabriel]]). Michael is identified in Daniel as "one of the chief princes" (Daniel 10:13) and as "the great prince who protects your people" (Daniel 12:1) — the angelic authority assigned specifically to Israel. His title "your prince" (Daniel 10:21) reflects the same divine council structure established at Babel: just as the nations were assigned angelic overseers, Israel has a specifically designated heavenly champion.
+
+In Daniel 10, Michael comes to Gabriel's aid when Gabriel is detained by the prince of Persia, providing the authority necessary for Gabriel's mission to proceed inside Persian-governed territory. In Daniel 12, he arises at the moment immediately preceding the [[Glossary#Great Tribulation|great tribulation]] — an action whose full meaning is sealed in Daniel but revealed in Revelation 12, where Michael wages and wins the final battle for the heavenly court, expelling Satan and his angels permanently from access to heaven.
+
+In Jude 9, Michael is described as contending with the devil over the body of Moses. In Revelation 12:7, he leads the angelic army that defeats the dragon. In 1 Thessalonians 4:16, the voice of an archangel accompanies the return of Christ — a connection Jewish tradition associated with Michael specifically.
+
+*First introduced: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
 
 ---
 
@@ -739,6 +790,7 @@ In the framework of Deuteronomy 32 and the divine council, principalities are th
 Paul's language in Colossians 2:15 — where he describes Jesus having "disarmed the powers and authorities" at the cross — reflects the same worldview: the governing spiritual structures operating against humanity within the present age have been rendered subject to a higher authority. Their judgment, described in Psalm 82, is certain; its execution awaits the consummation.
 
 *First introduced: [[i. The Divine Council and the Seventy Nations|Chapter 06 - The Divine Council and the Seventy Nations]]*
+*Also relevant: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
 
 ---
 
@@ -847,6 +899,7 @@ The recurring biblical image of the sea as the realm of chaos — the part of cr
 The motif runs throughout Scripture — the unformed deep of Genesis 1:2, the chaos monsters Leviathan and Rahab (Psalm 74; Psalm 89; Isaiah 27; Isaiah 51), and God's mastery of the waters as proof of his sovereignty (Job 38). In Daniel 7 the four beasts rise *out of the sea*, marking the Gentile empires as eruptions of chaos rather than products of order. Revelation carries the image to its conclusion: the beast rises from the sea (Revelation 13:1), and in the renewed creation "there was no longer any sea" (Revelation 21:1) — the announcement that chaos itself has been permanently undone.
 
 *First introduced: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
+*Also relevant: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
 
 ---
 
@@ -1025,6 +1078,7 @@ The same three-and-a-half-year span recurs throughout biblical prophecy in sever
 
 *First introduced: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 *Also relevant: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
+*Also relevant: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
 
 ---
 
@@ -1074,6 +1128,7 @@ Recognizing typological patterns does not reduce the Old Testament figures to me
 
 *First introduced: [[i. The Abrahamic Covenant|Chapter 08 - The Abrahamic Covenant]] — see also [[Chapter 08/iii. Context|Chapter 08 - Context]]*
 *Also relevant: [[i. Today This Scripture Is Fulfilled|Chapter 11 - Today This Scripture Is Fulfilled]]*
+*Also relevant: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
 
 ---
 
@@ -1102,6 +1157,18 @@ The full account of the Watchers — their oath before descending, what they tau
 *First introduced: [[i. The Watchers and the Flood|Chapter 04 - The Watchers and the Flood]] — see also [[Chapter 04/iii. Context|Chapter 04 - Context]]*
 *Also relevant: [[i. 1 Enoch — A Quick Glance|Chapter 05 - 1 Enoch — A Quick Glance]]*
 *Also relevant: [[i. The Divine Council and the Seventy Nations|Chapter 06 - The Divine Council and the Seventy Nations]]*
+
+---
+
+## Wrath of God
+
+The divine judgment poured out by God himself upon those who have rejected his offer of mercy and hardened themselves against him. Wrath is categorically distinct from tribulation, persecution, or suffering — which God may allow or use for redemptive purposes. Wrath has no redemptive purpose for its recipients; it is the execution of justice against those for whom the window of repentance has closed.
+
+The distinction matters for understanding the end-times sequence. The [[Glossary#Great Tribulation|great tribulation]] — brought by the [[Glossary#Antichrist|Antichrist]] and Satan — is persecution. God permits it but does not originate it, and his people pass through it. The wrath of God — poured out in the bowl judgments of Revelation and ultimately in the return of Christ at Armageddon — is something God's people do not face, because they are covered by the blood of the Lamb.
+
+Paul's statement in 1 Thessalonians 5:9 — "God did not appoint us to suffer wrath but to receive salvation through our Lord Jesus Christ" — is a statement about the church's protection from this divine judgment, not from tribulation or suffering generally. The church is not exempt from hardship. It is exempt from condemnation.
+
+*First introduced: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
 
 ---
 
