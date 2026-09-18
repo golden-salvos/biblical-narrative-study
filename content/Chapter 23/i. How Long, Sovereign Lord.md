@@ -3,6 +3,14 @@
 
 ---
 
+## Audio Version
+
+<figure>
+<audio controls src="/static/audio/chapter-23.mp3"></audio>
+</figure>
+
+---
+
 ## Overview
 
 Revelation 6 and 7 are where the pieces finally lock together. Everything this study has assembled — Daniel's four kingdoms and his seventy sevens, Ezekiel's oracles against Gog, Matthew 24, Paul's letters to the Thessalonians — has been describing the same seven-year period from different angles and in different imagery. Here, in the breaking of seven seals, the sequence is laid out in order, and the question that has hung over the whole study gets an answer: where, exactly, does the church's rescue fall inside the end?

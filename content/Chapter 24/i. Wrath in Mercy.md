@@ -3,6 +3,14 @@
 
 ---
 
+## Audio Version
+
+<figure>
+<audio controls src="/static/audio/chapter-24.mp3"></audio>
+</figure>
+
+---
+
 ## Overview
 
 The seventh seal is opened, heaven goes silent, and seven angels are handed seven trumpets. What follows in Revelation 8 and 9 is the first movement of God's [[Glossary#Wrath of God|wrath]] on the earth: a burning mountain, a star named Wormwood, an army of locusts with the tails of scorpions, two hundred million riders. The pull is to go straight to the details and try to decode each one. The details matter, but they serve a design, and the design has to come first. The [[Glossary#Seven Trumpets|trumpet judgments]] have a specific target, a specific audience, and a specific order, and each of those says something about who God is. This session works through the first six trumpets with that design in view: wrath aimed at those whose choice is already made, displayed for those whose choice is not, and sequenced as an answer to what humanity has done with its Creator.
