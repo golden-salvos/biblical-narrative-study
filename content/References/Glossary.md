@@ -42,6 +42,7 @@ One functional prerequisite has not existed since 70 AD: an active sacrificial s
 *Also relevant: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
 *Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
 *Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
+*Also relevant: [[i. No More Delay|Chapter 25 — No More Delay]]*
 
 ---
 
@@ -60,6 +61,7 @@ The covenant sign established in Genesis 17 is circumcision — a permanent phys
 *First introduced: [[i. The Abrahamic Covenant|Chapter 08 - The Abrahamic Covenant]]*
 *Also relevant: [[i. Can These Bones Live|Chapter 13 — Can These Bones Live]]*
 *Also relevant: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
+*Also relevant: [[i. No More Delay|Chapter 25 — No More Delay]]*
 
 ---
 
@@ -84,6 +86,7 @@ The Greek word (ἀγάπη) used throughout the New Testament for the highest o
 The distinction between *agapē* and *phileō* (warm, brotherly affection) comes into sharpest focus in John 21:15–17, where Jesus asks Peter three times whether he loves him. Jesus uses *agapē* in the first two questions; Peter consistently responds with *phileō*, being honest about what he can offer in that moment. On the third exchange Jesus meets him with *phileō* — acknowledging where Peter actually is and commissioning him anyway. The transformation of Peter's love into something capable of leading him eventually to his own death was not accomplished by Peter's greater effort but by the Spirit poured out at Pentecost.
 
 *First introduced: [[i. A New Creation|Chapter 12 — A New Creation]] — see also [[Chapter 12/iii. Context|Chapter 12 — Context]]*
+*Also relevant: [[i. No More Delay|Chapter 25 — No More Delay]]*
 
 ---
 
@@ -296,6 +299,7 @@ Christophanies matter for this study because they establish Jesus not as a New T
 *First introduced: [[i. The Jacket Cover|Chapter 02 - The Jacket Cover]] — see also [[Chapter 02/iii. Context|Chapter 02 - Context]]*
 *Also relevant: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]*
 *Also relevant: [[i. Walking Among the Lampstands|Chapter 20 — Walking Among the Lampstands]]*
+*Also relevant: [[i. No More Delay|Chapter 25 — No More Delay]]*
 
 ---
 
@@ -430,6 +434,18 @@ The divine council is not a pantheon of independent deities. It is a governing s
 *First introduced: [[i. The Divine Council and the Seventy Nations|Chapter 06 - The Divine Council and the Seventy Nations]]*
 *Also relevant: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
 *Also relevant: [[i. Walking Among the Lampstands|Chapter 20 — Walking Among the Lampstands]]*
+
+---
+## Divine Self-Oath
+
+The pattern in Scripture of God swearing an oath by himself rather than by any greater power — because no greater power exists for him to invoke. Hebrews 6:13–18 states the logic directly: an oath ordinarily works by calling on something greater than the one making the promise, as a guarantee that the promise will be kept. Since nothing is greater than God, that mechanism is unavailable to him in the ordinary sense. He resolves it by taking on both roles at once — he is the one making the promise, and by swearing by himself he becomes his own guarantee.
+
+The same move appears in the Song of Moses in Deuteronomy 32:40, where God declares, *"I lift my hand to heaven and declare: as surely as I live forever,"* immediately before pronouncing judgment on his enemies and vindication for his people — his own eternal life is what certifies what follows. It appears again, more concretely, in the covenant-cutting ceremony of [[Glossary#Abrahamic Covenant|Genesis 15]], where God alone passes as a smoking firepot and blazing torch between the divided animal halves while Abraham sleeps — God takes both sides of the oath himself, rather than letting the covenant's certainty rest even partly on Abraham's future faithfulness.
+
+Revelation 10:5–7 places this same pattern in the mouth of the mighty angel — the pre-incarnate Christ — raising his right hand to heaven and swearing "by him who lives forever and ever" that there will be no more delay. Read against its background in Deuteronomy and Genesis, the oath is not evidence of a limitation on the one making it. It is the strongest possible form a divine promise can take, because the only thing backing it is the one thing in the universe that cannot fail to keep its word.
+
+*First introduced: [[i. No More Delay|Chapter 25 — No More Delay]]*
+*Also relevant: [[i. The Abrahamic Covenant|Chapter 08 - The Abrahamic Covenant]]*
 
 ---
 
@@ -653,6 +669,7 @@ The author of the great tribulation is the Antichrist, empowered by Satan after 
 *Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
 *Also relevant: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
 *Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
+*Also relevant: [[i. No More Delay|Chapter 25 — No More Delay]]*
 
 ---
 
@@ -886,6 +903,7 @@ The Millennial Kingdom ends with the brief release of Satan, a final rebellion, 
 *Also relevant: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
 *Also relevant: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 *Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
+*Also relevant: [[i. No More Delay|Chapter 25 — No More Delay]]*
 
 ---
 
@@ -900,6 +918,7 @@ Second, at its southern base lies Caesarea Philippi, where Jesus chose to ask hi
 Third, the Transfiguration — in which Jesus revealed himself in full divine glory to Peter, James, and John, with the Father's voice declaring his identity from a cloud — took place on the summit of this same mountain. On the site of the Watchers' rebellion, Jesus showed himself to be God.
 
 *First introduced: [[i. 1 Enoch — A Quick Glance|Chapter 05 - 1 Enoch — A Quick Glance]]*
+*Also relevant: [[i. No More Delay|Chapter 25 — No More Delay]]*
 
 ---
 
@@ -991,6 +1010,7 @@ The Noahic Covenant is distinguished from every other biblical covenant by its s
 The sign of the covenant is the rainbow. Unlike every other covenant sign in Scripture, it is produced by natural law rather than by any human act — light refracted through water in the atmosphere, appearing over every part of the earth. In later prophetic and apocalyptic literature, the rainbow consistently marks the appearance of God's own glory: Ezekiel 1:28 describes the divine radiance as "like a rainbow in the clouds," and Revelation 4:3 places a rainbow around the throne of God. The covenant sign and the marker of divine presence are the same image.
 
 *First introduced: [[i. The Watchers and the Flood|Chapter 04 - The Watchers and the Flood]]*
+*Also relevant: [[i. No More Delay|Chapter 25 — No More Delay]]*
 
 ---
 
@@ -1125,6 +1145,7 @@ The placement of the rapture within the end-times sequence is not ambiguous in e
 *First introduced: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
 *Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
 *Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
+*Also relevant: [[i. No More Delay|Chapter 25 — No More Delay]]*
 
 ---
 ### Red Heifer
@@ -1332,6 +1353,7 @@ The pillar of cloud and fire that led Israel through the wilderness is an expres
 *First introduced: [[i. Then You Will Know|Chapter 09 - Then You Will Know]]*
 *Also relevant: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
 *Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
+*Also relevant: [[i. No More Delay|Chapter 25 — No More Delay]]*
 
 ---
 
@@ -1381,6 +1403,7 @@ The Septuagint (Greek Old Testament, second–third century BC) renders the phra
 
 *First introduced: [[i. The Watchers and the Flood|Chapter 04 - The Watchers and the Flood]] — see also [[Chapter 04/iii. Context|Chapter 04 - Context]]*
 *Also relevant: [[i. The Divine Council and the Seventy Nations|Chapter 06 - The Divine Council and the Seventy Nations]]*
+*Also relevant: [[i. No More Delay|Chapter 25 — No More Delay]]*
 
 ---
 
@@ -1399,6 +1422,7 @@ When Jesus called himself the Son of Man, he was drawing on both layers simultan
 *Also relevant: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
 *Also relevant: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 *Also relevant: [[i. Walking Among the Lampstands|Chapter 20 — Walking Among the Lampstands]]*
+*Also relevant: [[i. No More Delay|Chapter 25 — No More Delay]]*
 
 ---
 
@@ -1500,6 +1524,7 @@ The Time of the Gentiles was not an afterthought. Moses wrote that God would mak
 *First introduced: [[i. Can These Bones Live|Chapter 13 — Can These Bones Live]]*
 *Also relevant: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
 *Also relevant: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
+*Also relevant: [[i. No More Delay|Chapter 25 — No More Delay]]*
 
 ---
 
@@ -1571,6 +1596,18 @@ Twenty-four figures seated on thrones surrounding the throne of God in Revelatio
 
 ---
 
+## Two Witnesses
+
+The two prophetic figures described in Revelation 11:3–13, granted power to prophesy for 1,260 days clothed in sackcloth. John identifies them as "the two olive trees and the two lampstands that stand before the Lord of the earth" — imagery drawn from Zechariah 4, where the same picture originally represented two Spirit-empowered leaders standing in God's service. During their ministry they are immune to harm — fire comes from their mouths to consume anyone who tries to kill them — and they carry authority to shut up the sky so it does not rain, to turn water into blood, and to strike the earth with every kind of plague, at will.
+
+The witnesses function as a divine counterbalance set directly against the Antichrist's regime during the tribulation: where he demands worship, they call the world to repentance; where he claims total authority, they wield power he cannot touch until their testimony is finished. When their 1,260 days are complete, the beast is permitted to overpower and kill them, and their bodies lie exposed in the street of Jerusalem for three and a half days while the world celebrates their death and refuses them burial. God then raises them, and in full view of their enemies calls them up to heaven in a cloud — an event immediately followed by a severe earthquake that kills seven thousand people and drives the survivors to give glory to God.
+
+Their identity is not stated in the text, and it is the oldest open question surrounding this chapter. The strongest historical case, held by the earliest church fathers who addressed it directly — Tertullian, Irenaeus, and Hippolytus — identifies them as Enoch and Elijah: the only two people in Scripture who have not yet died in the ordinary sense, making them the two who could still be killed once in Jerusalem and thereby fulfill the "appointed for man to die once" principle of Hebrews 9:27. The leading alternative identifies them as Moses and Elijah, on the strength of the water-to-blood and drought miracles that mirror the plagues of Egypt and Elijah's contest with the prophets of Baal — though this reading has to work around Deuteronomy 34:5–7, which records that Moses died and was buried.
+
+*First introduced: [[i. No More Delay|Chapter 25 — No More Delay]]*
+
+---
+
 ## Valley of Dry Bones
 
 The vision given to Ezekiel in chapter 37 of his book, in which he is set down in a valley filled with dry bones and commanded to prophesy to them, causing them to reassemble, be clothed with flesh, and finally receive breath — at which point they stand as a vast army. God's own interpretation of the vision follows immediately: *"These bones are the whole house of Israel."*
@@ -1632,6 +1669,7 @@ Paul's statement in 1 Thessalonians 5:9 — "God did not appoint us to suffer wr
 *First introduced: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
 *Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
 *Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
+*Also relevant: [[i. No More Delay|Chapter 25 — No More Delay]]*
 
 ---
 
