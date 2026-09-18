@@ -17,6 +17,16 @@ Their function is to be the first fruits of the [[Glossary#Millennial Kingdom|Mi
 
 ---
 
+## Abaddon
+
+The Hebrew word (*abaddon*) for "destruction." In the Hebrew Bible it names the realm of the dead, paired with Sheol and death in Job 26:6, Job 28:22, Proverbs 15:11, and Psalm 88:11, where Destruction is spoken of almost as a personified place that lies open before God. In Revelation 9:11 the name becomes a person: the angel of the [[Glossary#Abyss|Abyss]], who reigns as king over the locust army released at the fifth trumpet. John gives the name in both languages — Abaddon in Hebrew, Apollyon in Greek — and both mean "the Destroyer."
+
+The name announces the character of the army's ruler, and the scene shows the limit on his authority. The locusts and their king move only when the key to the Abyss is given, and only within the boundaries set for them: they may torment for five months, and they may not kill.
+
+*First introduced: [[i. Wrath in Mercy|Chapter 24 — Wrath in Mercy]] — see also [[Chapter 24/iii. Context|Chapter 24 — Context]]*
+
+---
+
 ## Abomination of Desolation
 
 The phrase used in Daniel's prophecy (Daniel 9:27, 11:31, 12:11) and quoted directly by Jesus in Matthew 24:15 to describe a specific act by the [[Glossary#Antichrist|Antichrist]] at the midpoint of the final seven-year period: standing in the rebuilt temple in Jerusalem, ending the sacrificial system, and declaring himself to be God. It is the singular most identifiable event of the end times — the sign Jesus himself points to when his disciples ask how they will know his coming is near.
@@ -50,6 +60,18 @@ The covenant sign established in Genesis 17 is circumcision — a permanent phys
 *First introduced: [[i. The Abrahamic Covenant|Chapter 08 - The Abrahamic Covenant]]*
 *Also relevant: [[i. Can These Bones Live|Chapter 13 — Can These Bones Live]]*
 *Also relevant: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
+
+---
+
+## Abyss
+
+From the Greek *abyssos*, "bottomless" or "unfathomable depth": the prison of the unseen world, in which rebellious spiritual beings are confined. The imagery attached to it is darkness, restraint, torment, and separation from God. In the Septuagint the word translates the Hebrew *tehom*, the "deep" of Genesis 1:2, which ties the prison imagery to the Bible's older picture of chaotic depths (see [[Glossary#Sea (Biblical Symbol of Chaos)|Sea]]).
+
+In this study the Abyss is the holding place of [[Glossary#Demons|demons]], the disembodied spirits of the [[Glossary#Nephilim|Nephilim]]. Their fear of it appears in Luke 8:31, where the demons Jesus confronts beg not to be sent into it, and in Matthew 8:29, where they ask whether he has come to torment them before the appointed time. The tradition preserved in the Book of Jubilees holds that nine-tenths of the demons were confined there in the days of Noah while a tenth remained active under [[Glossary#Mastema|Mastema]]. Revelation 9 describes the shaft of the Abyss opened by a fallen star who has been given the key, and what was imprisoned is released, briefly and under permission, as the judgment of the fifth trumpet.
+
+The terms Hades, Tartarus, and the lake of fire overlap with the Abyss in their imagery of confinement and judgment, but they are not interchangeable. Hades is the realm of the dead, Tartarus (2 Peter 2:4) is the confinement of angels who sinned, and the lake of fire is reserved for the final judgment. The Abyss is a holding place from which, at the fifth trumpet, its inhabitants are released.
+
+*First introduced: [[i. Wrath in Mercy|Chapter 24 — Wrath in Mercy]] — see also [[Chapter 24/iii. Context|Chapter 24 — Context]]*
 
 ---
 
@@ -576,6 +598,18 @@ His role in Daniel 10 is particularly significant for understanding how spiritua
 In the New Testament, Gabriel announces to Zechariah that his wife Elizabeth will bear John the Baptist (Luke 1:19), and announces to Mary that she will conceive Jesus (Luke 1:26–38). He identifies himself in Luke 1:19 as one who "stands in the presence of God" — a description of his standing in the divine court.
 
 *First introduced: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
+
+---
+
+## General Revelation
+
+The disclosure of God through creation itself, available to every person in every place and era. Paul states it in Romans 1:19–20: what may be known about God is plain to everyone because God has made it plain, and his invisible qualities — his eternal power and divine nature — have been clearly seen since the creation of the world, being understood from what has been made. Psalm 19:1–4 makes the same claim in poetry: the heavens declare the glory of God, and their voice goes out to all the earth.
+
+General revelation is distinguished from specific (or special) revelation, which comes in the form of words: God speaking through prophets, recorded in Scripture, and embodied in Jesus. General revelation is where the search for God begins. It points beyond itself to a designer and a creator and leaves every person without excuse (Romans 1:20). Specific revelation is where the search is answered.
+
+The distinction matters for how the trumpet judgments read. God's wrath in Romans 1:18 is directed at those who suppress the truth they have been given through creation. The sequence of Revelation 8–9 answers that suppression: creation is struck first, because it was never received with thanks, and the demons that were worshiped in its place are released afterward.
+
+*First introduced: [[i. Wrath in Mercy|Chapter 24 — Wrath in Mercy]]*
 
 ---
 
@@ -1574,6 +1608,16 @@ The full account of the Watchers — their oath before descending, what they tau
 *First introduced: [[i. The Watchers and the Flood|Chapter 04 - The Watchers and the Flood]] — see also [[Chapter 04/iii. Context|Chapter 04 - Context]]*
 *Also relevant: [[i. 1 Enoch — A Quick Glance|Chapter 05 - 1 Enoch — A Quick Glance]]*
 *Also relevant: [[i. The Divine Council and the Seventy Nations|Chapter 06 - The Divine Council and the Seventy Nations]]*
+
+---
+
+## Wormwood
+
+The name of the star that falls on a third of the rivers and springs at the third trumpet (Revelation 8:10–11). The Greek word is *apsinthos*, corresponding to the Hebrew *la'anah*, a bitter plant that is the prophets' proverbial image of bitterness and poison. In Jeremiah 9:15 and 23:15 God says he will feed a covenant-breaking people wormwood and give them poisoned water; Lamentations 3:15, 19 and Amos 5:7 use the same word for bitterness under judgment.
+
+In Revelation the name attaches to a blazing object that turns a third of the fresh water bitter and kills many who drink it. The scene recalls Exodus 15:22–25, where the waters of Marah are bitter until God shows Moses a piece of wood that sweetens them. The Marah story is a rescue; the third trumpet is its reversal, water embittered instead of sweetened, and lethal instead of merely undrinkable.
+
+*First introduced: [[i. Wrath in Mercy|Chapter 24 — Wrath in Mercy]] — see also [[Chapter 24/iii. Context|Chapter 24 — Context]]*
 
 ---
 

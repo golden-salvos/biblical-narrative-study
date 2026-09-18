@@ -46,6 +46,7 @@ If you ever want to come back to this Welcome page, just click on the Home butto
 - [[i. To Him Who Overcomes|21) To Him Who Overcomes]] — *The six remaining letters to the churches of Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, and Laodicea, and the refrain running under all seven — the church is addressed corporately, but every promise Christ makes belongs to the individual who overcomes*
 - [[i. Worthy Is the Lamb|22) Worthy Is the Lamb]] — *John is caught up into the throne room of heaven, where a sealed scroll — the title deed to creation, lost at the Fall — is found, and only the Lion of the Tribe of Judah, the Root of David, is worthy to open it*
 - [[i. How Long, Sovereign Lord|23) How Long, Sovereign Lord]] — *The seven seals opened: the four horsemen as four facets of the Antichrist's single campaign, the martyrs under the altar crying out for justice, and the gathering of the church between the sixth seal and the seventh — before the wrath of God begins*
+- [[i. Wrath in Mercy|24) Wrath in Mercy]] — *The first six trumpets of Revelation 8–9 as wrath with a target, an audience, and an order: judgment on the center of the Antichrist's kingdom, displayed for a watching world, moving from the gifts of creation to the demons humanity chose to worship*
 
 ### References
 - [[Glossary]] — *Key terms defined and cross-referenced across the study*
