@@ -15,6 +15,7 @@ Their function is to be the first fruits of the [[Glossary#Millennial Kingdom|Mi
 
 *First introduced: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]] — see also [[Chapter 23/iii. Context|Chapter 23 — Context]]*
 *Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
+*Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
 
 ---
 
@@ -45,6 +46,7 @@ One functional prerequisite has not existed since 70 AD: an active sacrificial s
 *Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 *Also relevant: [[i. No More Delay|Chapter 25 — No More Delay]]*
 *Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
+*Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
 
 ---
 
@@ -185,6 +187,7 @@ The Antichrist is not the same as Satan. He is Satan's instrument — a human be
 *Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
 *Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 *Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
+*Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
 
 ---
 
@@ -216,6 +219,16 @@ Four of the seven have been fulfilled in Jesus' first coming — Passover (cruci
 
 ---
 
+## Armageddon
+
+The name given in Revelation 16:16 to the place where the demonic spirits from the mouths of the dragon, the beast, and the false prophet assemble the kings of the whole world "for battle on the great day of God the Almighty." The word transliterates the Hebrew *Har Megiddo*, "the mountain of Megiddo." Megiddo was a fortress guarding the pass into the Jezreel Valley, roughly 55 miles north of Jerusalem, and one of the most fought-over sites of the ancient world — the place where King Josiah fell to Pharaoh Neco (2 Kings 23:29), and a byword for national mourning (Zechariah 12:11).
+
+The study does not tie the final battle to the Jezreel Valley. Revelation says the kings are *assembled* at Armageddon; the prophets consistently place the decisive battle at Jerusalem. God brings Gog against the mountains of Israel with hooks in his jaws (Ezekiel 38:4; 39:2), gathers all nations against Jerusalem (Zechariah 14:2), and judges them in the valley beside the city (Joel 3:2, 12), and Revelation's winepress is trodden "outside the city" (Revelation 14:20). The Battle of Armageddon falls at the seventh bowl, at the end of the seven years. The Antichrist and the false prophet are taken and thrown into the lake of fire, and everyone who comes against Jerusalem alongside them is killed.
+
+*First introduced: [[i. Two Harvests|Chapter 27 — Two Harvests]] — see also [[Chapter 27/iii. Context|Chapter 27 — Context]]*
+
+---
+
 ## Azazel
 
 One of the principal Watchers identified in 1 Enoch as bearing primary responsibility for what was taught to humanity — specifically the arts of warfare, metallurgy, and the use of costly ornamentation. Per 1 Enoch 10, God directed Raphael to bind Azazel hand and foot and cast him into the wilderness, where he is covered in rocks and darkness until the day of final judgment.
@@ -223,6 +236,16 @@ One of the principal Watchers identified in 1 Enoch as bearing primary responsib
 The name appears directly in Leviticus 16, the Day of Atonement ceremony, where one of the two goats is designated for Azazel and released into the wilderness. The Hebrew *l'Azazel* (for Azazel) appears four times in that passage. The scapegoat sent to the wilderness was not merely a symbol of sin removal in the abstract — it was sent to the specific location of the bound and imprisoned Watcher to whom, as 1 Enoch states explicitly, "all sin" is ascribed. The sacrificial system thus acknowledges, built into its very structure, the cosmic origin of the problem it exists to address.
 
 *First introduced: [[i. 1 Enoch — A Quick Glance|Chapter 05 - 1 Enoch — A Quick Glance]]*
+
+---
+
+## Babylon the Great
+
+The great city of Revelation 14:8, 16:19, and chapters 17–18 — called "the great prostitute" who "made all nations drink the wine of the passion of her sexual immorality." It is the center of the Antichrist's kingdom: a city of wealth, luxury, and trade, whose prosperity is the incentive that draws the world to take the mark of the beast and share in its economy.
+
+Its fall is announced in advance by the second angel of Revelation 14 — "Fallen, fallen is Babylon the great," quoting Isaiah 21:9 — and carried out at the seventh bowl, when the great city is split into three parts and God makes her "drain the cup of the wine of the fury of his wrath" (Revelation 16:19). The announcement serves as a warning: everything a person might gain by taking the mark is going to burn.
+
+*First introduced: [[i. Two Harvests|Chapter 27 — Two Harvests]] — see also [[Chapter 27/iii. Context|Chapter 27 — Context]]*
 
 ---
 
@@ -294,6 +317,7 @@ The book of life recurs at the final judgment in Revelation 20:12–15, where it
 
 *First introduced: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
 *Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
+*Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
 
 ---
 
@@ -521,6 +545,7 @@ The dragon has seven heads, ten horns, and seven diadems on its heads. The seven
 In the chapter's action, the dragon stands ready to devour the child born to the woman, fails when the child is caught up to God's throne, is defeated in war by Michael and thrown down to the earth with his angels, pursues the woman into the wilderness, and finally stands on the shore of the sea as the beast rises — handing the beast "his power and his throne and great authority." The dragon, the beast, and the false prophet together form the unholy trinity of Revelation 16:13.
 
 *First introduced: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
+*Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
 
 ---
 
@@ -559,6 +584,7 @@ Its role is religious promotion of the Antichrist. It exercises the authority of
 Scripture does not identify the false prophet or his place of origin; Revelation 13 is essentially the only passage that describes him. He is the third member of the unholy trinity, the counterfeit of the Spirit who points the world toward the Son. At the end of the tribulation he is captured with the beast and both are thrown alive into the lake of fire (Revelation 19:20).
 
 *First introduced: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
+*Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
 
 ---
 
@@ -587,6 +613,7 @@ First fruits giving predates the formal tithe established in the Mosaic Law by c
 *First introduced: [[i. The Fall|Chapter 03 - The Fall]]*
 *Also relevant: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]* 
 *Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
+*Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
 
 ---
 
@@ -774,6 +801,7 @@ The author of the great tribulation is the Antichrist, empowered by Satan after 
 *Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 *Also relevant: [[i. No More Delay|Chapter 25 — No More Delay]]*
 *Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
+*Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
 
 ---
 
@@ -808,6 +836,16 @@ The eight-day Jewish festival commemorating the rededication of the Jerusalem te
 The miracle at the center of the celebration is that oil sufficient for only one day of burning in the temple menorah burned continuously for eight days — the time required to prepare a new supply of ritually pure oil. This is the basis for the festival's eight-day duration and the lighting of the Hanukkiah (the eight-branched menorah). Hanukkah is mentioned in John 10:22, which records Jesus walking in the temple portico during the Feast of Dedication — indicating that he was in Jerusalem for the celebration and that the question of the consecration of sacred space was live in the minds of those who approached him there.
 
 *First introduced: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
+
+---
+
+## Hardening
+
+The condition in which a person's decision against God becomes fixed, so that no further evidence or suffering produces repentance. The pattern is set in Exodus: through the plagues Pharaoh repeatedly wavered, gave permission for Israel to go and worship, and then changed his mind. Exodus describes him hardening his own heart (Exodus 8:15, 32) and the Lord hardening it (Exodus 9:12; 10:20, 27) — God confirming a choice Pharaoh had already made, and judging him in it.
+
+Revelation shows the same pattern in those who take the mark of the beast. Under the bowl judgments they curse God and do not repent (Revelation 16:9, 11, 21). The contrast is deliberate: after the earthquake at the end of the Two Witnesses' ministry, the survivors in Jerusalem gave glory to God (Revelation 11:13). Those who have taken the mark have already made their choice, and it is too late for them.
+
+*First introduced: [[i. Two Harvests|Chapter 27 — Two Harvests]] — see also [[Chapter 27/iii. Context|Chapter 27 — Context]]*
 
 ---
 
@@ -863,6 +901,16 @@ In the biblical sense, joy is distinct from happiness. Where happiness is circum
 Paul describes this in Philippians 4:11: *"I have learned to be content whatever the circumstances"* — written from prison. Joy, in this framework, is not a feeling that happens to you. It is a settled state that forms in you through relationship with God, particularly through difficulty.
 
 *First introduced: [[i. Reading the Last Chapter|Chapter 01 - Reading the Last Chapter]]*
+
+---
+
+## Kings of the East
+
+The rulers whose armies cross the Euphrates when its water is dried up at the sixth bowl (Revelation 16:12), on their way to the assembly at Armageddon. The Euphrates marked the eastern limit of the land promised to Abraham (Genesis 15:18) and was historically the frontier beyond which the great eastern powers gathered before moving west. The study identifies the kings of the east as the rulers of the lands beyond the river — Iraq, Afghanistan, Pakistan, and on toward China.
+
+The drying of the Euphrates is a single event within the bowl judgments at the very end of the seven years. Present-day reductions in the river's flow, largely the result of upstream damming, are not its fulfillment.
+
+*First introduced: [[i. Two Harvests|Chapter 27 — Two Harvests]] — see also [[Chapter 27/iii. Context|Chapter 27 — Context]]*
 
 ---
 
@@ -946,6 +994,7 @@ The mark is tied directly to worship. Receiving it requires worshiping the beast
 The mark is the counterfeit of the seal of God placed on the foreheads of his servants (Revelation 7:3; 14:1), and of the Shema bound on the hand and between the eyes (Deuteronomy 6:8). Those who receive it will drink the wine of God's wrath (Revelation 14:9–11); those who refuse it, even at the cost of their lives, are among those who reign with Christ (Revelation 20:4).
 
 *First introduced: [[i. War in Heaven|Chapter 26 — War in Heaven]] — see also [[Chapter 26/iii. Context|Chapter 26 — Context]]*
+*Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
 
 ---
 
@@ -1006,6 +1055,7 @@ In Jude 9, Michael is described as contending with the devil over the body of Mo
 *Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
 *Also relevant: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
 *Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
+*Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
 
 ---
 
@@ -1024,6 +1074,7 @@ The Millennial Kingdom ends with the brief release of Satan, a final rebellion, 
 *Also relevant: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 *Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 *Also relevant: [[i. No More Delay|Chapter 25 — No More Delay]]*
+*Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
 
 ---
 
@@ -1146,6 +1197,17 @@ The study takes the same approach. The name matters less than the deeds: what th
 
 ---
 
+## Parable of the Wheat and Weeds
+
+The parable of Matthew 13:24–30, explained by Jesus in Matthew 13:36–43. A man sows good seed in his field; while everyone sleeps, an enemy sows weeds among the wheat. When the servants ask whether to pull up the weeds, the master tells them to wait, lest they uproot the wheat with them: let both grow together until the harvest. Jesus identifies each element: the sower is the Son of Man, the field is the world, the good seed is the children of the kingdom, the weeds are the children of the evil one, the enemy is the devil, the harvest is the end of the age, and the reapers are angels.
+
+The parable serves as the outline of the entire biblical story in this study — the Son of Man owns the field from the first sowing to the final harvest. Its reason for delay is the harvest itself: the master waits because the crop is not yet ripe. Revelation 14:15 announces the moment that waiting ends — "the harvest of the earth is fully ripe" — and the Son of Man, seated on a white cloud, reaps the earth.
+
+*First introduced: [[i. The Jacket Cover|Chapter 02 - The Jacket Cover]]*
+*Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
+
+---
+
 ## Passover
 
 The feast established in Exodus 12 to commemorate God's deliverance of Israel from Egypt on the night of the final plague. Observed annually on the 14th of Nisan, it involves a lamb without defect slaughtered at twilight, its blood applied to the doorposts and lintel of the household, the meat eaten in haste with unleavened bread and bitter herbs. When God passed through Egypt that night to strike every firstborn, he passed over the houses marked with blood. The name comes directly from this act: he passed over.
@@ -1168,6 +1230,7 @@ This is why the martyrs under the altar in Revelation 6:9–11 are not given a d
 
 *First introduced: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 *Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
+*Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
 
 ---
 
@@ -1280,6 +1343,7 @@ The placement of the rapture within the end-times sequence is not ambiguous in e
 *Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
 *Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 *Also relevant: [[i. No More Delay|Chapter 25 — No More Delay]]*
+*Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
 
 ---
 
@@ -1330,6 +1394,7 @@ The souls of believers who have died before the resurrection are present with Go
 
 *First introduced: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]*
 *Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
+*Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
 
 ---
 
@@ -1378,6 +1443,16 @@ The distinction matters for how the letter's promise functions: Christ is not pr
 
 ---
 
+## Second Temple Period
+
+The era of Jewish history roughly spanning 516 BC to 70 AD, bookended by the rebuilding of the Jerusalem Temple after the Babylonian exile and its destruction by Rome. The entire New Testament was written within this period, and the cultural, theological, and literary world it describes is rooted here.
+
+Much of the extra-biblical literature referenced in this study originates from this period. The religious traditions, messianic expectations, and interpretive frameworks that shaped the disciples — and that Jesus was constantly engaging and correcting — were formed during these centuries.
+
+*First introduced: [[i. Reading the Last Chapter|Chapter 01 - Reading the Last Chapter]]*
+
+---
+
 ## Seleucid Empire
 
 One of the four successor kingdoms of [[Glossary#Alexander the Great|Alexander the Great]], founded by Seleucus I Nicator after the fragmentation of the empire following Alexander's death in 323 BC. The Seleucid Empire controlled Syria, Mesopotamia, and significant portions of Asia Minor, Persia, and the northern Middle East — with its primary capital at Antioch on the Orontes (near the present-day Syrian-Turkish border) and a secondary capital at Seleucia on the Tigris.
@@ -1413,6 +1488,7 @@ The bowls are unambiguously the [[Glossary#Wrath of God|wrath of God]] — poure
 *(The bowl judgments and the Battle of Armageddon will be treated in full when the study reaches those chapters.)*
 
 *First introduced: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
+*Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
 
 ---
 
@@ -1516,16 +1592,6 @@ The remedy for shame in Scripture is not self-improvement but covering — and c
 
 ---
 
-## Second Temple Period
-
-The era of Jewish history roughly spanning 516 BC to 70 AD, bookended by the rebuilding of the Jerusalem Temple after the Babylonian exile and its destruction by Rome. The entire New Testament was written within this period, and the cultural, theological, and literary world it describes is rooted here.
-
-Much of the extra-biblical literature referenced in this study originates from this period. The religious traditions, messianic expectations, and interpretive frameworks that shaped the disciples — and that Jesus was constantly engaging and correcting — were formed during these centuries.
-
-*First introduced: [[i. Reading the Last Chapter|Chapter 01 - Reading the Last Chapter]]*
-
----
-
 ## Song of Moses
 
 The song sung by Moses and the Israelites in Exodus 15 following the crossing of the Red Sea and the destruction of Pharaoh's army — one of the oldest substantial pieces of poetry in the Hebrew Bible and one of the structurally most significant in the study of Revelation.
@@ -1535,6 +1601,7 @@ Its central declaration — *"Who among the gods is like you, O Lord? Who is lik
 The Song of Moses reappears in Revelation 15:3, where those who have overcome the beast stand on a sea of glass and sing *"the song of Moses the servant of God and the song of the Lamb."* The two deliverances — Israel from Egypt and the redeemed from final judgment — are treated as a single song sung to the same God. The first great worship response of God's redeemed people becomes the model for the last.
 
 *First introduced: [[i. Then You Will Know|Chapter 09 - Then You Will Know]]*
+*Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
 
 ---
 
@@ -1570,6 +1637,7 @@ When Jesus called himself the Son of Man, he was drawing on both layers simultan
 *Also relevant: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 *Also relevant: [[i. Walking Among the Lampstands|Chapter 20 — Walking Among the Lampstands]]*
 *Also relevant: [[i. No More Delay|Chapter 25 — No More Delay]]*
+*Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
 
 ---
 
@@ -1633,6 +1701,16 @@ The temple anticipated by end-times prophecy to be rebuilt on Jerusalem's Temple
 Anticipation of a rebuilt temple is not exclusive to Christian eschatology — Jewish organizations such as the Temple Institute have spent decades preparing ritual implements toward this end — but its construction is not currently underway or politically feasible under any existing arrangement governing the site.
 
 *First introduced: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
+
+---
+
+## Three Angels' Messages
+
+The three proclamations of Revelation 14:6–11, each delivered by an angel to the whole earth. The first proclaims "an eternal gospel" to every nation, tribe, language, and people: fear God, give him glory, and worship him who made heaven and earth, the sea, and the springs of water, because the hour of his judgment has come. The second announces "Fallen, fallen is Babylon the great." The third warns that anyone who worships the beast and receives its mark will drink the wine of God's wrath and be tormented forever.
+
+The study places all three at the same moment: after the Abomination of Desolation and before the first trumpet. The first message names exactly the realms the trumpets strike — earth, sea, springs, and heavens — as a warning before the judgment falls. The second exposes the emptiness of the prosperity the Antichrist offers. The third must be heard before anyone can take the mark, which first becomes possible right after the Abomination. Together with the testimony of the church and the Two Witnesses, the angels ensure that no one takes the mark without knowing what it means.
+
+*First introduced: [[i. Two Harvests|Chapter 27 — Two Harvests]] — see also [[Chapter 27/iii. Context|Chapter 27 — Context]]*
 
 ---
 
@@ -1753,6 +1831,7 @@ The witnesses function as a divine counterbalance set directly against the Antic
 Their identity is not stated in the text, and it is the oldest open question surrounding this chapter. The strongest historical case, held by the earliest church fathers who addressed it directly — Tertullian, Irenaeus, and Hippolytus — identifies them as Enoch and Elijah: the only two people in Scripture who have not yet died in the ordinary sense, making them the two who could still be killed once in Jerusalem and thereby fulfill the "appointed for man to die once" principle of Hebrews 9:27. The leading alternative identifies them as Moses and Elijah, on the strength of the water-to-blood and drought miracles that mirror the plagues of Egypt and Elijah's contest with the prophets of Baal — though this reading has to work around Deuteronomy 34:5–7, which records that Moses died and was buried.
 
 *First introduced: [[i. No More Delay|Chapter 25 — No More Delay]]*
+*Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
 
 ---
 
@@ -1763,6 +1842,7 @@ The name commonly given to the dragon, the beast, and the false prophet — the 
 The counterfeit follows from what Satan is. He cannot create; he is not omnipotent and does not have God's power. What he can do is corrupt what God has created and counterfeit what God does. The study further reads Islamic eschatology — with its Mahdi, its accompanying prophetic figure, and its worship of Allah — as a mirror image of the biblical end times: the same events explained in reverse, so that when the figures of the end rise to power, a counterfeit explanation is already waiting.
 
 *First introduced: [[i. War in Heaven|Chapter 26 — War in Heaven]] — see also [[Chapter 26/iii. Context|Chapter 26 — Context]]*
+*Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
 
 ---
 
@@ -1807,6 +1887,16 @@ The full account of the Watchers — their oath before descending, what they tau
 
 ---
 
+## Winepress of the Wrath of God
+
+The image of Revelation 14:17–20 and 19:15 for God's final judgment on the armies gathered against him. An angel gathers "the grape harvest of the earth" and throws it into "the great winepress of the wrath of God," which is trodden outside the city until blood flows as high as a horse's bridle for 1,600 stadia — roughly 180 miles.
+
+The image comes from Joel 3:13 ("Go in, tread, for the winepress is full") and Isaiah 63:1–6, where the Lord comes from Edom with garments stained red, having trodden the winepress alone. In Revelation 19:13–15, Christ himself treads it, riding out in a robe dipped in blood. The study places the grape harvest at the seventh bowl and the Battle of Armageddon. It is set beside the grain harvest reaped by the Son of Man (Revelation 14:14–16) to show the two fates of mankind: the gathering of those who belong to him, and the judgment of those who took the mark.
+
+*First introduced: [[i. Two Harvests|Chapter 27 — Two Harvests]] — see also [[Chapter 27/iii. Context|Chapter 27 — Context]]*
+
+---
+
 ## Woman Clothed with the Sun
 
 The first "great sign" of Revelation 12: a woman "clothed with the sun, with the moon under her feet, and on her head a crown of twelve stars," pregnant and crying out in the pains of childbirth (Revelation 12:1–2). She represents the nation of Israel.
@@ -1841,6 +1931,7 @@ Paul's statement in 1 Thessalonians 5:9 — "God did not appoint us to suffer wr
 *Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
 *Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 *Also relevant: [[i. No More Delay|Chapter 25 — No More Delay]]*
+*Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
 
 ---
 

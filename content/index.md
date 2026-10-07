@@ -49,6 +49,7 @@ If you ever want to come back to this Welcome page, just click on the Home butto
 - [[i. Wrath in Mercy|24) Wrath in Mercy]] — *The first six trumpets of Revelation 8–9 as wrath with a target, an audience, and an order: judgment on the center of the Antichrist's kingdom, displayed for a watching world, moving from the gifts of creation to the demons humanity chose to worship*
 - [[i. No More Delay|25) No More Delay]] — *Revelation 10–11: the mighty angel's little scroll and unbreakable oath, the measuring of the temple, and the ministry, death, and resurrection of the Two Witnesses ahead of the seventh trumpet*
 - [[i. War in Heaven|26) War in Heaven]] — *Daniel 12 and Revelation 12–13: Michael's war in heaven at the midpoint of the seven years, the woman and the dragon, the seven heads as the empires that came for the seed, and why Satan's expulsion produces the Abomination of Desolation, the beast, the false prophet, and a mark that must be chosen*
+- [[i. Two Harvests|27) Two Harvests]] — *Revelation 14–16: the 144,000 with the Lamb on Mount Zion, three angels warning the world before anyone can take the mark, the grain harvest and the grape harvest as the two fates of mankind, and the seven bowls poured out to Armageddon*
 
 ### References
 - [[Glossary]] — *Key terms defined and cross-referenced across the study*
