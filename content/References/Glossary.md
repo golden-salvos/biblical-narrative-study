@@ -14,6 +14,7 @@ Revelation 14:1–5 completes the portrait. They stand with the Lamb on Mount Zi
 Their function is to be the first fruits of the [[Glossary#Millennial Kingdom|Millennial Kingdom]]: preserved through the judgment as witnesses of it, so that a nucleus of Israel stands in the land when the King takes his throne in Jerusalem. The precedent is Ezekiel 9, where the faithful in Jerusalem are marked on the forehead before the executioners go out, and behind that, Israel sheltered in Goshen while the plagues ran their course over Egypt.
 
 *First introduced: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]] — see also [[Chapter 23/iii. Context|Chapter 23 — Context]]*
+*Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
 
 ---
 
@@ -43,6 +44,7 @@ One functional prerequisite has not existed since 70 AD: an active sacrificial s
 *Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
 *Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 *Also relevant: [[i. No More Delay|Chapter 25 — No More Delay]]*
+*Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
 
 ---
 
@@ -74,6 +76,16 @@ In this study the Abyss is the holding place of [[Glossary#Demons|demons]], the 
 The terms Hades, Tartarus, and the lake of fire overlap with the Abyss in their imagery of confinement and judgment, but they are not interchangeable. Hades is the realm of the dead, Tartarus (2 Peter 2:4) is the confinement of angels who sinned, and the lake of fire is reserved for the final judgment. The Abyss is a holding place from which, at the fifth trumpet, its inhabitants are released.
 
 *First introduced: [[i. Wrath in Mercy|Chapter 24 — Wrath in Mercy]] — see also [[Chapter 24/iii. Context|Chapter 24 — Context]]*
+
+---
+
+## Accuser of the Brethren
+
+The title given to Satan in Revelation 12:10 — "the accuser of our brothers... who accuses them day and night before our God." The Greek *katēgōr* is a legal term for a prosecutor, and the title describes Satan's role in the heavenly court rather than his activity on the earth. The same role appears in the Old Testament under the Hebrew *ha-satan*, "the adversary": in Job 1–2 he presents himself before the Lord among the sons of God and questions Job's integrity, and in Zechariah 3:1–2 he stands at the right hand of Joshua the high priest to accuse him.
+
+Satan's standing to appear in that court rests on the authority over the earth that Adam handed to him at the Fall. Revelation 12 records the moment that standing ends: at the midpoint of the final seven years, Michael and his angels expel Satan and his angels from heaven, and the heavens rejoice because "the accuser of our brothers has been thrown down." The saints overcome him "by the blood of the Lamb and by the word of their testimony" — the blood of Christ answering every charge he could bring, and the faithfulness of the martyrs confirming it. The loss of that access is what drives Satan to work entirely through the Antichrist on the earth, beginning with the Abomination of Desolation.
+
+*First introduced: [[i. War in Heaven|Chapter 26 — War in Heaven]] — see also [[Chapter 26/iii. Context|Chapter 26 — Context]]*
 
 ---
 
@@ -172,6 +184,7 @@ The Antichrist is not the same as Satan. He is Satan's instrument — a human be
 *Also relevant: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
 *Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
 *Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
+*Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
 
 ---
 
@@ -199,6 +212,7 @@ Four of the seven have been fulfilled in Jesus' first coming — Passover (cruci
 
 *First introduced: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]*
 *Also relevant: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
+*Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
 
 ---
 
@@ -225,6 +239,18 @@ Balaam's subsequent history is complicated. Numbers 31:16 and Revelation 2:14 in
 
 ---
 
+## Beast from the Sea
+
+The first of the two beasts of Revelation 13, rising from the sea as the dragon stands on the shore (Revelation 12:17–13:1). It is the Antichrist in his full, Satan-empowered form: the dragon gives it "his power and his throne and great authority." Like the dragon, it has seven heads and ten horns, but it wears ten diadems on its horns rather than seven on its heads — its authority is exercised through the ten kings of its single final kingdom.
+
+Its body is a composite of Daniel 7's beasts: like a leopard (Greece), with feet like a bear's (Medo-Persia) and a mouth like a lion's (Babylon). The final kingdom Daniel saw as a separate beast with iron teeth is revealed to be built out of every kingdom before it — and, geographically, to occupy the crescent of lands those empires held around Israel. One of its heads has a mortal wound that is healed, which the study reads as the death and revival of a kingdom — the Islamic caliphate, abolished in 1924 and restored as the Antichrist's kingdom. It speaks blasphemies, exercises authority for forty-two months, makes war on the saints and conquers them, and receives the worship of everyone whose name is not written in the book of life.
+
+The sea it rises from is the biblical realm of chaos, the same sea from which Daniel's four beasts emerged.
+
+*First introduced: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
+
+---
+
 ## Biblical Worldview
 
 A comprehensive framework for understanding reality — including suffering, evil, history, and human purpose — grounded in the full narrative of Scripture rather than in cultural assumptions, selective teaching, or personal experience alone.
@@ -248,6 +274,7 @@ The birth pains are not merely events to endure. They are the conditions under w
 *Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 
 ---
+
 ## Book of Daniel
 
 The Old Testament book recording the life and visions of Daniel, a young noble of Judah carried into Babylonian exile and elevated to high office in the courts of both Babylon and Medo-Persia. The book divides into two halves: court narratives demonstrating God's sovereignty over pagan empires (chapters 1–6), and apocalyptic visions charting the course of Gentile world history to the end of the age (chapters 7–12). It is the foundational prophetic framework for biblical eschatology — Jesus points his disciples to it directly, and Revelation draws its core imagery from it.
@@ -267,6 +294,7 @@ The registry, referenced across both Old and New Testaments (Exodus 32:32–33, 
 The book of life recurs at the final judgment in Revelation 20:12–15, where it functions as the deciding record of who is spared the second death. Its presence throughout Scripture as a fixed, real record — rather than a figure of speech — underlines a recurring theme in the letters to the seven churches: that a person's standing before God is a settled, individual matter, not something contingent on the behavior of the community around them.
 
 *First introduced: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
+*Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
 
 ---
 
@@ -277,6 +305,20 @@ A city in the far north of ancient Israel, near the base of Mount Hermon, and th
 Jesus chose this location to ask *"Who do you say I am?"*, receive Peter's confession, and declare *"the gates of Hades will not overcome"* his church — a statement whose imagery would have been vivid and immediate to those standing in front of that cliff.
 
 *First introduced: [[i. Reading the Last Chapter|Chapter 01 - Reading the Last Chapter]] — see also [[Chapter 01/iii. Context|Chapter 01 - Context]]*
+
+---
+
+## Calvinism and Arminianism
+
+The two classic Protestant systems for explaining how God's sovereignty and human choice relate in salvation.
+
+**Calvinism**, named for the Reformer John Calvin (1509–1564) and codified at the Synod of Dort (1618–1619), teaches that before creation God unconditionally chose those who would be saved, and that their faith is the result of that choice rather than its basis. Its five points are commonly summarized as TULIP: total depravity, unconditional election, limited atonement, irresistible grace, and perseverance of the saints.
+
+**Arminianism**, named for the Dutch theologian Jacobus Arminius (1560–1609), teaches that God's election is conditioned on his foreknowledge of who will believe, that Christ's atonement is intended for all, that God's grace can be resisted, and — in many of its forms — that a believer can fall away.
+
+The study rejects both as human systems that press what God has ordained into the shape of human logic and follow it to extremes the text does not support. Its reading of Romans 8:29 — "those whom he foreknew he also predestined" — treats God's foreknowledge of who will choose him as the reason for predestination, not its effect: God knows beforehand who will choose, lets them choose, and has made a way for them through Christ. Historically, that particular reading of Romans 8:29 is closest to Arminius's own; the study's disagreement with Arminianism lies in the system's broader conclusions. The principle behind the study's caution is that doctrine is man's explanation of what God has ordained, and must be held more loosely than the text itself.
+
+*First introduced: [[i. War in Heaven|Chapter 26 — War in Heaven]] — see also [[Chapter 26/iii. Context|Chapter 26 — Context]]*
 
 ---
 
@@ -332,6 +374,7 @@ The treaty described in Daniel 9:27, confirmed for one "seven" (seven years), wh
 The covenant's confirmation may not be a publicly self-evident event — it can be negotiated through channels that don't announce themselves clearly at the time. What follows from it does become visible: a rebuilt temple and resumed sacrifices, both of which are necessary before the Abomination can occur. This is part of why Jesus, in Matthew 24, points his disciples toward the Abomination itself as the identifiable marker to watch for, rather than the covenant.
 
 *First introduced: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
+*Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
 
 ---
 
@@ -386,6 +429,16 @@ The existence of demons is never argued or defended in the New Testament — it 
 
 ---
 
+## Diadem
+
+A royal crown — in Greek, *diadēma*, originally the ribbon or band worn by Persian and Hellenistic kings as the sign of sovereignty. It is distinct from the *stephanos*, the wreath awarded to victors, which is the crown promised to believers who overcome. In Revelation, the diadem signifies kingship, and it appears on three figures: the dragon, which wears seven diadems on its seven heads (Revelation 12:3); the beast from the sea, which wears ten diadems on its ten horns (Revelation 13:1); and Christ, who returns with "many diadems" on his head (Revelation 19:12).
+
+The count and placement carry meaning. The dragon's seven crowns represent the kings of the seven empires Satan has used across all of history to try to destroy Israel — he is not bound by time. The beast's ten crowns represent the ten kings of the Antichrist's single final kingdom — he is a man, confined to his own time and place. Christ's many crowns outnumber both.
+
+*First introduced: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
+
+---
+
 ## Diadochi
 
 The Greek term ("successors") for the leading generals of Alexander the Great who divided his empire among themselves after his death at Babylon in 323 BC. Alexander died young and without a viable heir, and after decades of conflict his empire consolidated into four major kingdoms: Macedon and Greece under Cassander, Thrace and Asia Minor under Lysimachus, Syria and the East under Seleucus (the Seleucids), and Egypt under Ptolemy (the Ptolemies).
@@ -434,8 +487,10 @@ The divine council is not a pantheon of independent deities. It is a governing s
 *First introduced: [[i. The Divine Council and the Seventy Nations|Chapter 06 - The Divine Council and the Seventy Nations]]*
 *Also relevant: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
 *Also relevant: [[i. Walking Among the Lampstands|Chapter 20 — Walking Among the Lampstands]]*
+*Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
 
 ---
+
 ## Divine Self-Oath
 
 The pattern in Scripture of God swearing an oath by himself rather than by any greater power — because no greater power exists for him to invoke. Hebrews 6:13–18 states the logic directly: an oath ordinarily works by calling on something greater than the one making the promise, as a guarantee that the promise will be kept. Since nothing is greater than God, that mechanism is unavailable to him in the ordinary sense. He resolves it by taking on both roles at once — he is the one making the promise, and by swearing by himself he becomes his own guarantee.
@@ -456,6 +511,18 @@ Roman emperor who reigned from AD 81 to 96, during whose rule — most likely ar
 The dating matters interpretively: a reign under Domitian places Revelation's composition roughly two decades after the destruction of Jerusalem and the Second Temple in AD 70, meaning John writes with no temple standing, no sacrificial system in operation, and no regathering of the Jewish people yet underway — the conditions this study understands as necessary prerequisites for the Lord's return.
 
 *First introduced: [[i. Walking Among the Lampstands|Chapter 20 — Walking Among the Lampstands]]*
+
+---
+
+## Dragon
+
+The great red dragon of Revelation 12, identified explicitly in Revelation 12:9 as "that ancient serpent, who is called the devil and Satan, the deceiver of the whole world." It is one of the clearest identifications of any symbol in Scripture, reaching back through "ancient serpent" to the serpent of Eden and the Proto-Evangelium of Genesis 3:15.
+
+The dragon has seven heads, ten horns, and seven diadems on its heads. The seven heads are the empires through which Satan has tried to destroy Israel and prevent the birth of the Messiah — Egypt, Assyria, Babylon, Medo-Persia, Greece, Rome, and the Antichrist's kingdom — which is why the heads belong to the dragon rather than to any human ruler: only Satan spans all of them. The ten horns are the ten kings of Daniel 7's final kingdom. His tail sweeps a third of the stars from heaven — the angels who fell with him.
+
+In the chapter's action, the dragon stands ready to devour the child born to the woman, fails when the child is caught up to God's throne, is defeated in war by Michael and thrown down to the earth with his angels, pursues the woman into the wilderness, and finally stands on the shore of the sea as the beast rises — handing the beast "his power and his throne and great authority." The dragon, the beast, and the false prophet together form the unholy trinity of Revelation 16:13.
+
+*First introduced: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
 
 ---
 
@@ -482,6 +549,18 @@ These texts do not carry scriptural authority. Their value is contextual — the
 
 *First introduced: [[i. Reading the Last Chapter|Chapter 01 - Reading the Last Chapter]]*
 *Also relevant: [[i. The Divine Council and the Seventy Nations|Chapter 06 - The Divine Council and the Seventy Nations]]*
+
+---
+
+## False Prophet
+
+The second beast of Revelation 13, which rises "out of the earth" with "two horns like a lamb" but speaks "like a dragon" (Revelation 13:11). Revelation later names it the false prophet (Revelation 16:13; 19:20). It appears harmless, even Christ-like; its voice reveals whom it serves.
+
+Its role is religious promotion of the Antichrist. It exercises the authority of the first beast in his presence, makes the earth and its inhabitants worship him, and performs great signs — including calling fire down from heaven — to deceive the world. It directs people to make an image of the beast, gives breath to the image so that it speaks, and causes those who refuse to worship it to be killed. It is also the agent behind the mark of the beast, without which no one can buy or sell. The scene deliberately echoes Nebuchadnezzar's golden image in Daniel 3, where the penalty for refusing to bow was death.
+
+Scripture does not identify the false prophet or his place of origin; Revelation 13 is essentially the only passage that describes him. He is the third member of the unholy trinity, the counterfeit of the Spirit who points the world toward the Son. At the end of the tribulation he is captured with the beast and both are thrown alive into the lake of fire (Revelation 19:20).
+
+*First introduced: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
 
 ---
 
@@ -513,6 +592,18 @@ First fruits giving predates the formal tithe established in the Mosaic Law by c
 
 ---
 
+## Foreknowledge
+
+God's knowledge of all things before they happen — including, in the context of salvation, his knowledge before creation of every person who will choose him. The Greek *proginōskō* ("to know beforehand") is used in Romans 8:29: "For those whom he foreknew he also predestined to be conformed to the image of his Son," and in 1 Peter 1:2, which describes believers as "elect... according to the foreknowledge of God the Father."
+
+In the study's reading, foreknowledge is what allows Revelation 13:8 to speak of names "written before the foundation of the world in the book of life." God is not constrained by time. He lets each person make a genuine choice, and he knows from the beginning what that choice will be; the book of life records it. The choice can come at any point in a person's lifetime before the Great White Throne judgment — during the tribulation or even the millennial kingdom — and if it will be made, the name is already written. Foreknowledge is the basis of predestination, not its product: God predestined that those who would choose him would have a way to be saved, through Christ.
+
+Interpreters in the Calvinist tradition read "foreknew" in Romans 8:29 relationally — as God setting his love on someone beforehand, as in Amos 3:2 and Jeremiah 1:5 — rather than as advance knowledge of a choice. See [[Glossary#Calvinism and Arminianism|Calvinism and Arminianism]].
+
+*First introduced: [[i. War in Heaven|Chapter 26 — War in Heaven]] — see also [[Chapter 26/iii. Context|Chapter 26 — Context]]*
+
+---
+
 ## Four Horsemen of the Apocalypse
 
 The riders released by the first four seals of Revelation 6 — a white horse whose rider carries a bow and a victor's crown and rides out to conquer, a fiery red horse whose rider takes peace from the earth and is given a large sword, a black horse whose rider holds scales over a famine-priced economy, and a pale horse whose rider is named Death with Hades following behind, given power over a fourth of the earth.
@@ -536,6 +627,7 @@ Both visions end the same way: every human empire is shattered and swept away, w
 *First introduced: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 *Also relevant: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
 *Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
+*Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
 
 ---
 
@@ -560,6 +652,7 @@ The practical implications are significant. If God will not override the free wi
 Free will also explains the two trees in Eden. Without the Tree of the Knowledge of Good and Evil, there was no genuine choice — and without genuine choice, there is no meaningful love or relationship. God did not want creatures who had no option but to be with him. He wanted creatures who freely chose him.
 
 *First introduced: [[i. The Jacket Cover|Chapter 02 - The Jacket Cover]]*
+*Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
 
 ---
 
@@ -591,6 +684,18 @@ This also explains why believers are left in the world after coming to faith rat
 
 ---
 
+## Gematria
+
+The practice of assigning numerical values to the letters of an alphabet and reading significance into the total of a word or name. Ancient Hebrew and Greek had no separate numerals; letters doubled as numbers, so every word had a numerical value. *Gematria* is the Hebrew term; the Greek equivalent is *isopsephy*. In Hebrew, for example, David is spelled with three consonants — dalet (4), vav (6), dalet (4) — for a total of fourteen, which some interpreters connect to the three sets of fourteen generations in Matthew 1:17.
+
+Gematria is the method behind attempts to decode the number of the beast in Revelation 13:18. Applied in Hebrew, Greek, Latin, and Arabic, with different spellings and counting systems, it has produced hundreds of proposed names. The most widely held scholarly solution is Nero Caesar, whose name in Hebrew letters totals 666 — or 616 in its Latin spelling, a variant found in some early manuscripts.
+
+The study does not use gematria to identify the Antichrist. The contradictions among the theories are too great to teach responsibly, and a calculation can only be a guess. The Antichrist will be recognized by what he does and when he does it — by his fruit, not by the sum of his name.
+
+*First introduced: [[i. War in Heaven|Chapter 26 — War in Heaven]] — see also [[Chapter 26/iii. Context|Chapter 26 — Context]]*
+
+---
+
 ## Gog
 
 The name used in Ezekiel 38–39 for the leader of the great end-times military coalition that moves against Israel before the final judgment. Gog is identified in Ezekiel as coming from the land of Magog, out of the far north, and leading an alliance of nations against a restored Israel. The War of Gog and Magog described in Ezekiel 38–39 is among the most debated prophetic passages in the Old Testament, and its relationship to the events described in Revelation is a point of ongoing scholarly discussion.
@@ -614,6 +719,7 @@ His role in Daniel 10 is particularly significant for understanding how spiritua
 In the New Testament, Gabriel announces to Zechariah that his wife Elizabeth will bear John the Baptist (Luke 1:19), and announces to Mary that she will conceive Jesus (Luke 1:26–38). He identifies himself in Luke 1:19 as one who "stands in the presence of God" — a description of his standing in the divine court.
 
 *First introduced: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
+*Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
 
 ---
 
@@ -670,6 +776,7 @@ The author of the great tribulation is the Antichrist, empowered by Satan after 
 *Also relevant: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
 *Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 *Also relevant: [[i. No More Delay|Chapter 25 — No More Delay]]*
+*Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
 
 ---
 
@@ -738,6 +845,7 @@ In this study, the historical caliphate — and its anticipated revival — is t
 *First introduced: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 *Also relevant: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
 *Also relevant: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
+*Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
 
 ---
 
@@ -773,6 +881,7 @@ The same language appears in Daniel 11:40–43 in an eschatological context, des
 *Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
 *Also relevant: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
 *Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
+*Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
 
 ---
 
@@ -827,6 +936,19 @@ Islamic eschatology is layered: alongside the Mahdi it includes its own deceiver
 
 *First introduced: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 *Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
+*Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
+
+---
+
+## Mark of the Beast
+
+The mark described in Revelation 13:16–17, placed on the right hand or the forehead of "all, both small and great, both rich and poor, both free and slave," so that "no one can buy or sell unless he has the mark, that is, the name of the beast or the number of its name." The Greek word *charagma* referred in the Roman world to an official stamp on documents, the image and inscription on coins, and the brand identifying a slave's owner or a devotee's god — a sign of ownership and allegiance bound up with commerce.
+
+The mark is tied directly to worship. Receiving it requires worshiping the beast and his image, and through him the dragon. That establishes what the mark is not: it cannot be received involuntarily or unknowingly, and it cannot be slipped into a vaccine, an implant, or any other technology a person accepts without consciously worshiping the Antichrist. Free will is preserved to the end; the mark is a choice. Its two identifying features are that there is an Antichrist whom people worship and that the mark itself is visible.
+
+The mark is the counterfeit of the seal of God placed on the foreheads of his servants (Revelation 7:3; 14:1), and of the Shema bound on the hand and between the eyes (Deuteronomy 6:8). Those who receive it will drink the wine of God's wrath (Revelation 14:9–11); those who refuse it, even at the cost of their lives, are among those who reign with Christ (Revelation 20:4).
+
+*First introduced: [[i. War in Heaven|Chapter 26 — War in Heaven]] — see also [[Chapter 26/iii. Context|Chapter 26 — Context]]*
 
 ---
 
@@ -886,6 +1008,7 @@ In Jude 9, Michael is described as contending with the devil over the body of Mo
 *First introduced: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
 *Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
 *Also relevant: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
+*Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
 
 ---
 
@@ -959,7 +1082,7 @@ The Nephilim appear in the biblical record both before the flood (Genesis 6:4) a
 *First introduced: [[i. The Watchers and the Flood|Chapter 04 - The Watchers and the Flood]]*
 *Also relevant: [[i. 1 Enoch — A Quick Glance|Chapter 05 - 1 Enoch — A Quick Glance]]*
 *Also relevant: [[i. The Divine Council and the Seventy Nations|Chapter 06 - The Divine Council and the Seventy Nations]]*
-*Also relevant: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]* 
+*Also relevant: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]*
 
 ---
 
@@ -1014,6 +1137,18 @@ The sign of the covenant is the rainbow. Unlike every other covenant sign in Scr
 
 ---
 
+## Number of the Beast
+
+The number 666, given in Revelation 13:18: "This calls for wisdom: let the one who has understanding calculate the number of the beast, for it is the number of a man, and his number is 666." The number is the numerical value of the beast's name; the mark of the beast is "the name of the beast or the number of its name."
+
+The call to "calculate" refers to the ancient practice of adding up the numerical values of the letters in a name, known as gematria. The number has generated more speculation than almost any other detail in Revelation, and hundreds of names have been proposed. The most widely held scholarly solution is Nero Caesar in Hebrew letters; some early manuscripts read 616, which matches the Latin spelling of the same name. As early as the second century, Irenaeus of Lyons advised against settling on any proposed name and counseled waiting for the prophecy to be fulfilled.
+
+The study takes the same approach. The name matters less than the deeds: what the Antichrist will do, and when, is already written, and when he does it he will be known.
+
+*First introduced: [[i. War in Heaven|Chapter 26 — War in Heaven]] — see also [[Chapter 26/iii. Context|Chapter 26 — Context]]*
+
+---
+
 ## Passover
 
 The feast established in Exodus 12 to commemorate God's deliverance of Israel from Egypt on the night of the final plague. Observed annually on the 14th of Nisan, it involves a lamb without defect slaughtered at twilight, its blood applied to the doorposts and lintel of the household, the meat eaten in haste with unleavened bread and bitter herbs. When God passed through Egypt that night to strike every firstborn, he passed over the houses marked with blood. The name comes directly from this act: he passed over.
@@ -1035,6 +1170,7 @@ The word describes a state of the heart, not gritted teeth. It is possible only 
 This is why the martyrs under the altar in Revelation 6:9–11 are not given a date. They are given a white robe and told to wait a little longer. The answer to *how long* is not a timestamp; it is the character of the one being asked, and the plan he has already disclosed. It is also the reason the Lord gives his church so much detail about events most of it will not witness from the earth: knowing exactly how he intends to bring justice is what makes waiting for it survivable.
 
 *First introduced: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
+*Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
 
 ---
 
@@ -1090,6 +1226,7 @@ Understanding Satan's authority as a genuine governing reality — rather than a
 
 *First introduced: [[i. The Fall|Chapter 03 - The Fall]]*
 *Also relevant: [[i. The Divine Council and the Seventy Nations|Chapter 06 - The Divine Council and the Seventy Nations]]*
+*Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
 
 ---
 
@@ -1148,6 +1285,7 @@ The placement of the rapture within the end-times sequence is not ambiguous in e
 *Also relevant: [[i. No More Delay|Chapter 25 — No More Delay]]*
 
 ---
+
 ### Red Heifer
 
 The animal described in Numbers 19 whose ashes, mixed with water, produce the purification required before an Israelite may approach the altar or enter the sanctuary. The heifer must be entirely red, without blemish, and must never have borne a yoke — qualifications rare enough that a genuinely qualifying animal has reportedly not existed, by rabbinic reckoning, since antiquity.
@@ -1220,7 +1358,7 @@ Sanctification is not self-improvement. It is the fruit of relationship — the 
 *First introduced: [[i. A New Creation|Chapter 12 — A New Creation]]*
 
 ---
- 
+
 ## Sea (Biblical Symbol of Chaos)
 
 The recurring biblical image of the sea as the realm of chaos — the part of creation that resists ordering and, in apocalyptic imagery, becomes the source of what is monstrous. The motif has deep roots across the ancient Near East, where the primeval sea was personified as a chaos power (the Mesopotamian Tiamat, the Ugaritic Yam). The Hebrew Bible engages this imagery but always subordinates the sea to God: it is never his rival, only a creature he masters and sets boundaries for.
@@ -1229,6 +1367,7 @@ The motif runs throughout Scripture — the unformed deep of Genesis 1:2, the ch
 
 *First introduced: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 *Also relevant: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
+*Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
 
 ---
 
@@ -1254,7 +1393,6 @@ The geographic region of the Seleucid Empire — present-day Turkey and northern
 *Also relevant: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
 
 ---
-
 
 ## Servant Songs
 
@@ -1291,6 +1429,18 @@ Each church is real and historically specific — not a prediction of a future c
 
 ---
 
+## Seven Heads and Ten Horns
+
+The shared anatomy of the dragon (Revelation 12:3), the beast from the sea (Revelation 13:1), and the scarlet beast ridden by the woman (Revelation 17:3). The ten horns come from Daniel 7:7, 24, where the fourth beast's ten horns are ten kings who arise in the last kingdom; the little horn rises among them and subdues three.
+
+The seven heads have no precedent before Revelation. The study reads them as the succession of empires through which Satan has tried to destroy Israel and prevent the birth of the Messiah: Egypt, Assyria, Babylon, Medo-Persia, Greece, Rome, and finally the Antichrist's kingdom, identified in the study as a revived Islamic caliphate. Revelation 17:9–11 confirms that the heads are kings and kingdoms — "five have fallen, one is, the other has not yet come" — and identifies the beast itself as "an eighth" that "belongs to the seven."
+
+The difference between the dragon and the beast lies in their crowns. The dragon's seven diadems sit on its heads, because Satan has used the kings of every one of those empires across history. The beast's ten diadems sit on its horns, because the Antichrist's authority is exercised through the ten kings of his single final kingdom. One head of the beast suffers a mortal wound that is healed — a kingdom that dies and is restored.
+
+*First introduced: [[i. War in Heaven|Chapter 26 — War in Heaven]] — see also [[Chapter 26/iii. Context|Chapter 26 — Context]]*
+
+---
+
 ## Seven Seals
 
 The seven seals securing the scroll of Revelation 5, broken one at a time by the Lamb across Revelation 6 and 8. The seals are not the contents of the scroll but the closure holding it shut; each one broken releases a stage of the events leading to the scroll's full opening.
@@ -1314,6 +1464,7 @@ The fifth and sixth trumpets carry an explicit duration — the demonic army rel
 *(The trumpet judgments will be treated in full when the study reaches Revelation 8.)*
 
 *First introduced: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
+*Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
 
 ---
 
@@ -1469,6 +1620,7 @@ Its consequences include shame, the breakdown of human relational equality, pain
 *First introduced: [[i. The Fall|Chapter 03 - The Fall]]*
 
 ---
+
 ### The Restrainer
 
 The figure or force identified in 2 Thessalonians 2:6–7 as currently holding back "the secret power of lawlessness" until it is "taken out of the way" — at which point the [[Glossary#Antichrist|man of lawlessness]] is revealed. Paul's Greek shifts between a neuter description (*katechon*, the restraining thing) and a masculine one (*katechōn*, the restraining one) within two verses, which has fueled centuries of debate over the restrainer's identity.
@@ -1537,6 +1689,7 @@ The same three-and-a-half-year span recurs throughout biblical prophecy in sever
 *First introduced: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 *Also relevant: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
 *Also relevant: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
+*Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
 
 ---
 
@@ -1608,6 +1761,16 @@ Their identity is not stated in the text, and it is the oldest open question sur
 
 ---
 
+## Unholy Trinity
+
+The name commonly given to the dragon, the beast, and the false prophet — the three figures from whose mouths the unclean spirits come in Revelation 16:13. Together they form a counterfeit of the Father, the Son, and the Spirit: the dragon gives his authority and throne to the beast as the Father gives all authority to the Son; the beast suffers a mortal wound and is healed, imitating the resurrection; and the false prophet directs worship toward the beast as the Spirit glorifies Christ.
+
+The counterfeit follows from what Satan is. He cannot create; he is not omnipotent and does not have God's power. What he can do is corrupt what God has created and counterfeit what God does. The study further reads Islamic eschatology — with its Mahdi, its accompanying prophetic figure, and its worship of Allah — as a mirror image of the biblical end times: the same events explained in reverse, so that when the figures of the end rise to power, a counterfeit explanation is already waiting.
+
+*First introduced: [[i. War in Heaven|Chapter 26 — War in Heaven]] — see also [[Chapter 26/iii. Context|Chapter 26 — Context]]*
+
+---
+
 ## Valley of Dry Bones
 
 The vision given to Ezekiel in chapter 37 of his book, in which he is set down in a valley filled with dry bones and commanded to prophesy to them, causing them to reassemble, be clothed with flesh, and finally receive breath — at which point they stand as a vast army. God's own interpretation of the vision follows immediately: *"These bones are the whole house of Israel."*
@@ -1645,6 +1808,19 @@ The full account of the Watchers — their oath before descending, what they tau
 *First introduced: [[i. The Watchers and the Flood|Chapter 04 - The Watchers and the Flood]] — see also [[Chapter 04/iii. Context|Chapter 04 - Context]]*
 *Also relevant: [[i. 1 Enoch — A Quick Glance|Chapter 05 - 1 Enoch — A Quick Glance]]*
 *Also relevant: [[i. The Divine Council and the Seventy Nations|Chapter 06 - The Divine Council and the Seventy Nations]]*
+*Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
+
+---
+
+## Woman Clothed with the Sun
+
+The first "great sign" of Revelation 12: a woman "clothed with the sun, with the moon under her feet, and on her head a crown of twelve stars," pregnant and crying out in the pains of childbirth (Revelation 12:1–2). She represents the nation of Israel.
+
+The imagery comes from Joseph's second dream in Genesis 37:9–11, in which the sun, the moon, and eleven stars bow down to him. Jacob — renamed Israel — interpreted the sun as himself, the moon as Joseph's mother, and the stars as Joseph's brothers. With Joseph included, the stars number twelve: the twelve sons of Israel and the tribes that descend from them. The prophets use the same picture of Zion as a woman in labor bringing forth a son (Isaiah 66:7–8; Micah 5:3).
+
+She gives birth to the male child who will rule the nations with a rod of iron — the Messiah — who is caught up to God's throne. At the midpoint of the final seven years she flees into the wilderness, carried on the wings of a great eagle to a place God has prepared, and is protected there for 1,260 days while the dragon wars against the rest of her offspring. Mary, as the woman through whom the Messiah was born, is part of the picture, but the vision spans the whole history and future of the nation, and the identification as Mary alone does not survive the rest of the chapter.
+
+*First introduced: [[i. War in Heaven|Chapter 26 — War in Heaven]] — see also [[Chapter 26/iii. Context|Chapter 26 — Context]]*
 
 ---
 
