@@ -274,7 +274,6 @@ The birth pains are not merely events to endure. They are the conditions under w
 *Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 
 ---
-
 ## Book of Daniel
 
 The Old Testament book recording the life and visions of Daniel, a young noble of Judah carried into Babylonian exile and elevated to high office in the courts of both Babylon and Medo-Persia. The book divides into two halves: court narratives demonstrating God's sovereignty over pagan empires (chapters 1–6), and apocalyptic visions charting the course of Gentile world history to the end of the age (chapters 7–12). It is the foundational prophetic framework for biblical eschatology — Jesus points his disciples to it directly, and Revelation draws its core imagery from it.
@@ -490,7 +489,6 @@ The divine council is not a pantheon of independent deities. It is a governing s
 *Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
 
 ---
-
 ## Divine Self-Oath
 
 The pattern in Scripture of God swearing an oath by himself rather than by any greater power — because no greater power exists for him to invoke. Hebrews 6:13–18 states the logic directly: an oath ordinarily works by calling on something greater than the one making the promise, as a guarantee that the promise will be kept. Since nothing is greater than God, that mechanism is unavailable to him in the ordinary sense. He resolves it by taking on both roles at once — he is the one making the promise, and by swearing by himself he becomes his own guarantee.
@@ -652,7 +650,6 @@ The practical implications are significant. If God will not override the free wi
 Free will also explains the two trees in Eden. Without the Tree of the Knowledge of Good and Evil, there was no genuine choice — and without genuine choice, there is no meaningful love or relationship. God did not want creatures who had no option but to be with him. He wanted creatures who freely chose him.
 
 *First introduced: [[i. The Jacket Cover|Chapter 02 - The Jacket Cover]]*
-*Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
 
 ---
 
@@ -684,15 +681,16 @@ This also explains why believers are left in the world after coming to faith rat
 
 ---
 
-## Gematria
+## Gabriel
 
-The practice of assigning numerical values to the letters of an alphabet and reading significance into the total of a word or name. Ancient Hebrew and Greek had no separate numerals; letters doubled as numbers, so every word had a numerical value. *Gematria* is the Hebrew term; the Greek equivalent is *isopsephy*. In Hebrew, for example, David is spelled with three consonants — dalet (4), vav (6), dalet (4) — for a total of fourteen, which some interpreters connect to the three sets of fourteen generations in Matthew 1:17.
+One of two named archangels in the canonical Scriptures (the other being [[Glossary#Michael|Michael]]). Gabriel functions consistently as the revealer — the angelic messenger assigned to deliver divine explanation of visions and prophecies. In Daniel, he appears in chapters 8, 9, and 10, each time explaining to Daniel what a vision means or what is about to occur.
 
-Gematria is the method behind attempts to decode the number of the beast in Revelation 13:18. Applied in Hebrew, Greek, Latin, and Arabic, with different spellings and counting systems, it has produced hundreds of proposed names. The most widely held scholarly solution is Nero Caesar, whose name in Hebrew letters totals 666 — or 616 in its Latin spelling, a variant found in some early manuscripts.
+His role in Daniel 10 is particularly significant for understanding how spiritual warfare operates at the national and cosmic level: Gabriel was dispatched from heaven the moment Daniel began praying, but was detained for twenty-one days by the "prince of the Persian kingdom" before Michael came to assist him. This episode establishes that even archangels operate within an authority structure that respects the jurisdictional lines of the divine council.
 
-The study does not use gematria to identify the Antichrist. The contradictions among the theories are too great to teach responsibly, and a calculation can only be a guess. The Antichrist will be recognized by what he does and when he does it — by his fruit, not by the sum of his name.
+In the New Testament, Gabriel announces to Zechariah that his wife Elizabeth will bear John the Baptist (Luke 1:19), and announces to Mary that she will conceive Jesus (Luke 1:26–38). He identifies himself in Luke 1:19 as one who "stands in the presence of God" — a description of his standing in the divine court.
 
-*First introduced: [[i. War in Heaven|Chapter 26 — War in Heaven]] — see also [[Chapter 26/iii. Context|Chapter 26 — Context]]*
+*First introduced: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
+*Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
 
 ---
 
@@ -710,16 +708,15 @@ The Assyria/Anatolia identification versus the popular Russia identification (wi
 
 ---
 
-## Gabriel
+## Gematria
 
-One of two named archangels in the canonical Scriptures (the other being [[Glossary#Michael|Michael]]). Gabriel functions consistently as the revealer — the angelic messenger assigned to deliver divine explanation of visions and prophecies. In Daniel, he appears in chapters 8, 9, and 10, each time explaining to Daniel what a vision means or what is about to occur.
+The practice of assigning numerical values to the letters of an alphabet and reading significance into the total of a word or name. Ancient Hebrew and Greek had no separate numerals; letters doubled as numbers, so every word had a numerical value. *Gematria* is the Hebrew term; the Greek equivalent is *isopsephy*. In Hebrew, for example, David is spelled with three consonants — dalet (4), vav (6), dalet (4) — for a total of fourteen, which some interpreters connect to the three sets of fourteen generations in Matthew 1:17.
 
-His role in Daniel 10 is particularly significant for understanding how spiritual warfare operates at the national and cosmic level: Gabriel was dispatched from heaven the moment Daniel began praying, but was detained for twenty-one days by the "prince of the Persian kingdom" before Michael came to assist him. This episode establishes that even archangels operate within an authority structure that respects the jurisdictional lines of the divine council.
+Gematria is the method behind attempts to decode the number of the beast in Revelation 13:18. Applied in Hebrew, Greek, Latin, and Arabic, with different spellings and counting systems, it has produced hundreds of proposed names. The most widely held scholarly solution is Nero Caesar, whose name in Hebrew letters totals 666 — or 616 in its Latin spelling, a variant found in some early manuscripts.
 
-In the New Testament, Gabriel announces to Zechariah that his wife Elizabeth will bear John the Baptist (Luke 1:19), and announces to Mary that she will conceive Jesus (Luke 1:26–38). He identifies himself in Luke 1:19 as one who "stands in the presence of God" — a description of his standing in the divine court.
+The study does not use gematria to identify the Antichrist. The contradictions among the theories are too great to teach responsibly, and a calculation can only be a guess. The Antichrist will be recognized by what he does and when he does it — by his fruit, not by the sum of his name.
 
-*First introduced: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
-*Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
+*First introduced: [[i. War in Heaven|Chapter 26 — War in Heaven]] — see also [[Chapter 26/iii. Context|Chapter 26 — Context]]*
 
 ---
 
@@ -1082,7 +1079,7 @@ The Nephilim appear in the biblical record both before the flood (Genesis 6:4) a
 *First introduced: [[i. The Watchers and the Flood|Chapter 04 - The Watchers and the Flood]]*
 *Also relevant: [[i. 1 Enoch — A Quick Glance|Chapter 05 - 1 Enoch — A Quick Glance]]*
 *Also relevant: [[i. The Divine Council and the Seventy Nations|Chapter 06 - The Divine Council and the Seventy Nations]]*
-*Also relevant: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]*
+*Also relevant: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]* 
 
 ---
 
@@ -1358,7 +1355,7 @@ Sanctification is not self-improvement. It is the fruit of relationship — the 
 *First introduced: [[i. A New Creation|Chapter 12 — A New Creation]]*
 
 ---
-
+ 
 ## Sea (Biblical Symbol of Chaos)
 
 The recurring biblical image of the sea as the realm of chaos — the part of creation that resists ordering and, in apocalyptic imagery, becomes the source of what is monstrous. The motif has deep roots across the ancient Near East, where the primeval sea was personified as a chaos power (the Mesopotamian Tiamat, the Ugaritic Yam). The Hebrew Bible engages this imagery but always subordinates the sea to God: it is never his rival, only a creature he masters and sets boundaries for.
@@ -1393,6 +1390,7 @@ The geographic region of the Seleucid Empire — present-day Turkey and northern
 *Also relevant: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
 
 ---
+
 
 ## Servant Songs
 
@@ -1460,8 +1458,6 @@ The judgments released by the breaking of the seventh seal (Revelation 8–11), 
 Their position in the sequence is what matters for the structure of the book: the seventh seal opens the trumpets, and the seventh trumpet opens the bowls. Because the [[Glossary#Great Multitude|great multitude]] is already standing in heaven before the seventh seal is broken, the trumpet judgments fall on an earth from which the church has been removed.
 
 The fifth and sixth trumpets carry an explicit duration — the demonic army released in Revelation 9 is given five months (Revelation 9:5, 9:10). That duration functions as a constraint on any reading that places the return of Christ as late as the seventh trumpet, since the darkened sun, moon, and stars of the sixth seal could not persist across five months with anyone left alive on the earth.
-
-*(The trumpet judgments will be treated in full when the study reaches Revelation 8.)*
 
 *First introduced: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 *Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
@@ -1577,6 +1573,16 @@ When Jesus called himself the Son of Man, he was drawing on both layers simultan
 
 ---
 
+## Synagogue of Satan
+
+A phrase used in both the letters to Smyrna (Revelation 2:9) and Philadelphia (Revelation 3:9) to describe a group "who say they are Jews and are not, but are liars" and who are actively persecuting or slandering the church in each city. No functioning synagogue is documented in Smyrna at the time of writing, which leaves the reference's precise historical referent unresolved — it may point to conflict already past, to something not yet fully resolved when John writes, or both.
+
+The underlying conflict tracks with a dispute Paul addresses repeatedly in his letters: Jewish communities in the diaspora insisting that Gentile believers in Christ needed to adopt the full requirements of Mosaic law to be considered legitimate. Synagogue membership carried real legal advantages under Roman law — exemption from participation in emperor worship and pagan civic religion that was otherwise mandatory — protections the young churches in these same cities did not share, which may explain why this particular conflict generated enough hostility to be singled out by name in two of the seven letters.
+
+*First introduced: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
+
+---
+
 ## Tabernacle
 
 The portable sanctuary built by the Israelites in the wilderness according to the precise specifications God gave Moses on Sinai, serving as God's dwelling place among his people throughout the forty years of desert travel and into the early period of settlement in Canaan. Also called the Tent of Meeting (*Ohel Mo'ed*) — the place where God met with Moses and, through that meeting, with Israel. It was the forerunner of the Temple Solomon would later build in Jerusalem, and both were modeled, according to Hebrews 8:5, on a heavenly reality that preceded them.
@@ -1586,16 +1592,6 @@ The Tabernacle's structure reflected a graduated approach to God's immediate pre
 The letter to the Hebrews treats the entire Tabernacle structure as a "shadow of heavenly things" (Hebrews 8:5) — a type pointing toward the direct access to God made possible through Christ, whose death tore the Temple veil from top to bottom (Matthew 27:51), opening the Holy of Holies to anyone who approaches through him. The imagery of the Tabernacle — particularly the Ark, the mercy seat, the lampstand, and the altar of incense — recurs throughout the vision of Revelation as part of the heavenly sanctuary the earthly Tabernacle was always copying.
 
 *First introduced: [[i. Then You Will Know|Chapter 09 - Then You Will Know]]*
-
----
-
-## Synagogue of Satan
-
-A phrase used in both the letters to Smyrna (Revelation 2:9) and Philadelphia (Revelation 3:9) to describe a group "who say they are Jews and are not, but are liars" and who are actively persecuting or slandering the church in each city. No functioning synagogue is documented in Smyrna at the time of writing, which leaves the reference's precise historical referent unresolved — it may point to conflict already past, to something not yet fully resolved when John writes, or both.
-
-The underlying conflict tracks with a dispute Paul addresses repeatedly in his letters: Jewish communities in the diaspora insisting that Gentile believers in Christ needed to adopt the full requirements of Mosaic law to be considered legitimate. Synagogue membership carried real legal advantages under Roman law — exemption from participation in emperor worship and pagan civic religion that was otherwise mandatory — protections the young churches in these same cities did not share, which may explain why this particular conflict generated enough hostility to be singled out by name in two of the seven letters.
-
-*First introduced: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
 
 ---
 
@@ -1620,7 +1616,6 @@ Its consequences include shame, the breakdown of human relational equality, pain
 *First introduced: [[i. The Fall|Chapter 03 - The Fall]]*
 
 ---
-
 ### The Restrainer
 
 The figure or force identified in 2 Thessalonians 2:6–7 as currently holding back "the secret power of lawlessness" until it is "taken out of the way" — at which point the [[Glossary#Antichrist|man of lawlessness]] is revealed. Paul's Greek shifts between a neuter description (*katechon*, the restraining thing) and a masculine one (*katechōn*, the restraining one) within two verses, which has fueled centuries of debate over the restrainer's identity.
