@@ -16,6 +16,7 @@ Their function is to be the first fruits of the [[Glossary#Millennial Kingdom|Mi
 *First introduced: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]] — see also [[Chapter 23/iii. Context|Chapter 23 — Context]]*
 *Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
 *Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
+*Also relevant: [[i. Faithful and True|Chapter 29 — Faithful and True]]*
 
 ---
 
@@ -47,6 +48,8 @@ One functional prerequisite has not existed since 70 AD: an active sacrificial s
 *Also relevant: [[i. No More Delay|Chapter 25 — No More Delay]]*
 *Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
 *Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
+*Also relevant: [[i. The Great City|Chapter 28 — The Great City]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
 
 ---
 
@@ -66,6 +69,8 @@ The covenant sign established in Genesis 17 is circumcision — a permanent phys
 *Also relevant: [[i. Can These Bones Live|Chapter 13 — Can These Bones Live]]*
 *Also relevant: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 *Also relevant: [[i. No More Delay|Chapter 25 — No More Delay]]*
+*Also relevant: [[i. Faithful and True|Chapter 29 — Faithful and True]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
 
 ---
 
@@ -78,6 +83,7 @@ In this study the Abyss is the holding place of [[Glossary#Demons|demons]], the 
 The terms Hades, Tartarus, and the lake of fire overlap with the Abyss in their imagery of confinement and judgment, but they are not interchangeable. Hades is the realm of the dead, Tartarus (2 Peter 2:4) is the confinement of angels who sinned, and the lake of fire is reserved for the final judgment. The Abyss is a holding place from which, at the fifth trumpet, its inhabitants are released.
 
 *First introduced: [[i. Wrath in Mercy|Chapter 24 — Wrath in Mercy]] — see also [[Chapter 24/iii. Context|Chapter 24 — Context]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
 
 ---
 
@@ -115,6 +121,7 @@ In Christian interpretation, the Akedah functions as one of the most precise [[G
 In Islamic tradition, the Quran's account of the near-sacrifice does not name the son, and Islamic scholarly consensus has generally identified him as Ishmael — the firstborn — rather than Isaac. This divergence is not academic: it underlies competing claims to the Abrahamic inheritance and shapes the significance each tradition attaches to the Temple Mount in Jerusalem.
 
 *First introduced: [[i. The Abrahamic Covenant|Chapter 08 - The Abrahamic Covenant]] — see also [[Chapter 08/iii. Context|Chapter 08 - Context]]*
+*Also relevant: [[i. The Great City|Chapter 28 — The Great City]]*
 
 ---
 
@@ -136,6 +143,7 @@ The significance goes deeper than simply being present at the start and finish o
 
 *First introduced: [[i. The Jacket Cover|Chapter 02 - The Jacket Cover]]*
 *Also relevant: [[i. Walking Among the Lampstands|Chapter 20 — Walking Among the Lampstands]]*
+*Also relevant: [[i. The Dwelling Place of God|Chapter 31 — The Dwelling Place of God]]*
 
 ---
 
@@ -157,6 +165,7 @@ The phrase (Aramaic *attiq yomin*) evokes God's eternity and his standing as the
 
 *First introduced: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 *Also relevant: [[i. Walking Among the Lampstands|Chapter 20 — Walking Among the Lampstands]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
 
 ---
 
@@ -188,6 +197,9 @@ The Antichrist is not the same as Satan. He is Satan's instrument — a human be
 *Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 *Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
 *Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
+*Also relevant: [[i. The Great City|Chapter 28 — The Great City]]*
+*Also relevant: [[i. Faithful and True|Chapter 29 — Faithful and True]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
 
 ---
 
@@ -202,6 +214,7 @@ His career is described in extraordinary detail in Daniel 11:21–35 and was rec
 *First introduced: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]] — see also [[Chapter 16/iii. Context|Chapter 16 — Context]]*
 *Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
 *Also relevant: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
+*Also relevant: [[i. The Great City|Chapter 28 — The Great City]]*
 
 ---
 
@@ -216,6 +229,8 @@ Four of the seven have been fulfilled in Jesus' first coming — Passover (cruci
 *First introduced: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]*
 *Also relevant: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
 *Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
+*Also relevant: [[i. The Dwelling Place of God|Chapter 31 — The Dwelling Place of God]]*
 
 ---
 
@@ -226,6 +241,8 @@ The name given in Revelation 16:16 to the place where the demonic spirits from t
 The study does not tie the final battle to the Jezreel Valley. Revelation says the kings are *assembled* at Armageddon; the prophets consistently place the decisive battle at Jerusalem. God brings Gog against the mountains of Israel with hooks in his jaws (Ezekiel 38:4; 39:2), gathers all nations against Jerusalem (Zechariah 14:2), and judges them in the valley beside the city (Joel 3:2, 12), and Revelation's winepress is trodden "outside the city" (Revelation 14:20). The Battle of Armageddon falls at the seventh bowl, at the end of the seven years. The Antichrist and the false prophet are taken and thrown into the lake of fire, and everyone who comes against Jerusalem alongside them is killed.
 
 *First introduced: [[i. Two Harvests|Chapter 27 — Two Harvests]] — see also [[Chapter 27/iii. Context|Chapter 27 — Context]]*
+*Also relevant: [[i. Faithful and True|Chapter 29 — Faithful and True]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
 
 ---
 
@@ -246,6 +263,8 @@ The great city of Revelation 14:8, 16:19, and chapters 17–18 — called "the g
 Its fall is announced in advance by the second angel of Revelation 14 — "Fallen, fallen is Babylon the great," quoting Isaiah 21:9 — and carried out at the seventh bowl, when the great city is split into three parts and God makes her "drain the cup of the wine of the fury of his wrath" (Revelation 16:19). The announcement serves as a warning: everything a person might gain by taking the mark is going to burn.
 
 *First introduced: [[i. Two Harvests|Chapter 27 — Two Harvests]] — see also [[Chapter 27/iii. Context|Chapter 27 — Context]]*
+*Also relevant: [[i. The Great City|Chapter 28 — The Great City]] — see also [[Chapter 28/iii. Context|Chapter 28 — Context]]*
+*Also relevant: [[i. Faithful and True|Chapter 29 — Faithful and True]]*
 
 ---
 
@@ -271,6 +290,7 @@ Its body is a composite of Daniel 7's beasts: like a leopard (Greece), with feet
 The sea it rises from is the biblical realm of chaos, the same sea from which Daniel's four beasts emerged.
 
 *First introduced: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
+*Also relevant: [[i. The Great City|Chapter 28 — The Great City]]*
 
 ---
 
@@ -282,6 +302,7 @@ A biblical worldview is not simply knowing Bible facts. It is a God-anchored fra
 
 *First introduced: [[i. Reading the Last Chapter|Chapter 01 - Reading the Last Chapter]]*
 *Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
+*Also relevant: [[i. Faithful and True|Chapter 29 — Faithful and True]]*
 
 ---
 
@@ -318,6 +339,31 @@ The book of life recurs at the final judgment in Revelation 20:12–15, where it
 *First introduced: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
 *Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
 *Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
+*Also relevant: [[i. Faithful and True|Chapter 29 — Faithful and True]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
+*Also relevant: [[i. The Dwelling Place of God|Chapter 31 — The Dwelling Place of God]]*
+
+---
+
+## Branch (Shoot of Jesse)
+
+A messianic title drawn from Isaiah 11:1: *"There shall come forth a shoot from the stump of Jesse, and a branch from his roots shall bear fruit."* Jesse was the father of David. The image is of a felled tree: by the time the Messiah comes, the royal house of David will look like a stump, cut down and finished, and from it a new shoot will grow. Isaiah 11:10 calls the same figure "the root of Jesse," and Revelation 22:16 has Jesus call himself "the root and the descendant of David" — both the source of David's line and its heir.
+
+The prophets develop the title further. Jeremiah 23:5 promises that God will "raise up for David a righteous Branch" who will reign as king and execute justice, and Zechariah 3:8 and 6:12 speak of God's servant "the Branch." Isaiah 11 describes the Branch's reign: the Spirit of the Lord resting on him, judgment of the poor with righteousness, the wicked struck down by the breath of his lips, the wolf dwelling with the lamb, the earth full of the knowledge of the Lord, the nations seeking him, and the scattered remnant of Israel gathered home. Ezekiel 37:24–25 describes the same king as "my servant David," who will be Israel's prince forever. The study reads all of these as the reign of Jesus in the Millennial Kingdom and the fulfillment of the Davidic Covenant.
+
+*First introduced: [[i. The Thousand Years|Chapter 30 — The Thousand Years]] — see also [[Chapter 30/iii. Context|Chapter 30 — Context]]*
+
+---
+
+## Bride of Christ
+
+The church, pictured as the bride betrothed to Christ and married to him at his return. Revelation 19:7–8 announces that *"the marriage of the Lamb has come, and his Bride has made herself ready,"* clothed in fine linen that is the righteous deeds of the saints. The image continues the Old Testament picture of God as Israel's husband (Isaiah 54:5; 62:5; Hosea 2:19–20), in which idolatry is adultery, and it is applied to the church in the New Testament: Paul betroths the Corinthian church *"to one husband... as a pure virgin to Christ"* (2 Corinthians 11:2) and describes Christ giving himself up for the church to present her to himself *"in splendor, without spot or wrinkle"* (Ephesians 5:25–27). Jesus calls himself the bridegroom (Mark 2:19–20).
+
+In the study's sequence, the church is the Bride from the time of its faith up until Christ's return. When he returns and gathers her, the marriage takes place and the marriage supper of the Lamb is held. The Bride appears again at the end of Revelation as the New Jerusalem, *"prepared as a bride adorned for her husband"* (Revelation 21:2, 9–10).
+
+*First introduced: [[i. Faithful and True|Chapter 29 — Faithful and True]] — see also [[Chapter 29/iii. Context|Chapter 29 — Context]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
+*Also relevant: [[i. The Dwelling Place of God|Chapter 31 — The Dwelling Place of God]]*
 
 ---
 
@@ -398,6 +444,18 @@ The covenant's confirmation may not be a publicly self-evident event — it can 
 
 *First introduced: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
 *Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
+*Also relevant: [[i. The Great City|Chapter 28 — The Great City]]*
+*Also relevant: [[i. Faithful and True|Chapter 29 — Faithful and True]]*
+
+---
+
+## Crusades
+
+The series of military campaigns launched by the Christian kingdoms of Europe, beginning with Pope Urban II's call at Clermont in 1095, to recover Jerusalem and the Holy Land from Islamic rule. The First Crusade captured Jerusalem in 1099 and founded the Latin Kingdom of Jerusalem. Saladin retook the city in 1187, and the Third Crusade (1189–1192), led by Richard the Lionheart, Philip II of France, and Frederick Barbarossa, failed to recover it. Apart from a brief treaty period from 1229 to 1244, Jerusalem stayed under Muslim rule until the British captured it in 1917. The last crusader stronghold on the mainland, Acre, fell in 1291.
+
+The Crusades matter to this study as evidence of how long and how bitterly Jerusalem has been contested between the Islamic world and the West. From the Arab conquest in the 630s to the twentieth century, the city at the center of God's plan was almost continuously held by Muslim powers. Israel's control of the Old City dates only to 1967, and the Temple Mount itself remains under Islamic administration.
+
+*First introduced: [[i. The Great City|Chapter 28 — The Great City]] — see also [[Chapter 28/iii. Context|Chapter 28 — Context]]*
 
 ---
 
@@ -411,6 +469,8 @@ The Davidic Covenant forms the third wall of the covenant framework: it narrows 
 *Also relevant: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]*
 *Also relevant: [[i. Today This Scripture Is Fulfilled|Chapter 11 - Today This Scripture Is Fulfilled]]*
 *Also relevant: [[i. Can These Bones Live|Chapter 13 — Can These Bones Live]]*
+*Also relevant: [[i. Faithful and True|Chapter 29 — Faithful and True]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
 
 ---
 
@@ -449,6 +509,7 @@ The existence of demons is never argued or defended in the New Testament — it 
 
 *First introduced: [[i. 1 Enoch — A Quick Glance|Chapter 05 - 1 Enoch — A Quick Glance]]*
 *Also relevant: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
 
 ---
 
@@ -459,6 +520,7 @@ A royal crown — in Greek, *diadēma*, originally the ribbon or band worn by Pe
 The count and placement carry meaning. The dragon's seven crowns represent the kings of the seven empires Satan has used across all of history to try to destroy Israel — he is not bound by time. The beast's ten crowns represent the ten kings of the Antichrist's single final kingdom — he is a man, confined to his own time and place. Christ's many crowns outnumber both.
 
 *First introduced: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
+*Also relevant: [[i. Faithful and True|Chapter 29 — Faithful and True]]*
 
 ---
 
@@ -494,6 +556,7 @@ The Divided Kingdom is the historical setting from which the major prophetic lit
 
 *First introduced: [[i. Today This Scripture Is Fulfilled|Chapter 11 - Today This Scripture Is Fulfilled]]*
 *Also relevant: [[i. Can These Bones Live|Chapter 13 — Can These Bones Live]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
 
 ---
 
@@ -511,6 +574,8 @@ The divine council is not a pantheon of independent deities. It is a governing s
 *Also relevant: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
 *Also relevant: [[i. Walking Among the Lampstands|Chapter 20 — Walking Among the Lampstands]]*
 *Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
+*Also relevant: [[i. Faithful and True|Chapter 29 — Faithful and True]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
 
 ---
 ## Divine Self-Oath
@@ -523,6 +588,16 @@ Revelation 10:5–7 places this same pattern in the mouth of the mighty angel �
 
 *First introduced: [[i. No More Delay|Chapter 25 — No More Delay]]*
 *Also relevant: [[i. The Abrahamic Covenant|Chapter 08 - The Abrahamic Covenant]]*
+
+---
+
+## Dome of the Rock
+
+The octagonal Islamic shrine built in AD 691–692 by the Umayyad caliph Abd al-Malik on the Temple Mount in Jerusalem, over the rock that Jewish tradition calls the Foundation Stone and associates with Mount Moriah, where Abraham bound Isaac (Genesis 22:2; 2 Chronicles 3:1). It is a shrine and monument rather than a mosque. The al-Aqsa Mosque stands at the southern end of the same platform. Islam venerates the rock as the place from which Muhammad ascended to heaven after his Night Journey from Mecca to "the Farthest Mosque" (Quran 17:1), and the Temple Mount, called the Haram al-Sharif, is the third holiest site in Islam after Mecca and Medina. The shrine's interior inscriptions include Quranic verses rejecting the divinity of Christ.
+
+Since 1967 the Mount has been administered by the Islamic Waqf under the custodianship of the king of Jordan, while Israel controls security. Under the arrangement known as the status quo, Jews could visit but not pray there. That arrangement has eroded steadily since 2022, and by 2026 police were permitting Jewish prayer on parts of the site. The Dome of the Rock is the most visible obstacle to a rebuilt temple, and that is why the status of the Mount is a marker for the timeline (see [[Glossary#Third Temple|Third Temple]]).
+
+*First introduced: [[i. The Great City|Chapter 28 — The Great City]] — see also [[Chapter 28/iii. Context|Chapter 28 — Context]]*
 
 ---
 
@@ -546,6 +621,7 @@ In the chapter's action, the dragon stands ready to devour the child born to the
 
 *First introduced: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
 *Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
 
 ---
 
@@ -585,6 +661,21 @@ Scripture does not identify the false prophet or his place of origin; Revelation
 
 *First introduced: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
 *Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
+*Also relevant: [[i. Faithful and True|Chapter 29 — Faithful and True]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
+
+---
+
+## Feast of Tabernacles
+
+The seventh and final feast of Leviticus 23 (verses 33–43), also called the Feast of Booths (Hebrew *Sukkot*) and the Feast of Ingathering. It begins on the fifteenth day of the seventh month, five days after the Day of Atonement, and lasts seven days, with a solemn assembly on the eighth. Israel lives in temporary booths for the week to remember the years in the wilderness, when the people lived in tents and God dwelt among them in the tabernacle. It is also the harvest festival of the year's end and the most joyful feast of the calendar. Jews still keep it today.
+
+In the study's reading of the feast calendar, the four spring feasts were fulfilled in Christ's first coming, the Feast of Trumpets is fulfilled at the seventh trumpet, and the Day of Atonement at the Great White Throne Judgment. Tabernacles is the last to be fulfilled. During the Millennial Kingdom the nations are required to come up to Jerusalem every year to keep it, on pain of drought (Zechariah 14:16–19), but they are still observing a feast. Its fulfillment comes in the new creation, when the voice from the throne announces, *"Behold, the dwelling place of God is with man"* (Revelation 21:3). The Greek words there are the tabernacle's own vocabulary: *skēnē*, "tent," and *skēnoō*, "to pitch a tent."
+
+It is the last feast because the Father dwelling with mankind requires that sin be gone entirely. Jesus has been God's presence on the earth from Genesis through the Millennial Kingdom. Only when the Great White Throne Judgment has put away all sin does God the Father come down to live among his people.
+
+*First introduced: [[i. The Thousand Years|Chapter 30 — The Thousand Years]] — see also [[Chapter 30/iii. Context|Chapter 30 — Context]]*
+*Also relevant: [[i. The Dwelling Place of God|Chapter 31 — The Dwelling Place of God]] — see also [[Chapter 31/iii. Context|Chapter 31 — Context]]*
 
 ---
 
@@ -614,6 +705,20 @@ First fruits giving predates the formal tithe established in the Mosaic Law by c
 *Also relevant: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]* 
 *Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 *Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
+*Also relevant: [[i. Faithful and True|Chapter 29 — Faithful and True]]*
+*Also relevant: [[i. The Dwelling Place of God|Chapter 31 — The Dwelling Place of God]]*
+
+---
+
+## First Resurrection
+
+The term Revelation 20:5–6 uses for the raising of the saints before the thousand years: *"This is the first resurrection. Blessed and holy is the one who shares in the first resurrection! Over such the second death has no power, but they will be priests of God and of Christ, and they will reign with him for a thousand years."* "The rest of the dead," by contrast, "did not come to life until the thousand years were ended."
+
+In the study's sequence, the first resurrection takes place at the Lord's return for his church — the rapture of 1 Thessalonians 4:16–17, when the dead in Christ rise first and those still alive are caught up with them. At that point believers receive their resurrection bodies. Christ's own resurrection is not counted as part of this sequence; he is the firstfruits (1 Corinthians 15:20, 23). Those raised in the first resurrection reign with Christ through the Millennial Kingdom. The second resurrection, of all the remaining dead, takes place after the thousand years, when they stand before the Great White Throne (Revelation 20:11–15).
+
+The first resurrection is distinct from the raising of the whole house of Israel described in Ezekiel 37, which the study reads as a return to mortal life in the land, like that of Lazarus, rather than a resurrection into glorified bodies.
+
+*First introduced: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
 
 ---
 
@@ -626,6 +731,7 @@ In the study's reading, foreknowledge is what allows Revelation 13:8 to speak of
 Interpreters in the Calvinist tradition read "foreknew" in Romans 8:29 relationally — as God setting his love on someone beforehand, as in Amos 3:2 and Jeremiah 1:5 — rather than as advance knowledge of a choice. See [[Glossary#Calvinism and Arminianism|Calvinism and Arminianism]].
 
 *First introduced: [[i. War in Heaven|Chapter 26 — War in Heaven]] — see also [[Chapter 26/iii. Context|Chapter 26 — Context]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
 
 ---
 
@@ -653,6 +759,7 @@ Both visions end the same way: every human empire is shattered and swept away, w
 *Also relevant: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
 *Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 *Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
 
 ---
 
@@ -665,6 +772,7 @@ In Revelation 6 they take on a specific function: each of the first four seals i
 That detail carries theological weight out of proportion to its length. It establishes that the judgments of Revelation are issued from the throne and executed on authorization, rather than initiated by Satan and countered by God. The catastrophes of the seal sequence arrive on invitation, in an order set in heaven.
 
 *First introduced: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
+*Also relevant: [[i. Faithful and True|Chapter 29 — Faithful and True]]*
 
 ---
 
@@ -677,6 +785,9 @@ The practical implications are significant. If God will not override the free wi
 Free will also explains the two trees in Eden. Without the Tree of the Knowledge of Good and Evil, there was no genuine choice — and without genuine choice, there is no meaningful love or relationship. God did not want creatures who had no option but to be with him. He wanted creatures who freely chose him.
 
 *First introduced: [[i. The Jacket Cover|Chapter 02 - The Jacket Cover]]*
+*Also relevant: [[i. Faithful and True|Chapter 29 — Faithful and True]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
+*Also relevant: [[i. The Dwelling Place of God|Chapter 31 — The Dwelling Place of God]]*
 
 ---
 
@@ -721,20 +832,6 @@ In the New Testament, Gabriel announces to Zechariah that his wife Elizabeth wil
 
 ---
 
-## Gog
-
-The name used in Ezekiel 38–39 for the leader of the great end-times military coalition that moves against Israel before the final judgment. Gog is identified in Ezekiel as coming from the land of Magog, out of the far north, and leading an alliance of nations against a restored Israel. The War of Gog and Magog described in Ezekiel 38–39 is among the most debated prophetic passages in the Old Testament, and its relationship to the events described in Revelation is a point of ongoing scholarly discussion.
-
-Gog enters this study through Balaam's third oracle in Numbers 24, where the Septuagint reads the king who will be greater than Agog — with "Agog" widely identified in the first-century Jewish interpretive tradition as Gog, the end-times adversary. The connection signals that even in Moses' time, the figure who would oppose Israel at the end of the age was being anticipated. Jesus — Israel's ultimate king — is the one whose kingdom will surpass and defeat this adversary.
-
-The Assyria/Anatolia identification versus the popular Russia identification (with the Rosh/Meshech/Tubal argument briefly summarized), the coalition named in Ezekiel 38 (Persia, Cush, Put, Gomer, Beth-togarmah), the timing of the invasion during Israel's covenant-secured peace, and the stated divine purpose — that the watching nations, not Israel or the Antichrist's own kingdom, are the audience for God's demonstrated holiness.
-
-*First introduced: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]*
-*Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]] — see also [[Chapter 19/iii. Context|Chapter 19 — Context]]*
-*Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
-
----
-
 ## Gematria
 
 The practice of assigning numerical values to the letters of an alphabet and reading significance into the total of a word or name. Ancient Hebrew and Greek had no separate numerals; letters doubled as numbers, so every word had a numerical value. *Gematria* is the Hebrew term; the Greek equivalent is *isopsephy*. In Hebrew, for example, David is spelled with three consonants — dalet (4), vav (6), dalet (4) — for a total of fourteen, which some interpreters connect to the three sets of fourteen generations in Matthew 1:17.
@@ -756,6 +853,22 @@ General revelation is distinguished from specific (or special) revelation, which
 The distinction matters for how the trumpet judgments read. God's wrath in Romans 1:18 is directed at those who suppress the truth they have been given through creation. The sequence of Revelation 8–9 answers that suppression: creation is struck first, because it was never received with thanks, and the demons that were worshiped in its place are released afterward.
 
 *First introduced: [[i. Wrath in Mercy|Chapter 24 — Wrath in Mercy]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
+
+---
+
+## Gog
+
+The name used in Ezekiel 38–39 for the leader of the great end-times military coalition that moves against Israel before the final judgment. Gog is identified in Ezekiel as coming from the land of Magog, out of the far north, and leading an alliance of nations against a restored Israel. The War of Gog and Magog described in Ezekiel 38–39 is among the most debated prophetic passages in the Old Testament, and its relationship to the events described in Revelation is a point of ongoing scholarly discussion.
+
+Gog enters this study through Balaam's third oracle in Numbers 24, where the Septuagint reads the king who will be greater than Agog — with "Agog" widely identified in the first-century Jewish interpretive tradition as Gog, the end-times adversary. The connection signals that even in Moses' time, the figure who would oppose Israel at the end of the age was being anticipated. Jesus — Israel's ultimate king — is the one whose kingdom will surpass and defeat this adversary.
+
+The Assyria/Anatolia identification versus the popular Russia identification (with the Rosh/Meshech/Tubal argument briefly summarized), the coalition named in Ezekiel 38 (Persia, Cush, Put, Gomer, Beth-togarmah), the timing of the invasion during Israel's covenant-secured peace, and the stated divine purpose — that the watching nations, not Israel or the Antichrist's own kingdom, are the audience for God's demonstrated holiness.
+
+*First introduced: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]*
+*Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]] — see also [[Chapter 19/iii. Context|Chapter 19 — Context]]*
+*Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
 
 ---
 
@@ -784,6 +897,29 @@ Two textual details establish where this scene falls in the sequence. The multit
 This is the confirmation of the timeline: the church is standing in heaven, resurrected, identified by heaven itself as having come out of the [[Glossary#Great Tribulation|great tribulation]] — and all of it before the seventh seal is broken.
 
 *First introduced: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
+*Also relevant: [[i. Faithful and True|Chapter 29 — Faithful and True]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
+
+---
+
+## Great Prostitute
+
+The woman of Revelation 17, *"seated on many waters,"* riding a scarlet beast with seven heads and ten horns, dressed in purple and scarlet, adorned with gold, jewels, and pearls, holding a golden cup full of abominations, and drunk with the blood of the saints. On her forehead is written *"Babylon the great, mother of prostitutes and of earth's abominations"* (Revelation 17:5). The angel interprets her directly: the waters are *"peoples and multitudes and nations and languages"* (17:15), and *"the woman that you saw is the great city that has dominion over the kings of the earth"* (17:18).
+
+Her prostitution is commercial and religious seduction. The kings of the earth commit immorality with her, and the merchants of the earth grow rich from her luxury (18:3). She rides the beast and appears to direct it, but the partnership ends in betrayal: the beast and the ten kings come to hate her, strip her, devour her flesh, and burn her with fire. God has put it into their hearts to do it (17:16–17). The study identifies her as a great seaport city at the religious and economic center of the Antichrist's kingdom, which it locates in Saudi Arabia (see [[Glossary#Babylon the Great|Babylon the Great]]).
+
+*First introduced: [[i. The Great City|Chapter 28 — The Great City]] — see also [[Chapter 28/iii. Context|Chapter 28 — Context]]*
+*Also relevant: [[i. Faithful and True|Chapter 29 — Faithful and True]]*
+
+---
+
+## Great Supper of God
+
+The summons in Revelation 19:17–18, in which an angel standing in the sun calls all the birds of the air to *"gather for the great supper of God, to eat the flesh of kings, the flesh of captains, the flesh of mighty men, the flesh of horses and their riders, and the flesh of all men, both free and slave, both small and great."* It takes place at the Battle of Armageddon, after the beast and the false prophet are captured and the armies gathered with them are killed by the sword from the mouth of the rider on the white horse.
+
+The scene fulfills Ezekiel 39:17–20, where God calls the birds and beasts to his *"sacrificial feast"* on the mountains of Israel after the defeat of Gog. It stands in deliberate contrast to the marriage supper of the Lamb earlier in the same chapter: one supper for those who belong to the Lamb, and one in which those who made war against him are the meal.
+
+*First introduced: [[i. Faithful and True|Chapter 29 — Faithful and True]] — see also [[Chapter 29/iii. Context|Chapter 29 — Context]]*
 
 ---
 
@@ -812,6 +948,8 @@ The final judgment described in Revelation 20:11–15, occurring after the [[Glo
 Its significance in the eschatological sequence is that it marks the outer boundary of the opportunity to repent. Every human being has until one of two points: their own death, or the Great White Throne Judgment at the end of the thousand years. This is why the Millennial Kingdom is not a waiting room for the already-condemned. Those who enter it still living have a genuine decision in front of them, made under conditions no previous generation has had — watching a righteous King rule the earth in person from Jerusalem.
 
 *First introduced: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
+*Also relevant: [[i. The Dwelling Place of God|Chapter 31 — The Dwelling Place of God]]*
 
 ---
 
@@ -826,6 +964,16 @@ The individual terms do carry distinct usages in the biblical text, and those di
 *(See [[Chapter 23/iii. Context|Chapter 23 — Context]] for the full treatment of how these terms are used.)*
 
 *First introduced: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]] — see also [[Chapter 23/iii. Context|Chapter 23 — Context]]*
+
+---
+
+## Hajj
+
+The annual pilgrimage to Mecca, one of the Five Pillars of Islam, required once in a lifetime of every adult Muslim who is physically and financially able to make it. It takes place in the Islamic month of Dhu al-Hijjah and includes circling the Kaaba, the cube-shaped shrine at the center of Mecca's Grand Mosque, seven times; rites at Mina, Muzdalifah, and the plain of Arafat; and the festival of Eid al-Adha, the "Feast of the Sacrifice," which commemorates Abraham's willingness to sacrifice his son. Islamic tradition identifies that son as Ishmael (see [[Glossary#Akedah|Akedah]]). Some two million pilgrims attend each year, and most arrive through the Red Sea port of Jeddah.
+
+The Hajj is the clearest expression of Saudi Arabia's place as the center of the Islamic world. Every Muslim on earth is oriented toward Mecca in daily prayer and, ideally, in pilgrimage. The study argues that this religious centrality, combined with the kingdom's wealth, is the reason Babylon the Great must be sought there.
+
+*First introduced: [[i. The Great City|Chapter 28 — The Great City]]*
 
 ---
 
@@ -846,6 +994,7 @@ The condition in which a person's decision against God becomes fixed, so that no
 Revelation shows the same pattern in those who take the mark of the beast. Under the bowl judgments they curse God and do not repent (Revelation 16:9, 11, 21). The contrast is deliberate: after the earthquake at the end of the Two Witnesses' ministry, the survivors in Jerusalem gave glory to God (Revelation 11:13). Those who have taken the mark have already made their choice, and it is too late for them.
 
 *First introduced: [[i. Two Harvests|Chapter 27 — Two Harvests]] — see also [[Chapter 27/iii. Context|Chapter 27 — Context]]*
+*Also relevant: [[i. The Dwelling Place of God|Chapter 31 — The Dwelling Place of God]]*
 
 ---
 
@@ -881,6 +1030,7 @@ In this study, the historical caliphate — and its anticipated revival — is t
 *Also relevant: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
 *Also relevant: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
 *Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
+*Also relevant: [[i. The Great City|Chapter 28 — The Great City]] — see also [[Chapter 28/iii. Context|Chapter 28 — Context]]*
 
 ---
 
@@ -914,6 +1064,17 @@ The drying of the Euphrates is a single event within the bowl judgments at the v
 
 ---
 
+## King of Kings and Lord of Lords
+
+The name written on the robe and thigh of the rider on the white horse in Revelation 19:16. It declares that the returning Christ holds supreme royal authority over every ruler of the earth. The title first appears in Revelation at 17:14, where the Lamb conquers the beast and the ten kings *"for he is Lord of lords and King of kings,"* and Paul uses it of Christ in 1 Timothy 6:15.
+
+Its roots are in the Old Testament's descriptions of God: *"the Lord your God is God of gods and Lord of lords"* (Deuteronomy 10:17), and Nebuchadnezzar's confession that Daniel's God is *"God of gods and Lord of kings"* (Daniel 2:47). Applying the title to Christ identifies him with the God of Israel. It also completes the contrast of the two white horses: the rider of the first seal wears a victor's wreath, while the rider of Revelation 19 wears many diadems and bears the name of the King above all kings.
+
+*First introduced: [[i. Faithful and True|Chapter 29 — Faithful and True]] — see also [[Chapter 29/iii. Context|Chapter 29 — Context]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
+
+---
+
 ## King of the North / King of the South
 
 Designations used in Daniel 11 for the two successor kingdoms of Alexander the Great's fragmented empire that share a border through the land of Israel. After Alexander's death and the division of his empire among his generals (the [[Glossary#Diadochi|Diadochi]]), the two kingdoms that become relevant to Israel's history are the Ptolemaic kingdom, based in Egypt (the king of the south), and the Seleucid kingdom, based in Syria and the northern Levant (the king of the north).
@@ -927,6 +1088,19 @@ The same language appears in Daniel 11:40–43 in an eschatological context, des
 *Also relevant: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
 *Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 *Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
+*Also relevant: [[i. The Great City|Chapter 28 — The Great City]]*
+
+---
+
+## Lake of Fire
+
+The place of final, eternal judgment in Revelation, described as *"the lake of fire that burns with sulfur."* The beast and the false prophet are its first occupants, thrown in alive at the Battle of Armageddon (Revelation 19:20). At the end of the thousand years the devil is thrown in after them, and *"they will be tormented day and night forever and ever"* (Revelation 20:10). After the Great White Throne Judgment, death and Hades are thrown into it, along with everyone whose name is not found in the book of life (Revelation 20:14–15). Revelation calls it *"the second death"* (Revelation 20:14; 21:8).
+
+The image combines the fire and sulfur that fell on Sodom (Genesis 19:24) with the prophets' pictures of burning judgment (Isaiah 30:33; Daniel 7:11). No one thrown into the lake of fire comes out of it. It is distinct from the abyss, the holding place in which Satan is chained during the thousand years and from which he is released for a short time before his final judgment (Revelation 20:1–3, 7–10). See also [[Glossary#Hades|Hades]] and [[Glossary#Second Death|Second Death]].
+
+*First introduced: [[i. Faithful and True|Chapter 29 — Faithful and True]] — see also [[Chapter 29/iii. Context|Chapter 29 — Context]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
+*Also relevant: [[i. The Dwelling Place of God|Chapter 31 — The Dwelling Place of God]]*
 
 ---
 
@@ -958,6 +1132,7 @@ In Greek thought, the *Logos* was the rational principle underlying the universe
 John synthesizes all of this. For the Greek reader: the rational ground of reality you have always sensed is not an abstract force but a person. For the Jewish reader: the divine Word and Wisdom you have read about your whole life became flesh. The theological precision of John 1:1 — "with God" (distinction) and "was God" (identity) — establishes the Logos as the pre-incarnate Son, who then becomes flesh in the Incarnation (verse 14). The Logos is not a secondary or lesser divine being; he is the agent of all creation, the one through whom "all things were made."
 
 *First introduced: [[i. The Jacket Cover|Chapter 02 - The Jacket Cover]] — see also [[Chapter 02/iii. Context|Chapter 02 - Context]]*
+*Also relevant: [[i. Faithful and True|Chapter 29 — Faithful and True]]*
 
 ---
 
@@ -982,6 +1157,7 @@ Islamic eschatology is layered: alongside the Mahdi it includes its own deceiver
 *First introduced: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 *Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
 *Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
+*Also relevant: [[i. The Great City|Chapter 28 — The Great City]]*
 
 ---
 
@@ -995,6 +1171,20 @@ The mark is the counterfeit of the seal of God placed on the foreheads of his se
 
 *First introduced: [[i. War in Heaven|Chapter 26 — War in Heaven]] — see also [[Chapter 26/iii. Context|Chapter 26 — Context]]*
 *Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
+*Also relevant: [[i. The Great City|Chapter 28 — The Great City]]*
+*Also relevant: [[i. Faithful and True|Chapter 29 — Faithful and True]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
+
+---
+
+## Marriage Supper of the Lamb
+
+The wedding feast announced in Revelation 19:9: *"Blessed are those who are invited to the marriage supper of the Lamb."* It follows the marriage of the Lamb and his Bride, the church (Revelation 19:7–8), and is held in heaven after the church has been gathered at Christ's return.
+
+The study reads it as a specific event at a specific time rather than a general picture of salvation. Everyone is invited to love and serve God, but the invitation to the marriage supper goes to those who belonged to Christ by faith before he was revealed in glory — those gathered at the rapture. Those who come to the Lord after his return will be in his kingdom but will not have been at this feast; when it is over, there is not another one. Scripture does not say what that difference means in eternity, only that those invited are blessed. The invitation comes through a personal relationship with Christ, not through association with his people, which is the point of the parable of the ten virgins and of Jesus's warning, *"I never knew you"* (Matthew 7:23).
+
+*First introduced: [[i. Faithful and True|Chapter 29 — Faithful and True]] — see also [[Chapter 29/iii. Context|Chapter 29 — Context]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
 
 ---
 
@@ -1020,6 +1210,16 @@ The Mastema tradition illuminates the legal-adversarial dimension of Satan's rol
 
 ---
 
+## Mecca Joint Defense Agreement
+
+The trilateral defense pact signed in Mecca on 7 August 2026 by Saudi Crown Prince Mohammed bin Salman, Turkish President Recep Tayyip Erdogan, and Pakistani Prime Minister Shehbaz Sharif, under which an attack on any one of the three is treated as an attack on all. It extended the Saudi-Pakistani Strategic Mutual Defense Agreement of September 2025 to include Turkey. It was signed during the United States–Israel war on Iran. The three governments describe it as collective deterrence rather than a military bloc, directed at no particular country.
+
+The agreement unites Saudi Arabia's wealth and religious legitimacy as custodian of Mecca and Medina, Turkey's military power and command of the Mediterranean, and Pakistan's nuclear deterrent, all three Sunni-majority states. It also leaves Egypt out. The study treats it as a possible beginning of the alignment from which the Antichrist's kingdom emerges. Egypt's exclusion is suggestive in light of Daniel 11:40–43, where the king of the South is the first to attack the king of the North and is conquered. This is a reading of current events, not a fixed identification.
+
+*First introduced: [[i. The Great City|Chapter 28 — The Great City]] — see also [[Chapter 28/iii. Context|Chapter 28 — Context]]*
+
+---
+
 ## Melchizedek
 
 The figure who appears in Genesis 14:18–20 as "king of Salem" and "priest of God Most High," to whom Abraham gave a tithe of the spoils after defeating the coalition of kings who had taken Lot captive. The name means "king of righteousness" in Hebrew; his city, Salem, is identified in Jewish tradition with Jerusalem, and the name is a linguistic ancestor of Shalom, peace. He appears in Genesis without genealogy, without recorded birth, and without recorded death — a literary presentation that the writer of Hebrews will explicitly develop as theologically significant.
@@ -1040,6 +1240,7 @@ In the first century, dominant Jewish expectation centered on a political and mi
 
 *First introduced: [[i. Reading the Last Chapter|Chapter 01 - Reading the Last Chapter]]*
 *Also relevant: [[i. Today This Scripture Is Fulfilled|Chapter 11 - Today This Scripture Is Fulfilled]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
 
 ---
 
@@ -1075,6 +1276,9 @@ The Millennial Kingdom ends with the brief release of Satan, a final rebellion, 
 *Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 *Also relevant: [[i. No More Delay|Chapter 25 — No More Delay]]*
 *Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
+*Also relevant: [[i. Faithful and True|Chapter 29 — Faithful and True]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
+*Also relevant: [[i. The Dwelling Place of God|Chapter 31 — The Dwelling Place of God]]*
 
 ---
 
@@ -1100,6 +1304,7 @@ A title Christ applies directly to himself in Revelation 22:16: "I am the root a
 The image draws on the visible morning star (the planet Venus, seen just before sunrise) as the first light that announces the coming of day — fitting imagery for a title tied to Christ's role as the one whose arrival ends the long night of the present age. Balaam's fourth oracle in Numbers 24:17 — "a star will come out of Jacob" — is widely read by Jewish and Christian interpreters alike as an early messianic anticipation of this same imagery.
 
 *First introduced: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
+*Also relevant: [[i. The Dwelling Place of God|Chapter 31 — The Dwelling Place of God]]*
 
 ---
 
@@ -1116,6 +1321,16 @@ The Mosaic Covenant was never designed to be permanent. Paul argues at length in
 *Also relevant: [[i. Today This Scripture Is Fulfilled|Chapter 11 - Today This Scripture Is Fulfilled]]*
 *Also relevant: [[i. A New Creation|Chapter 12 — A New Creation]]*
 *Also relevant: [[i. Can These Bones Live|Chapter 13 — Can These Bones Live]]*
+
+---
+
+## NEOM
+
+The giga-project announced by Saudi Crown Prince Mohammed bin Salman in 2017 as the centerpiece of the kingdom's Vision 2030 plan: a development zone of some 26,500 square kilometers in northwestern Saudi Arabia, on the Red Sea and the Gulf of Aqaba, near the site of Solomon's ancient port at Ezion-geber. Its planned regions included The Line, a 170-kilometer linear city; Trojena, a mountain ski resort; Sindalah, a luxury island; and Oxagon, an eight-sided port and industrial city built partly floating on the Red Sea. After years of cost overruns, The Line has been cut to a short initial phase and put on hold until after 2030, Trojena lost the 2029 Asian Winter Games, and investment has been redirected toward Oxagon's port, green-hydrogen production, and AI data centers.
+
+The study offers Oxagon, along with Jeddah, as food for thought in the search for Babylon the Great. Revelation 18 describes the great city as a seaport whose ships grow rich from her wealth, and the Red Sea was the center of trade in Solomon's day. This is speculative and is not a fixed identification.
+
+*First introduced: [[i. The Great City|Chapter 28 — The Great City]] — see also [[Chapter 28/iii. Context|Chapter 28 — Context]]*
 
 ---
 
@@ -1146,6 +1361,8 @@ Every celebration of communion is a participation in the New Covenant — a decl
 *Also relevant: [[i. Today This Scripture Is Fulfilled|Chapter 11 - Today This Scripture Is Fulfilled]]*
 *Also relevant: [[i. A New Creation|Chapter 12 — A New Creation]]*
 *Also relevant: [[i. Can These Bones Live|Chapter 13 — Can These Bones Live]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
+*Also relevant: [[i. The Dwelling Place of God|Chapter 31 — The Dwelling Place of God]]*
 
 ---
 
@@ -1158,6 +1375,30 @@ The "old" that has gone is not the sinful nature — Christians still sin, and s
 The concept connects directly to what Jesus describes in John 3 as being born again — a second birth, this one of the Spirit rather than the flesh. It also stands in direct continuity with what the [[Glossary#New Covenant|New Covenant]] promised through Ezekiel and Jeremiah: not an external code pressed onto an unchanged people, but a new heart, a new spirit, the law written from the inside out. The new creation is what that promise looks like in the life of an individual.
 
 *First introduced: [[i. A New Creation|Chapter 12 — A New Creation]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
+*Also relevant: [[i. The Dwelling Place of God|Chapter 31 — The Dwelling Place of God]]*
+
+---
+
+## New Heaven and New Earth
+
+The renewed creation of Revelation 21:1, which John sees after *"the first heaven and the first earth had passed away."* The promise first appears in Isaiah 65:17 and 66:22, where God declares that he will create new heavens and a new earth and *"the former things shall not be remembered,"* and Peter describes the present heavens and earth being dissolved by fire before *"new heavens and a new earth in which righteousness dwells"* (2 Peter 3:10–13).
+
+In the study's sequence, the new heaven and new earth follow the Millennial Kingdom, Satan's final rebellion and his casting into the lake of fire, and the Great White Throne Judgment. They differ from the Millennial Kingdom in one decisive way: there is no sin anywhere. During the thousand years there was still flesh for Satan to appeal to when he was released. In the new creation Satan is gone forever, believers stand in resurrection bodies, and nothing remains to separate a holy God from his people. The sea is gone as well, the biblical symbol of chaos. What God is doing is not abandoning his creation but redeeming what Satan corrupted and restoring paradise on the earth.
+
+*First introduced: [[i. The Dwelling Place of God|Chapter 31 — The Dwelling Place of God]]*
+
+---
+
+## New Jerusalem
+
+The holy city of Revelation 21–22, which comes down out of heaven from God onto the new earth, *"prepared as a bride adorned for her husband"* (Revelation 21:2). It is identified as the Bride, the wife of the Lamb (21:9–10), and it is the place Jesus said he was going to prepare for his people in his Father's house (John 14:2–3). It is not set down on top of present-day Jerusalem; it represents everything Jerusalem was and replaces it.
+
+The city has twelve gates bearing the names of the twelve tribes of Israel and twelve foundations bearing the names of the twelve apostles. It lies foursquare, 12,000 stadia (about 1,380 miles) in length, width, and height — a cube, the shape of the Most Holy Place in Solomon's temple (1 Kings 6:20). Its footprint would reach from the Nile to the Euphrates, the dimensions of the land promised to Abraham (Genesis 15:18). It is pure gold like clear glass, its foundations adorned with twelve kinds of jewel, its gates each a single pearl. It has no temple, because *"its temple is the Lord God the Almighty and the Lamb"* (21:22), and no sun or moon, because the glory of God is its light and the Lamb is its lamp. The river of the water of life flows through it from the throne, and the tree of life stands on either side of the river.
+
+Nothing unclean enters it; only those written in the Lamb's book of life. Those excluded remain outside its walls (21:27; 22:15). The city is the fulfillment of the Feast of Tabernacles: the dwelling place of God with man.
+
+*First introduced: [[i. The Dwelling Place of God|Chapter 31 — The Dwelling Place of God]] — see also [[Chapter 31/iii. Context|Chapter 31 — Context]]*
 
 ---
 
@@ -1197,6 +1438,26 @@ The study takes the same approach. The name matters less than the deeds: what th
 
 ---
 
+## Parable of the Ten Virgins
+
+The parable in Matthew 25:1–13, told immediately after Jesus's teaching on his return in Matthew 24. Ten virgins wait at night for a bridegroom with their lamps. Five are wise and bring extra oil; five are foolish and bring none. When the bridegroom is delayed and the cry finally goes up at midnight, the foolish find their lamps going out and ask the wise to share. The wise refuse, because there is not enough for both, and send them to buy their own. While they are gone the bridegroom arrives, the wise go in to the wedding feast, and the door is shut. When the others return, the bridegroom answers, *"Truly, I say to you, I do not know you."*
+
+All ten are virgins, all are dressed for the wedding, and all have lamps; the only difference is the oil. The study reads the oil as the Holy Spirit and, more importantly, as a personal relationship with the source of the oil — a daily supply that cannot be borrowed from someone else. The foolish virgins represent those in the church who rely on others for what only their own relationship with Christ can supply. The parable has also been read with the oil as good works, faith, or general readiness; its central point, that readiness cannot be transferred at the last minute, holds on any reading.
+
+*First introduced: [[i. Faithful and True|Chapter 29 — Faithful and True]] — see also [[Chapter 29/iii. Context|Chapter 29 — Context]]*
+
+---
+
+## Parable of the Wedding Banquet
+
+The parable in Matthew 22:1–14 of a king who gives a wedding feast for his son. The invited guests refuse to come, so the king sends his servants out to the roads to gather everyone they find, good and bad, and the hall is filled. Then the king finds a guest without a wedding garment, asks how he got in, and when the man is speechless has him bound and cast into the outer darkness, where there is weeping and gnashing of teeth. Jesus ends, *"For many are called, but few are chosen."*
+
+The parable never explains where the other guests got their wedding clothes. The study reads Revelation 19:8 as the explanation: the fine linen of the Bride is the righteous deeds of the saints, produced by the Holy Spirit in those who belong to Christ. The guest without a garment is one who came to the feast without belonging to the King's Son.
+
+*First introduced: [[i. Faithful and True|Chapter 29 — Faithful and True]] — see also [[Chapter 29/iii. Context|Chapter 29 — Context]]*
+
+---
+
 ## Parable of the Wheat and Weeds
 
 The parable of Matthew 13:24–30, explained by Jesus in Matthew 13:36–43. A man sows good seed in his field; while everyone sleeps, an enemy sows weeds among the wheat. When the servants ask whether to pull up the weeds, the master tells them to wait, lest they uproot the wheat with them: let both grow together until the harvest. Jesus identifies each element: the sower is the Son of Man, the field is the world, the good seed is the children of the kingdom, the weeds are the children of the evil one, the enemy is the devil, the harvest is the end of the age, and the reapers are angels.
@@ -1205,6 +1466,7 @@ The parable serves as the outline of the entire biblical story in this study —
 
 *First introduced: [[i. The Jacket Cover|Chapter 02 - The Jacket Cover]]*
 *Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
+*Also relevant: [[i. The Dwelling Place of God|Chapter 31 — The Dwelling Place of God]]*
 
 ---
 
@@ -1217,6 +1479,7 @@ The Passover is one of the most structurally precise typological previews of the
 The Passover also marks the beginning of the Israelite religious calendar — Exodus 12:2 designates its month as the first month of the year. It is not simply the founding event of the nation. It is the event around which all of Israel's subsequent time is oriented.
 
 *First introduced: [[i. Then You Will Know|Chapter 09 - Then You Will Know]]*
+*Also relevant: [[i. The Dwelling Place of God|Chapter 31 — The Dwelling Place of God]]*
 
 ---
 
@@ -1231,6 +1494,8 @@ This is why the martyrs under the altar in Revelation 6:9–11 are not given a d
 *First introduced: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 *Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
 *Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
+*Also relevant: [[i. Faithful and True|Chapter 29 — Faithful and True]]*
+*Also relevant: [[i. The Dwelling Place of God|Chapter 31 — The Dwelling Place of God]]*
 
 ---
 
@@ -1247,6 +1512,16 @@ A small island in the Aegean Sea, off the southeastern coast of present-day Turk
 The first five books of the Bible: Genesis, Exodus, Leviticus, Numbers, and Deuteronomy. Traditionally attributed to Moses and frequently referred to in the New Testament as "the Law of Moses" or simply "Moses." When Jesus says in Luke 24 that he explained *"beginning with Moses"* what the Scriptures said about him, he is starting with these five books. The Pentateuch establishes the foundational narrative, covenants, and imagery that the rest of Scripture builds on and that Revelation ultimately resolves.
 
 *First introduced: [[i. Reading the Last Chapter|Chapter 01 - Reading the Last Chapter]]*
+
+---
+
+## Petrodollar
+
+The popular name for the system, established in the 1970s, under which the world's oil is priced and settled in U.S. dollars. After President Nixon ended the dollar's convertibility into gold in 1971, the United States and Saudi Arabia reached a set of agreements in 1974 under which Saudi oil was sold in dollars and Saudi surplus revenues were invested in U.S. Treasury securities, alongside American security support for the kingdom. Because OPEC's oil was priced in dollars, every oil-importing nation needed dollar reserves, which entrenched the dollar as the world's reserve currency.
+
+The petrodollar explains how a relatively small kingdom acquired an outsized hold on the world's largest economy: the American currency's global role has rested in large part on Saudi oil. Its gradual erosion, as nations stockpile gold, explore other currencies for oil, and seek alternatives to dollar-based payment networks after sanctions and asset freezes, is part of the shifting economic ground the study watches.
+
+*First introduced: [[i. The Great City|Chapter 28 — The Great City]] — see also [[Chapter 28/iii. Context|Chapter 28 — Context]]*
 
 ---
 
@@ -1344,6 +1619,8 @@ The placement of the rapture within the end-times sequence is not ambiguous in e
 *Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 *Also relevant: [[i. No More Delay|Chapter 25 — No More Delay]]*
 *Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
+*Also relevant: [[i. Faithful and True|Chapter 29 — Faithful and True]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
 
 ---
 
@@ -1395,6 +1672,9 @@ The souls of believers who have died before the resurrection are present with Go
 *First introduced: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]*
 *Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 *Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
+*Also relevant: [[i. Faithful and True|Chapter 29 — Faithful and True]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
+*Also relevant: [[i. The Dwelling Place of God|Chapter 31 — The Dwelling Place of God]]*
 
 ---
 
@@ -1406,6 +1686,16 @@ Revelation is written in a genre called *apocalyptic literature*, which uses viv
 
 *First introduced: [[i. Reading the Last Chapter|Chapter 01 - Reading the Last Chapter]]*
 *Also relevant: [[i. Walking Among the Lampstands|Chapter 20 — Walking Among the Lampstands]]*
+
+---
+
+## Sabbath Millennium
+
+The reading of history as a "cosmic week": six thousand years of human history followed by a seventh thousand years of rest, corresponding to the six days of creation and the seventh day on which God rested (Genesis 2:2–3). It combines the creation week with the principle that "with the Lord one day is as a thousand years" (Psalm 90:4; 2 Peter 3:8). On this reading, the Millennial Kingdom of Revelation 20 is the Sabbath of history — the rest God promised his people, previewed in Israel's entry into the Promised Land and pointed to in Hebrews 4:9: "there remains a Sabbath rest for the people of God."
+
+No passage of Scripture states the scheme directly, and the study presents it as a pattern that fits the rest of the biblical story rather than as an explicit teaching. It is ancient in both traditions. The Talmud records the teaching that the world will exist for six thousand years and lie fallow for one thousand, as the land rests every seventh year (*Sanhedrin* 97a). The *Epistle of Barnabas* (early second century) and Irenaeus (*Against Heresies* 5.28.3) both read Genesis 2 the same way. Exact dates depend on which biblical chronology is used, which is why the study speaks of roughly six thousand years.
+
+*First introduced: [[i. The Thousand Years|Chapter 30 — The Thousand Years]] — see also [[Chapter 30/iii. Context|Chapter 30 — Context]]*
 
 ---
 
@@ -1430,6 +1720,7 @@ The motif runs throughout Scripture — the unformed deep of Genesis 1:2, the ch
 *First introduced: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 *Also relevant: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
 *Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
+*Also relevant: [[i. The Dwelling Place of God|Chapter 31 — The Dwelling Place of God]]*
 
 ---
 
@@ -1440,6 +1731,8 @@ The phrase used in Revelation 2:11, 20:6, 20:14, and 21:8 for final, eternal sep
 The distinction matters for how the letter's promise functions: Christ is not promising the Smyrnan believers protection from physical suffering or death — he explicitly tells them to expect it — but assurance that whatever they face physically, it cannot touch their ultimate standing with God. Revelation 20:14 later identifies the second death explicitly with "the lake of fire," the final judgment reserved for those whose names are not found in the [[Glossary#Book of Life|book of life]].
 
 *First introduced: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
+*Also relevant: [[i. The Dwelling Place of God|Chapter 31 — The Dwelling Place of God]]*
 
 ---
 
@@ -1489,6 +1782,8 @@ The bowls are unambiguously the [[Glossary#Wrath of God|wrath of God]] — poure
 
 *First introduced: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 *Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
+*Also relevant: [[i. The Great City|Chapter 28 — The Great City]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
 
 ---
 
@@ -1512,6 +1807,7 @@ The seven heads have no precedent before Revelation. The study reads them as the
 The difference between the dragon and the beast lies in their crowns. The dragon's seven diadems sit on its heads, because Satan has used the kings of every one of those empires across history. The beast's ten diadems sit on its horns, because the Antichrist's authority is exercised through the ten kings of his single final kingdom. One head of the beast suffers a mortal wound that is healed — a kingdom that dies and is restored.
 
 *First introduced: [[i. War in Heaven|Chapter 26 — War in Heaven]] — see also [[Chapter 26/iii. Context|Chapter 26 — Context]]*
+*Also relevant: [[i. The Great City|Chapter 28 — The Great City]]*
 
 ---
 
@@ -1537,6 +1833,7 @@ The fifth and sixth trumpets carry an explicit duration — the demonic army rel
 
 *First introduced: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 *Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
 
 ---
 
@@ -1641,6 +1938,16 @@ When Jesus called himself the Son of Man, he was drawing on both layers simultan
 
 ---
 
+## Sunni and Shia
+
+The two main branches of Islam, divided since the first century of Islamic history over who should lead the Muslim community after Muhammad. Sunnis, roughly 85 to 90 percent of Muslims worldwide, accepted the caliphs chosen from among Muhammad's companions, beginning with Abu Bakr. Shia (from *Shi'at Ali*, "the party of Ali") held that leadership belonged to Muhammad's cousin and son-in-law Ali and his descendants, the Imams. The split hardened after Ali's son Husayn was killed at Karbala in 680. Most Shia belong to the Twelver branch, which holds that the twelfth Imam went into hiding in the ninth century and will return as the Mahdi.
+
+Saudi Arabia, Egypt, Turkey, and most of the Islamic world are Sunni. Iran is overwhelmingly Shia and has been the state center of Shia power since the sixteenth century. Iraq and Bahrain are majority Shia. Iran has served as the counterweight to Sunni power in the Middle East. The study holds that as Iran's strength is diminished, that counterweight weakens and the Sunni powers are positioned to unite.
+
+*First introduced: [[i. The Great City|Chapter 28 — The Great City]] — see also [[Chapter 28/iii. Context|Chapter 28 — Context]]*
+
+---
+
 ## Synagogue of Satan
 
 A phrase used in both the letters to Smyrna (Revelation 2:9) and Philadelphia (Revelation 3:9) to describe a group "who say they are Jews and are not, but are liars" and who are actively persecuting or slandering the church in each city. No functioning synagogue is documented in Smyrna at the time of writing, which leaves the reference's precise historical referent unresolved — it may point to conflict already past, to something not yet fully resolved when John writes, or both.
@@ -1660,6 +1967,7 @@ The Tabernacle's structure reflected a graduated approach to God's immediate pre
 The letter to the Hebrews treats the entire Tabernacle structure as a "shadow of heavenly things" (Hebrews 8:5) — a type pointing toward the direct access to God made possible through Christ, whose death tore the Temple veil from top to bottom (Matthew 27:51), opening the Holy of Holies to anyone who approaches through him. The imagery of the Tabernacle — particularly the Ark, the mercy seat, the lampstand, and the altar of incense — recurs throughout the vision of Revelation as part of the heavenly sanctuary the earthly Tabernacle was always copying.
 
 *First introduced: [[i. Then You Will Know|Chapter 09 - Then You Will Know]]*
+*Also relevant: [[i. The Dwelling Place of God|Chapter 31 — The Dwelling Place of God]]*
 
 ---
 
@@ -1672,6 +1980,17 @@ The geographic distribution follows three broad axes: Japheth's descendants spre
 The Table of Nations is not merely a genealogy. It is the list of the peoples assigned to the divine council, the nations through which Satan and the rebellious angelic authorities will work, and the backdrop against which God's selection of Abraham — a man outside all seventy nations — becomes visible as a deliberate counter-move.
 
 *First introduced: [[i. The Divine Council and the Seventy Nations|Chapter 06 - The Divine Council and the Seventy Nations]]*
+
+---
+
+## Ten Kings
+
+The ten horns of the beast in Revelation 17:12–14, identified by the angel as *"ten kings who have not yet received royal power, but they are to receive authority as kings for one hour, together with the beast."* They are the same ten horns of Daniel 7:7, 24, which arise in the last kingdom. The little horn, the Antichrist, rises among them and subdues three, and the rest *"are of one mind, and they hand over their power and authority to the beast."* Together they make war on the Lamb and are conquered by him. They also turn on the great prostitute and burn her with fire, because *"God has put it into their hearts to carry out his purpose"* (17:16–17).
+
+The ten kings differ from the seven heads in an important way. The heads are empires spread across all of history, which belong to Satan, who is not bound by time. The ten kings exist together at one future moment, the time of the Antichrist, who is. The wording *"royal power"* points to hereditary rulers, kings rather than presidents or prime ministers. That fits the Middle East, one of the few regions on earth where monarchy still carries real authority. *"For one hour"* signals a brief, coordinated reign.
+
+*First introduced: [[i. The Great City|Chapter 28 — The Great City]]*
+*Also relevant: [[i. Faithful and True|Chapter 29 — Faithful and True]]*
 
 ---
 
@@ -1701,6 +2020,7 @@ The temple anticipated by end-times prophecy to be rebuilt on Jerusalem's Temple
 Anticipation of a rebuilt temple is not exclusive to Christian eschatology — Jewish organizations such as the Temple Institute have spent decades preparing ritual implements toward this end — but its construction is not currently underway or politically feasible under any existing arrangement governing the site.
 
 *First introduced: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
+*Also relevant: [[i. The Great City|Chapter 28 — The Great City]]*
 
 ---
 
@@ -1750,6 +2070,7 @@ The Time of the Gentiles was not an afterthought. Moses wrote that God would mak
 *Also relevant: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
 *Also relevant: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
 *Also relevant: [[i. No More Delay|Chapter 25 — No More Delay]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
 
 ---
 
@@ -1786,6 +2107,16 @@ The Babel event is the historical occasion described in Deuteronomy 32:8–9, wh
 
 ---
 
+## Tree of Life
+
+The tree planted in the midst of the Garden of Eden (Genesis 2:9), alongside the Tree of the Knowledge of Good and Evil. After the Fall, God drove Adam and Eve from the garden so that they would not eat of it and live forever in their fallen state, and he placed cherubim with a flaming sword to guard the way to it (Genesis 3:22–24).
+
+It returns at the end of the story. Christ promises the overcomer in Ephesus *"to eat of the tree of life, which is in the paradise of God"* (Revelation 2:7). In the New Jerusalem it stands on either side of the river of the water of life, yielding twelve kinds of fruit, one each month, and its leaves are *"for the healing of the nations"* (Revelation 22:2) — imagery drawn from the trees beside the river flowing from the temple in Ezekiel 47:12. *"No longer will there be anything accursed"* (22:3) answers the curse of Genesis 3. Access to it belongs to those who wash their robes (22:14), and taking away from the words of Revelation forfeits one's share in it (22:19). What was guarded after the Fall is open again.
+
+*First introduced: [[i. The Dwelling Place of God|Chapter 31 — The Dwelling Place of God]] — see also [[Chapter 31/iii. Context|Chapter 31 — Context]]*
+
+---
+
 ## Triumphal Entry
 
 The event recorded in all four Gospels (Matthew 21:1–11; Mark 11:1–11; Luke 19:28–44; John 12:12–19) in which Jesus entered Jerusalem on a donkey during Passover week, approximately 33 AD, to the proclamation of the crowd — *Hosanna! Blessed is he who comes in the name of the Lord!* — and the spreading of cloaks and palm branches on the road before him.
@@ -1819,6 +2150,7 @@ Recognizing typological patterns does not reduce the Old Testament figures to me
 Twenty-four figures seated on thrones surrounding the throne of God in Revelation 4:4, dressed in white and wearing crowns of gold, who fall down in worship before God and later before the Lamb, laying their crowns down as an act of submission. Their identity is not stated explicitly in the text; one common reading proposes that they represent the twelve tribes of Israel and the twelve apostles combined, though Scripture does not confirm this directly. What the text does establish is their function: they hold a governing role symbolized by their thrones and crowns, and their unbroken loyalty and worship distinguish them from the portion of the divine council that will later be described in open rebellion against God.
 
 *First introduced: [[i. Worthy Is the Lamb|Chapter 22 - Worthy Is the Lamb]]*
+*Also relevant: [[i. Faithful and True|Chapter 29 — Faithful and True]]*
 
 ---
 
@@ -1855,6 +2187,8 @@ The vision is not a general metaphor about spiritual renewal. It is a specific p
 The vision is immediately followed by the prophecy of the two sticks (Ezekiel 37:15–28), in which the division between the northern and southern kingdoms is healed and the whole house of Israel is united under one king — the [[Glossary#Messiah|Messiah]], described as "my servant David." Together the two passages describe the comprehensive fulfillment of every major covenant promise in the biblical narrative, locating that fulfillment in what the New Testament calls the [[Glossary#Millennial Kingdom|Millennial Kingdom]].
 
 *First introduced: [[i. Can These Bones Live|Chapter 13 — Can These Bones Live]] — see also [[Chapter 13/iii. Context|Chapter 13 — Context]]*
+*Also relevant: [[i. Faithful and True|Chapter 29 — Faithful and True]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
 
 ---
 
@@ -1867,6 +2201,7 @@ The rider on the white horse is therefore not presented as a hereditary monarch 
 The wreath's drift from a symbol of victory to a symbol of peace is part of what the imagery exploits. Nothing in the crown itself signals danger; it signals that this man won, and a watching world reads winning as rescue.
 
 *First introduced: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]] — see also [[Chapter 23/iii. Context|Chapter 23 — Context]]*
+*Also relevant: [[i. Faithful and True|Chapter 29 — Faithful and True]]*
 
 ---
 
@@ -1884,6 +2219,17 @@ The full account of the Watchers — their oath before descending, what they tau
 *Also relevant: [[i. 1 Enoch — A Quick Glance|Chapter 05 - 1 Enoch — A Quick Glance]]*
 *Also relevant: [[i. The Divine Council and the Seventy Nations|Chapter 06 - The Divine Council and the Seventy Nations]]*
 *Also relevant: [[i. War in Heaven|Chapter 26 — War in Heaven]]*
+*Also relevant: [[i. The Thousand Years|Chapter 30 — The Thousand Years]]*
+
+---
+
+## White Robes and Fine Linen
+
+The clothing of the saints throughout Revelation. The martyrs of the fifth seal are each given a white robe and told to wait a little longer (Revelation 6:11). The great multitude stands before the throne wearing white robes, washed and made white in the blood of the Lamb (Revelation 7:9, 14). The Bride is granted fine linen, bright and pure, *"for the fine linen is the righteous deeds of the saints"* (Revelation 19:8), and the armies of heaven follow Christ arrayed in the same fine linen (Revelation 19:14). Christ also promises white garments to the overcomers at Sardis and Laodicea (Revelation 3:4–5, 18).
+
+The Greek for "righteous deeds" in Revelation 19:8, *dikaiōmata*, refers to righteous acts, yet the linen is *granted* to the Bride. The study holds the two together: the deeds are real, but they are not a balance of good over bad that earns entry. They are what the Holy Spirit produces through those in whom Christ lives. Entry comes by faith alone, as the thief on the cross shows (Luke 23:43). The Old Testament background includes Isaiah 61:10, *"he has covered me with the robe of righteousness,"* and Zechariah 3:3–5, where the high priest's filthy garments are replaced with pure vestments.
+
+*First introduced: [[i. Faithful and True|Chapter 29 — Faithful and True]] — see also [[Chapter 29/iii. Context|Chapter 29 — Context]]*
 
 ---
 
@@ -1894,6 +2240,7 @@ The image of Revelation 14:17–20 and 19:15 for God's final judgment on the arm
 The image comes from Joel 3:13 ("Go in, tread, for the winepress is full") and Isaiah 63:1–6, where the Lord comes from Edom with garments stained red, having trodden the winepress alone. In Revelation 19:13–15, Christ himself treads it, riding out in a robe dipped in blood. The study places the grape harvest at the seventh bowl and the Battle of Armageddon. It is set beside the grain harvest reaped by the Son of Man (Revelation 14:14–16) to show the two fates of mankind: the gathering of those who belong to him, and the judgment of those who took the mark.
 
 *First introduced: [[i. Two Harvests|Chapter 27 — Two Harvests]] — see also [[Chapter 27/iii. Context|Chapter 27 — Context]]*
+*Also relevant: [[i. Faithful and True|Chapter 29 — Faithful and True]]*
 
 ---
 
@@ -1932,6 +2279,7 @@ Paul's statement in 1 Thessalonians 5:9 — "God did not appoint us to suffer wr
 *Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 *Also relevant: [[i. No More Delay|Chapter 25 — No More Delay]]*
 *Also relevant: [[i. Two Harvests|Chapter 27 — Two Harvests]]*
+*Also relevant: [[i. Faithful and True|Chapter 29 — Faithful and True]]*
 
 ---
 
@@ -1944,6 +2292,7 @@ The name is derived from the Hebrew verb *hayah* ("to be") and carries its meani
 In Jewish tradition, the name is too holy to pronounce and is replaced in reading with *Adonai* or, in casual speech, *HaShem* ("The Name"). When the Jewish scholars who produced the Septuagint rendered the Hebrew text into Greek, they translated the Tetragrammaton as *Kyrios* ("Lord") — the same word the New Testament writers then use both for the God of Israel and for Jesus, a convergence that is theologically deliberate. Jesus' statement *"Before Abraham was, I AM"* (John 8:58) uses the same self-referential present tense, invoking the divine name directly — which is precisely why the crowd immediately moves to stone him.
 
 *First introduced: [[i. Then You Will Know|Chapter 09 - Then You Will Know]]*
+*Also relevant: [[i. Faithful and True|Chapter 29 — Faithful and True]]*
 
 ---
 
