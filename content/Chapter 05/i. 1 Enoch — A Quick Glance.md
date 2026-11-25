@@ -72,7 +72,7 @@ Jesus was standing in the shadow of that mountain, before a cave associated with
 
 The connection may continue to the Transfiguration. Six days after Peter's confession, Jesus took Peter, James, and John up *"a high mountain"* (Matthew 17:1). The Gospels do not name it. Church tradition from the fourth century placed it on Mount Tabor in Galilee, but many scholars favor Mount Hermon, the towering peak just above Caesarea Philippi where the conversation had taken place. There Jesus revealed himself in full divine glory, his face shining like the sun, his clothes white as light, Moses and Elijah appearing beside him. If the mountain was Hermon, then on the heights where the [[Glossary#Watchers|Watchers]] had sworn their oath of rebellion, Jesus showed himself to be God. It was a declaration addressed not only to his disciples but to every spiritual entity associated with that location: the one who had come as a humble man was the one before whom they would ultimately answer.
 
-*(A third connection to Mount Hermon, related to the Tower of Babel and the assignment of the nations, will be explored in the next session.)*
+*(Mount Hermon returns in [[i. The Divine Council and the Seventy Nations|Chapter 06]], where the giant clans reappear after the flood in the land within sight of it.)*
 
 ---
 
@@ -148,7 +148,7 @@ On this reading, 1 Enoch accounts for one of the most remarkable features of hum
 
 This thread will be developed in considerably more depth when the study reaches the Tower of Babel and the scattering of the nations. The event at Babel does not merely divide humanity geographically. It assigns governing spiritual authority over the divided nations in a way that explains the whole framework of polytheistic religion and sets the stage for why God then tracks a single man named Abram.
 
-*(The scattering of the nations, the divine beings assigned to govern them, and the origin of the world's religious traditions will be addressed in the next session.)*
+*(The scattering of the nations, the divine beings assigned to govern them, and the origin of the world's religious traditions are taken up in [[i. The Divine Council and the Seventy Nations|Chapter 06]].)*
 
 ---
 
@@ -166,7 +166,7 @@ A question that surfaced during the session deserves a direct answer, because th
 
 There are three rebellions embedded in the opening chapters of the Bible. Satan's was the first. The [[Glossary#Watchers|Watchers]]' at [[Glossary#Mount Hermon|Mount Hermon]] was the second. A third is coming, connected to the Tower of Babel, and understanding it will complete the picture of how the world came to be organized the way it is.
 
-*(The third rebellion, what it was, and its consequences will be addressed in the next session.)*
+*(The third rebellion, what it was, and its consequences are taken up in [[i. The Divine Council and the Seventy Nations|Chapter 06]].)*
 
 ---
 

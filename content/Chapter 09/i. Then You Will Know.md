@@ -164,7 +164,7 @@ The third is the **Sacrifice**: the sacrificial system that provides Israel a pa
 
 > **Key Principle:** The three pillars of the Mosaic Covenant (Law, Presence, and Sacrifice) are not uniquely ancient. The Christian life operates on the same structure: a code that reflects God's character to live by, the indwelling presence of the Holy Spirit as God's dwelling within his people, and the once-for-all sacrifice of Christ that provides the permanent basis for forgiveness. The form is entirely different. The underlying logic is the same.
 
-The [[Glossary#Mosaic Covenant|Mosaic Covenant]] is conditional, and that conditionality will define the entire subsequent history of Israel. Both parties have made commitments. God promises blessing, protection, and presence. Israel promises to walk in his ways. *(The full treatment of the blessings and curses, and their implications for Israel's history and the prophetic books, will be the subject of the next session.)*
+The [[Glossary#Mosaic Covenant|Mosaic Covenant]] is conditional, and that conditionality will define the entire subsequent history of Israel. Both parties have made commitments. God promises blessing, protection, and presence. Israel promises to walk in his ways. *(The blessings and curses, and their implications for Israel's history and the prophetic books, are taken up again in [[i. The Feasts of the Lord and the Throne of David|Chapter 10]].)*
 
 ---
 

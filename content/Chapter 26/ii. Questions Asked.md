@@ -4,7 +4,7 @@
 
 ### Q: Is the Antichrist pitching his tents between the sea and the holy mountain in Daniel 11:45 the Battle of Armageddon?
 
-In this study's reading, no; that is far too early. At Daniel 11:45 the Antichrist is still consolidating his power. He has fought his wars with Egypt and its allies and answered threats from the east and north, and now he has camped his army outside Jerusalem, between the Mediterranean and Mount Zion. He has not yet entered the city or the temple. This is the scene Luke describes, Jerusalem surrounded by armies, and it is the immediate precursor to the Abomination of Desolation. Armageddon comes at the end of the seven years, not the middle.
+No; that is far too early. At Daniel 11:45 the Antichrist is still consolidating his power. He has fought his wars with Egypt and its allies and answered threats from the east and north, and now he has camped his army outside Jerusalem, between the Mediterranean and Mount Zion. He has not yet entered the city or the temple. This is the scene Luke describes, Jerusalem surrounded by armies, and it is the immediate precursor to the Abomination of Desolation. Armageddon comes at the end of the seven years, not the middle.
 
 ### Q: Doesn't Daniel 12:1 say that Michael protects Israel? Isn't that what he's doing when he arises?
 
@@ -20,7 +20,7 @@ Yes, and that is the reading this study holds. The imagery comes from Joseph's s
 
 ### Q: Mary is part of Israel, too. Doesn't that make her the woman?
 
-Mary belongs to Israel, and she is the woman through whom the seed was actually born, so the picture touches her; Catholic and some other interpreters read the woman primarily as Mary, and many Protestant interpreters read her as the people of God across both covenants. In this study's reading, the vision is about the whole nation of Israel. The Mary reading breaks down as the chapter continues: the woman flees into the wilderness for 1,260 days at the end of the age, the dragon pursues her, and then he goes to war against "the rest of her offspring." That is the history and future of Israel, not the life of one woman.
+Mary belongs to Israel, and she is the woman through whom the seed was actually born, so the picture touches her; Catholic and some other interpreters read the woman primarily as Mary, and many Protestant interpreters read her as the people of God across both covenants. The vision is about the whole nation of Israel. The Mary reading breaks down as the chapter continues: the woman flees into the wilderness for 1,260 days at the end of the age, the dragon pursues her, and then he goes to war against "the rest of her offspring." That is the history and future of Israel, not the life of one woman.
 
 ### Q: How do we count twelve stars if Joseph's two sons each became a tribe? Wasn't Levi still a tribe? And didn't Reuben lose his inheritance?
 
@@ -32,7 +32,7 @@ Scripture keeps the count at twelve by context. When the land is divided, Levi r
 
 ### Q: Are the seven heads the seven kingdoms left over after the Antichrist conquers three of the ten?
 
-No. The *horns* are the ten kings of the final kingdom, three of whom the Antichrist subdues. The *heads*, in this study's reading, are something else: the succession of empires across history that tried to destroy Israel and the messianic seed: Egypt, Assyria, Babylon, Medo-Persia, Greece, Rome, and finally the Antichrist's own kingdom.
+No. The *horns* are the ten kings of the final kingdom, three of whom the Antichrist subdues. The *heads* are something else: the succession of empires across history that tried to destroy Israel and the messianic seed: Egypt, Assyria, Babylon, Medo-Persia, Greece, Rome, and finally the Antichrist's own kingdom.
 
 ### Q: Were all of those empires ones that tried to destroy Israel, up through AD 70?
 
@@ -52,7 +52,7 @@ He knows exactly who the Son of God is, and he knows he has lost. But there is n
 
 ### Q: Do demons and fallen angels ever get the chance to change their minds, the way humans can?
 
-No. Angels made their choice, and the Watchers made theirs, and Scripture offers no redemption to them (Hebrews 2:16); in 1 Enoch, the Watchers' petition for forgiveness is refused. In this study's reading, the reason is that the angels saw God in the fullness of his glory, were exposed to all of it, and still chose to rebel. There is nothing further that could be shown to them. Humanity has never seen God's glory directly (we see "a poor reflection as in a mirror," 1 Corinthians 13:12), and that is part of why grace is extended to us and a real choice remains open throughout a human lifetime.
+No. Angels made their choice, and the Watchers made theirs, and Scripture offers no redemption to them (Hebrews 2:16); in 1 Enoch, the Watchers' petition for forgiveness is refused. The reason is that the angels saw God in the fullness of his glory, were exposed to all of it, and still chose to rebel. There is nothing further that could be shown to them. Humanity has never seen God's glory directly (we see "a poor reflection as in a mirror," 1 Corinthians 13:12), and that is part of why grace is extended to us and a real choice remains open throughout a human lifetime.
 
 ### Q: What does Jesus mean in Luke 10:18 when he says, "I saw Satan fall like lightning from heaven"?
 
@@ -72,7 +72,7 @@ So Satan still has to work through a human agent who has chosen him. The Antichr
 
 ### Q: Isn't possession itself taking away a person's choice?
 
-In this study's view, no. Possession requires some kind of opening: the person asks for something, or gives up his rights in exchange for what he wants, and the entity bargains without revealing what it is really bargaining for. It is a decision, even if it is made in ignorance of the full price. Scripture does not spell out the mechanics of possession, and some cases, like the boy possessed "from childhood" (Mark 9:21), show it is not always a simple matter of adult consent. But in the Antichrist's case, the decision is made with complete loyalty.
+No. Possession requires some kind of opening: the person asks for something, or gives up his rights in exchange for what he wants, and the entity bargains without revealing what it is really bargaining for. It is a decision, even if it is made in ignorance of the full price. Scripture does not spell out the mechanics of possession, and some cases, like the boy possessed "from childhood" (Mark 9:21), show it is not always a simple matter of adult consent. But in the Antichrist's case, the decision is made with complete loyalty.
 
 ### Q: How is "worship me or you can't eat" a real choice? That sounds like being forced.
 
@@ -100,7 +100,7 @@ A diadem is a royal crown, and it signifies kings. The dragon's seven crowns sit
 
 ### Q: People say the Antichrist will have a head wound. Is the "mortal wound" literal, or is it about something else?
 
-In this study's reading, the heads throughout this vision represent kingdoms, not individual men, and a consistent reading points to a kingdom. (Many scholars instead connect the image with the first-century legend that Nero would return from the dead.) For a kingdom to suffer a mortal wound, it has to cease to exist; for the wound to heal, it has to come back. The Islamic caliphate was abolished in 1924 and has been dead for over a century. If it is restored as a unified caliphate, it will look like a kingdom risen from the dead. That does not rule out a personal element (the Antichrist could suffer an actual wound and be healed as a display of power, and a double fulfillment is possible) but the symbol fits the kingdom reading.
+The heads throughout this vision represent kingdoms, not individual men, and a consistent reading points to a kingdom. (Many scholars instead connect the image with the first-century legend that Nero would return from the dead.) For a kingdom to suffer a mortal wound, it has to cease to exist; for the wound to heal, it has to come back. The Islamic caliphate was abolished in 1924 and has been dead for over a century. If it is restored as a unified caliphate, it will look like a kingdom risen from the dead. That does not rule out a personal element (the Antichrist could suffer an actual wound and be healed as a display of power, and a double fulfillment is possible) but the symbol fits the kingdom reading.
 
 An audience member noted that Israel itself ceased to exist as a nation and came back in 1948. The parallel is apt: the Antichrist's kingdom rising from the dead is one more way the counterfeit imitates what God has done.
 
@@ -130,7 +130,7 @@ The text says the mark is "the name of the beast or the number of its name." The
 
 ### Q: Aren't we in one of the feasts right now, in September?
 
-Yes. Rosh Hashanah falls in the early fall, in a cluster of feasts that follows the spring feasts. In this study's reading, the Lord fulfilled the first four of the seven feasts on the very days those feasts were being observed, and the remaining three, the fall feasts, are likely to be fulfilled the same way. That is why feast days like Passover and Rosh Hashanah are the more likely dates for key end-times events. The feasts will be revisited when the study reaches the end of Revelation.
+Yes. Rosh Hashanah falls in the early fall, in a cluster of feasts that follows the spring feasts. The Lord fulfilled the first four of the seven feasts on the very days those feasts were being observed, and the remaining three, the fall feasts, are likely to be fulfilled the same way. That is why feast days like Passover and Rosh Hashanah are the more likely dates for key end-times events. The feasts will be revisited when the study reaches the end of Revelation.
 
 ### Q: When exactly is the church gathered? Are you saying it happens at the six-and-a-half-year mark?
 

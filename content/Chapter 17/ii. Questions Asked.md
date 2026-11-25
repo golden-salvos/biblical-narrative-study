@@ -4,7 +4,7 @@
 
 ### Q: Why couldn't Gabriel handle the prince of Persia alone? It's just one angel against one angel, isn't it?
 
-The issue is not about raw power. It is about authority. The prince of Persia has legitimate delegated authority over Persia; that territory is his domain. In this study's reading, Gabriel's mission involved events inside that domain: specifically, ensuring that the king of Persia would continue to let the Jewish exiles return home. The prince of Persia had every reason to resist that outcome, because he governs Persia and what happens inside Persia is within his sphere of authority.
+The issue is not about raw power. It is about authority. The prince of Persia has legitimate delegated authority over Persia; that territory is his domain. Gabriel's mission involved events inside that domain: specifically, ensuring that the king of Persia would continue to let the Jewish exiles return home. The prince of Persia had every reason to resist that outcome, because he governs Persia and what happens inside Persia is within his sphere of authority.
 
 What Gabriel needed was not more strength. He needed authority that matched the domain in question. Michael, the archangel assigned to Israel, carries authority over the Jewish people. The Jews being released were his charge. When Michael entered the contest, the authority of the prince of Israel stood against the authority of the prince of Persia, and Gabriel's mission could proceed. God's will was accomplished not by overpowering the principality but by bringing the correct authority to bear against it.
 
@@ -40,7 +40,7 @@ Paul's statement in 1 Thessalonians 5:9, that God did not appoint us to suffer w
 
 ### Q: Does the distinction between tribulation and wrath affect the timing of when the Lord returns?
 
-It clarifies the order without fixing the exact timing. We know the great tribulation runs for three and a half years from the abomination of desolation. In this study's reading, the rapture, the gathering of the elect, occurs at the Lord's visible return. We know the Lord returns before the end of the seven-year period. What we do not know is exactly when within the great tribulation he returns. Jesus says no one knows the day or hour.
+It clarifies the order without fixing the exact timing. We know the great tribulation runs for three and a half years from the abomination of desolation. The rapture, the gathering of the elect, occurs at the Lord's visible return. We know the Lord returns before the end of the seven-year period. What we do not know is exactly when within the great tribulation he returns. Jesus says no one knows the day or hour.
 
 What the tribulation-versus-wrath distinction tells us is this: the church is not removed before the great tribulation starts. The gathering occurs at Christ's return, which follows the abomination of desolation and the cosmic signs. But between the abomination of desolation and the return, the Lord's arrival removes his people before his full wrath is poured out on the unrepentant. The two events, the gathering of the elect and the pouring out of divine wrath, are distinct but occur within the same return of Christ.
 
@@ -58,7 +58,7 @@ Daniel is told the words are sealed. The full meaning of these dates will likely
 
 ### Q: Will the church be present during the tribulation, or is this just about the Jews?
 
-Both. The distinction the text maintains is that the specific promise of a divinely prepared place of refuge, the escape route to the east described in Daniel 11:41 and Revelation 12:14, is directed at Israel, specifically the Jews in Judea who are present when the abomination of desolation occurs. The 144,000 sealed servants in Revelation are, in this study's reading, Jewish. The place of refuge in the desert is prepared for the woman, which is Israel.
+Both. The distinction the text maintains is that the specific promise of a divinely prepared place of refuge, the escape route to the east described in Daniel 11:41 and Revelation 12:14, is directed at Israel, specifically the Jews in Judea who are present when the abomination of desolation occurs. The 144,000 sealed servants in Revelation are Jewish. The place of refuge in the desert is prepared for the woman, which is Israel.
 
 But Revelation 12:17 is explicit that Satan's war extends beyond Israel: he goes after "the rest of her offspring—those who keep God's commands and hold fast their testimony about Jesus." That is the church. The great tribulation targets both. The specific protective provisions operate differently for each.
 

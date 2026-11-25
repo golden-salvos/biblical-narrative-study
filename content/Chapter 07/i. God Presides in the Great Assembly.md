@@ -80,7 +80,7 @@ When the God who is real called him, Abraham went without hesitation. That respo
 
 This is the same dynamic that drives people toward God in every era. Most are not converted from deep, satisfied commitment to something else. They are people who have tried what the world offers and found it insufficient: people who are looking for something real, and who recognize it when they encounter it. The church, when it is functioning as it should, is meant to be the place where people looking for that reality encounter it, not through argument, but through the love of a community that reflects God's own character.
 
-*(The covenants God makes with Abraham, spanning Genesis 12 through 22, will be the subject of the next session.)*
+*(The covenants God makes with Abraham, spanning Genesis 12 through 22, are the subject of [[i. The Abrahamic Covenant|Chapter 08]].)*
 
 ---
 

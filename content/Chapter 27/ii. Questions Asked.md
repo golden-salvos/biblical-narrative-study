@@ -4,7 +4,7 @@
 
 ### Q: The 144,000 are protected from the wrath, but could any of them die of something ordinary, like a heart attack, during that period?
 
-In this study's reading, no. The Lord is sustaining them. The seal is providential protection, not only a shield against the locusts and the cavalry of the fifth and sixth trumpets. The proof is in Revelation 14:1: when John sees them standing with the Lamb on Mount Zion, the number is still 144,000. Not one has died and not one is missing.
+No. The Lord is sustaining them. The seal is providential protection, not only a shield against the locusts and the cavalry of the fifth and sixth trumpets. The proof is in Revelation 14:1: when John sees them standing with the Lamb on Mount Zion, the number is still 144,000. Not one has died and not one is missing.
 
 ### Q: Was the celibacy of the 144,000 something the Law required of Jews?
 
@@ -12,15 +12,15 @@ No. Nothing in Scripture requires celibacy of Israel. Marriage was the norm and 
 
 ### Q: The third angel's message sounds final. If you willingly take the mark, is there no coming back?
 
-That is correct. Anyone who worships the beast and receives the mark drinks the wine of God's wrath, and Revelation 14:11 says the smoke of their torment rises forever. The bowl judgments confirm it from the other side: those who bear the mark curse God under the plagues and do not repent (Revelation 16:9, 11, 21). In this study's reading, the choice is final because it is made with full knowledge: the church, the angels, and the Two Witnesses are all proclaiming exactly what the mark means before anyone can take it.
+That is correct. Anyone who worships the beast and receives the mark drinks the wine of God's wrath, and Revelation 14:11 says the smoke of their torment rises forever. The bowl judgments confirm it from the other side: those who bear the mark curse God under the plagues and do not repent (Revelation 16:9, 11, 21). The choice is final because it is made with full knowledge: the church, the angels, and the Two Witnesses are all proclaiming exactly what the mark means before anyone can take it.
 
 ### Q: If everyone worships the beast except those whose names are in the book of life, does that include people who aren't Christians yet?
 
-In this study's reading, yes. The book of life is written from God's vantage point, "from the foundation of the world." It includes everyone who will come to faith at any point in their lives, not only those who are believers at the moment the Antichrist rises. The 144,000 are the example: they were not believers in Jesus when they were sealed. God knows who will choose him, and some people will refuse the mark before they have fully come to faith. That is also why Christians have no business writing off someone who is not a believer today.
+Yes. The book of life is written from God's vantage point, "from the foundation of the world." It includes everyone who will come to faith at any point in their lives, not only those who are believers at the moment the Antichrist rises. The 144,000 are the example: they were not believers in Jesus when they were sealed. God knows who will choose him, and some people will refuse the mark before they have fully come to faith. That is also why Christians have no business writing off someone who is not a believer today.
 
 ### Q: Who are the Two Witnesses: Elijah and Moses, or Elijah and Enoch?
 
-In this study's reading, one is Elijah, because his coming before the day of the Lord is prophesied (Malachi 4:5), though Jesus applied that prophecy in part to John the Baptist (Matthew 11:14; 17:11–13). The other is most likely Enoch. Enoch and Elijah are the only two people in Scripture who left the earth without dying, which makes them the two who can still die in Jerusalem at the end of their ministry. Moses is the leading alternative, on the strength of the water-into-blood and plague miracles, but Scripture records that Moses died and was buried (Deuteronomy 34:5–6).
+One is Elijah, because his coming before the day of the Lord is prophesied (Malachi 4:5), though Jesus applied that prophecy in part to John the Baptist (Matthew 11:14; 17:11–13). The other is most likely Enoch. Enoch and Elijah are the only two people in Scripture who left the earth without dying, which makes them the two who can still die in Jerusalem at the end of their ministry. Moses is the leading alternative, on the strength of the water-into-blood and plague miracles, but Scripture records that Moses died and was buried (Deuteronomy 34:5–6).
 
 ### Q: How high would the blood be if it reached a horse's bridle?
 
@@ -32,7 +32,7 @@ No. Revelation 15 places the church in heaven, standing beside the sea of glass 
 
 ### Q: Is the "great city" that splits into three parts at the seventh bowl Babylon?
 
-In this study's reading, yes. The great city in Revelation 16:19 is Babylon the Great, the center of the Antichrist's kingdom. (Some interpreters take it as Jerusalem, called "the great city" in 11:8.) Its fall at the seventh bowl is the fulfillment of what the second angel announced in Revelation 14:8. Chapters 17 and 18 describe Babylon at length, and they are the subject of the next session.
+Yes. The great city in Revelation 16:19 is Babylon the Great, the center of the Antichrist's kingdom. (Some interpreters take it as Jerusalem, called "the great city" in 11:8.) Its fall at the seventh bowl is the fulfillment of what the second angel announced in Revelation 14:8. Chapters 17 and 18 describe Babylon at length, and they are the subject of [[i. The Great City|Chapter 28]].
 
 ### Q: Revelation has called God the one "who is and who was and who is to come." Why does Revelation 16:5 drop "who is to come"?
 

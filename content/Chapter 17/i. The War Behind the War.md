@@ -62,7 +62,7 @@ After seventeen verses on one hundred and fifty years, the next fifteen verses (
 
 ---
 
-## 4. Antiochus IV Epiphanes: The Historical Antitype
+## 4. Antiochus IV Epiphanes: The Historical Prototype
 
 Verse 21 introduces him:
 

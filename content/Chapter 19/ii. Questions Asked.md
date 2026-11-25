@@ -32,9 +32,9 @@ That move requires severing two things Paul just finished binding together, and 
 
 ### Q: Some people say the "restrainer" that gets removed in 2 Thessalonians 2 is the Holy Spirit. Why would God remove the Holy Spirit from the earth?
 
-In this study's reading, he wouldn't, and the text doesn't require it. The pre-tribulation reading identifies the restrainer as the Holy Spirit working through the church because its framework needs the church, and the Spirit's restraining work through it, removed before the "Jewish age" can resume. The study reads the passage's context as being about Satan operating in secret and eventually being taken out of the way, a removal it connects with Michael's rising in Daniel 12 and his expulsion of Satan and his angels from heaven, not with any withdrawal of the Spirit.
+He wouldn't, and the text doesn't require it. The pre-tribulation reading identifies the restrainer as the Holy Spirit working through the church because its framework needs the church, and the Spirit's restraining work through it, removed before the "Jewish age" can resume. The study reads the passage's context as being about Satan operating in secret and eventually being taken out of the way, a removal it connects with Michael's rising in Daniel 12 and his expulsion of Satan and his angels from heaven, not with any withdrawal of the Spirit.
 
-Removing the Holy Spirit to let a separate program for Israel play out contradicts the character of the God who is actively working, throughout Scripture, to bring Israel to repentance. Abandoning them to face this period without the Spirit's presence, while claiming to be pursuing their good, does not hold together. The reading that, in this study's view, better fits both the text and God's consistent character is that Satan's position, not the Spirit, is what gets taken out of the way.
+Removing the Holy Spirit to let a separate program for Israel play out contradicts the character of the God who is actively working, throughout Scripture, to bring Israel to repentance. Abandoning them to face this period without the Spirit's presence, while claiming to be pursuing their good, does not hold together. The reading that better fits both the text and God's consistent character is that Satan's position, not the Spirit, is what gets taken out of the way.
 
 ---
 

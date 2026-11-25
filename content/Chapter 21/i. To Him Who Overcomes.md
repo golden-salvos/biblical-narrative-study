@@ -116,7 +116,7 @@ And every letter ends the same way. Whatever is said to the corporate church, th
 
 Revelation identifies the seven stars in Christ's right hand as the [[Glossary#Angels of the Churches|angels]] assigned to each of the [[Glossary#Seven Churches of Asia|seven churches]], but the text gives no further detail about them: no names, no explanation for why these seven specifically were chosen. The most that can be said with confidence is that none of these angels are shown to be tied to a specific nation or people group, unlike [[Glossary#Michael|Michael]], who is repeatedly identified in Daniel as the chief prince assigned specifically to Israel. Beyond that, any further conclusion about the seven angels would be speculation the text does not support.
 
-*(The vision of the throne room in Revelation 4, and the sealed scroll that only the Lamb is worthy to open in Revelation 5, will be the subject of the next session.)*
+*(The vision of the throne room in Revelation 4, and the sealed scroll that only the Lamb is worthy to open in Revelation 5, are the subject of [[i. Worthy Is the Lamb|Chapter 22]].)*
 
 ---
 

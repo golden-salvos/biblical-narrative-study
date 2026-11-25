@@ -31,7 +31,7 @@ Practically, this means no single passage contains the whole thing. Each one sup
 
 > **Key Principle:** No single prophetic passage contains the entire picture. The prophets describe the same events through different visions and different imagery, and the picture only becomes clear when they are stitched together.
 
-*(A side-by-side mapping of Matthew 24, Daniel, and Revelation 6 across a single timeline will be the subject of the next session.)*
+*(The full seven-year timeline across Daniel, Jesus, and Paul is laid out in [[i. No Wiggle Room|Chapter 19]]; the sections below place the seals on it.)*
 
 ---
 
@@ -121,11 +121,11 @@ Daniel 7 shows ten kings arising first, the ten horns on the fourth beast (Danie
 
 That is the two-step answer to how the Antichrist becomes king at all, and it has to happen before he can stand in the sanctuary and declare himself God. He has to hold the throne before he can claim divinity from it.
 
-Which three does he conquer first? In this study's reading, Daniel 11:40–43 supplies the answer. The [[Glossary#King of the North / King of the South|king of the South]], Egypt, comes against him, and the king of the North sweeps through, seizes Egypt's treasures, and brings Libya and Cush into submission. On this reading, Egypt, Libya, and Cush (ancient Nubia, roughly modern Sudan) are the three of the ten that fall by force.
+Which three does he conquer first? Daniel 11:40–43 supplies the answer. The [[Glossary#King of the North / King of the South|king of the South]], Egypt, comes against him, and the king of the North sweeps through, seizes Egypt's treasures, and brings Libya and Cush into submission. On this reading, Egypt, Libya, and Cush (ancient Nubia, roughly modern Sudan) are the three of the ten that fall by force.
 
 Once the ten have handed over their power, they drop out of the narrative almost entirely. Their main prophetic function was to transfer authority. After that, Scripture identifies no other ruler in this period who rivals him. There is a false prophet, but he works directly for the Antichrist: an agent, not a rival.
 
-*(The false prophet will be taken up in a later session.)*
+*(The false prophet is taken up in [[i. War in Heaven|Chapter 26]].)*
 
 So when the second, third, and fourth horsemen ride out, they are not new claimants. They are what the first one brings with him.
 
@@ -239,7 +239,7 @@ This is what a [[Glossary#Biblical Worldview|biblical worldview]] is. Not an Ame
 
 This is the most familiar language in the chapter, and it is familiar because it is everywhere. Isaiah (13:9–10), Joel (2:30–31), Ezekiel (32:7–8), and Zechariah (14:6–7) all describe it. Jesus describes it in Matthew 24. In the prophets, this celestial event is tied to the [[Glossary#Day of the Lord|Day of the Lord]]; Joel says the sun and moon are darkened "before the coming of the great and dreadful day of the LORD" (Joel 2:31).
 
-And in Matthew 24, what follows is not ambiguous. *Immediately after the distress of those days* the heavens are darkened, and then the sign of the Son of Man appears in the sky (in this study's reading, the [[Glossary#Shekinah Glory|Shekinah glory]], the cloud of God's presence), and he sends out his angels to gather his elect (Matthew 24:29–31). Paul fills in what that gathering involves: the dead in Christ rise first, and those still alive are caught up after them (1 Thessalonians 4:16–17). In this study's reading, that is the [[Glossary#Rapture|rapture]], and it lands directly on the far side of the sixth seal.
+And in Matthew 24, what follows is not ambiguous. *Immediately after the distress of those days* the heavens are darkened, and then the sign of the Son of Man appears in the sky (in this study's reading, the [[Glossary#Shekinah Glory|Shekinah glory]], the cloud of God's presence), and he sends out his angels to gather his elect (Matthew 24:29–31). Paul fills in what that gathering involves: the dead in Christ rise first, and those still alive are caught up after them (1 Thessalonians 4:16–17). That is the [[Glossary#Rapture|rapture]], and it lands directly on the far side of the sixth seal.
 
 Why does the Lord darken the heavens right before he appears? To make certain that no one misses it. Jesus compares his coming to lightning visible from east to west (Matthew 24:27); you do not have to be told it happened. The theatrical logic is exact: before the first scene, the house lights go down, and then the spotlight comes on. Every eye in the room is already pointed at the one place where light is about to appear.
 
@@ -279,9 +279,9 @@ The urgency is the point. The great tribulation has been running for some time a
 
 Who are they? This is one of the most debated questions in the book. Many interpreters, noting how Revelation transforms imagery throughout (John *hears* the number of Israel and then *sees* an uncountable multitude), take the 144,000 as a symbol of the whole people of God, the church as the true Israel. Others take them as Jewish believers. This study takes them literally, as ethnic Israel: Jews, not the church, and not yet Christians at the moment of sealing.
 
-In this study's reading, that identification follows from where they are. If these were Messianic Jews (Jews who had already received Christ), then when the Lord returned to gather his church, they would have been gathered with it. They are still on the earth. Therefore they had not yet believed at the time of the gathering.
+That identification follows from where they are. If these were Messianic Jews (Jews who had already received Christ), then when the Lord returned to gather his church, they would have been gathered with it. They are still on the earth. Therefore they had not yet believed at the time of the gathering.
 
-Revelation 14 fills in the rest of the portrait. There they stand with the Lamb on Mount Zion with his name and his Father's name written on their foreheads. They sing a new song before the throne that no one else can learn. They are described as those who did not defile themselves with women, who kept themselves pure, who follow the Lamb wherever he goes, who were purchased from among men and offered as [[Glossary#First Fruits|first fruits]] to God and to the Lamb, in whose mouths no lie was found, and who are blameless. Taken literally, they are all men. And, in this study's reading, the fact that they appear in Revelation 14 standing with the Lamb on Mount Zion shows the sealing worked: every one of them survives the wrath of God. (Some interpreters take this Mount Zion to be the heavenly Zion of Hebrews 12:22.)
+Revelation 14 fills in the rest of the portrait. There they stand with the Lamb on Mount Zion with his name and his Father's name written on their foreheads. They sing a new song before the throne that no one else can learn. They are described as those who did not defile themselves with women, who kept themselves pure, who follow the Lamb wherever he goes, who were purchased from among men and offered as [[Glossary#First Fruits|first fruits]] to God and to the Lamb, in whose mouths no lie was found, and who are blameless. Taken literally, they are all men. And the fact that they appear in Revelation 14 standing with the Lamb on Mount Zion shows the sealing worked: every one of them survives the wrath of God. (Some interpreters take this Mount Zion to be the heavenly Zion of Hebrews 12:22.)
 
 *(The full treatment of Revelation 14 and the identity of the [[Glossary#144,000|144,000]] comes later in the study.)*
 
@@ -289,7 +289,7 @@ The sealing has clear precedent. In Ezekiel 9, before God sends out the executio
 
 The deeper precedent is Egypt. When the plagues came down on Egypt, Israel was in Goshen, and from the fourth plague onward God made a distinction between his people and the Egyptians (Exodus 8:22–23). Through the darkness, the hail, and the death of the firstborn, Israel watched the power of God humble the greatest empire on earth without suffering the consequences themselves. That is exactly what the 144,000 will do. They will witness the wrath of God poured out on mankind, they will live through it, and they will carry that testimony to their brothers in Jerusalem.
 
-Which, in this study's reading, is the reason for the whole arrangement. They are the [[Glossary#Millennial Kingdom|millennial kingdom]]'s first fruits: the beginning of the harvest of Israel, preserved through the judgment so that there is a nucleus in the land when the King takes his throne in Jerusalem.
+Which is the reason for the whole arrangement. They are the [[Glossary#Millennial Kingdom|millennial kingdom]]'s first fruits: the beginning of the harvest of Israel, preserved through the judgment so that there is a nucleus in the land when the King takes his throne in Jerusalem.
 
 ---
 
@@ -307,7 +307,7 @@ They are standing before the throne and before the Lamb, which places them in he
 
 Then John records the exchange that identifies them. One of the elders asks him: *"These in white robes—who are they, and where did they come from?"* John defers, and the elder answers his own question: *"These are they who have come out of the great tribulation; they have washed their robes and made them white in the blood of the Lamb."*
 
-The multitude standing in heaven before the seventh seal is broken is identified by heaven itself as having come out of the great tribulation. In this study's reading, they were in it when the Lord came for them. (Others read the multitude as the martyrs of the tribulation, or as the whole redeemed church of every age seen in its final glory.)
+The multitude standing in heaven before the seventh seal is broken is identified by heaven itself as having come out of the great tribulation. They were in it when the Lord came for them. (Others read the multitude as the martyrs of the tribulation, or as the whole redeemed church of every age seen in its final glory.)
 
 The promises that follow are the closing of a very long loop. They are before the throne of God and serve him day and night in his temple. He who sits on the throne will spread his tent over them. Never again will they hunger; never again will they thirst. The sun will not beat down on them, nor any scorching heat. The Lamb at the center of the throne will be their shepherd; he will lead them to springs of living water; and God will wipe away every tear from their eyes.
 
@@ -331,7 +331,7 @@ This is also where Matthew 24:22 lands. Jesus said that if those days had not be
 
 This placement is close to what is often called the "pre-wrath" position. One argument, in this study's reading, explains why the return cannot be placed as late as the seventh trumpet, as mid-tribulation and some post-tribulation readings propose by identifying it with Paul's "last trumpet" (1 Corinthians 15:52). The fifth trumpet has an explicit duration: the locust-like demonic swarm released from the Abyss is given five months to torment mankind. That is not an inference; the text states it twice (Revelation 9:5, 10). If the Lord's return were at the seventh trumpet, the darkness of the sixth seal would have to persist through those five months and everything else before them, and no one would be left alive to be gathered. On this reasoning, the sixth seal and the gathering have to be adjacent.
 
-What happens after the gathering, in this study's reading, is that the church goes to heaven first. The great multitude is standing before the throne, not on the earth. The wedding feast of the Lamb occurs there (Revelation 19:7–9). The Lord brings the church back with him when he returns for Armageddon (19:14), stands on the Mount of Olives (Zechariah 14:4), and marches on Zion.
+What happens after the gathering is that the church goes to heaven first. The great multitude is standing before the throne, not on the earth. The wedding feast of the Lamb occurs there (Revelation 19:7–9). The Lord brings the church back with him when he returns for Armageddon (19:14), stands on the Mount of Olives (Zechariah 14:4), and marches on Zion.
 
 > **Key Principle:** The Lord does not come as a thief in the night to those who know the sequence. We do not know the day. We know the season, we know the event that immediately precedes his coming, and we know the events that precede that one.
 

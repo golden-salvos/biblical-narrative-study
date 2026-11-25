@@ -57,7 +57,7 @@ The word Nephilim is typically translated "giants," and physical stature is part
 
 The passage also notes that the Nephilim were on the earth "in those days, and also afterward." That single phrase creates a problem the text does not immediately resolve: if the flood wiped out all life on earth except what was in the ark, how do giants appear again after it?
 
-*(The presence of giants in Canaan, including figures such as Goliath and the clans encountered in the accounts of Israel's entry into the land, and the explanation the Book of Jubilees offers for why they are concentrated there, will be explored in a later session.)*
+*(The presence of giants in Canaan, including figures such as Goliath and the clans encountered in the accounts of Israel's entry into the land, and the explanation the Book of Jubilees offers for why they are concentrated there, is explored in [[i. The Divine Council and the Seventy Nations|Chapter 06]].)*
 
 ---
 
@@ -159,7 +159,7 @@ Enoch, the seventh from Adam in the Genesis 5 genealogy, the one who "walked wit
 
 The New Testament provides two anchors for treating 1 Enoch with seriousness rather than dismissal.
 
-The first is 2 Peter 2:4: "For if God did not spare angels when they sinned, but sent them to hell, putting them into gloomy dungeons to be held for judgment..." Peter's argument assumes the reader knows which angels he means and what they did. Genesis 6 does not mention imprisonment. The details Peter takes for granted match the account in 1 Enoch, which his audience would have known. Peter even uses the rare verb *tartaroō*, "cast into Tartarus," the same place-name 1 Enoch's Greek text uses for the Watchers' prison (1 Enoch 20:2).
+The first is 2 Peter 2:4: "For if God did not spare angels when they sinned, but sent them to hell, putting them into gloomy dungeons to be held for judgment..." Peter's argument assumes the reader knows which angels he means and what they did. Genesis 6 does not mention imprisonment. The details Peter takes for granted match the account in 1 Enoch, which his audience would have known. Peter even uses the rare verb *tartaroō*, "cast into Tartarus." The Greek text of 1 Enoch names Tartarus as the realm under the archangel Uriel (1 Enoch 20:2), the same angel who oversees the Watchers' place of punishment in the chapters that follow.
 
 The second is Jude 6 and 14–15. Jude describes the imprisoned angels in language that closely matches 1 Enoch, then states explicitly: "Enoch, the seventh from Adam, prophesied about these men," and proceeds to quote 1 Enoch 1:9. Jude does not present this as a quote from an uncertain source. He attributes it to the pre-flood patriarch and treats it as true prophecy. Multiple copies of 1 Enoch were also recovered among the [[Glossary#Dead Sea Scrolls|Dead Sea Scrolls]] at Qumran, confirming the text was widely circulated in the [[Glossary#Second Temple Period|Second Temple Period]].
 
@@ -167,7 +167,7 @@ The second is Jude 6 and 14–15. Jude describes the imprisoned angels in langua
 
 One more detail about 1 Enoch matters before the study begins reading it. The opening of the book is addressed not to Enoch's own generation, the pre-flood world, but specifically to a distant generation still to come: those who will see the return of the Lord (1 Enoch 1:1–2). The book presents itself as written not for Enoch's contemporaries but for the generation that would witness the end of the age. That makes 1 Enoch unusual among extra-biblical literature and gives it particular relevance to a study of Revelation.
 
-*(The full account of the Watchers from 1 Enoch, their oath, their descent, what they taught humanity, and the consequences, will be the subject of the next session.)*
+*(The full account of the Watchers from 1 Enoch, their oath, their descent, what they taught humanity, and the consequences, is the subject of [[i. 1 Enoch — A Quick Glance|Chapter 05]].)*
 
 ---
 

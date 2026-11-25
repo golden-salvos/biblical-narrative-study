@@ -220,7 +220,7 @@ What was God doing in all those years between the dream and the throne? Building
 
 Joseph is also a [[Glossary#Typology|type]]: a figure whose life mirrors and previews a later and greater reality. He is favored by his father, betrayed by his brothers, handed over to foreigners, treated as a slave, imprisoned though innocent, and ultimately elevated to the position from which he saves the lives of the very people who rejected him. The pattern maps directly onto Jesus, which is why the final story of Genesis is Joseph's. The book ends on this portrait of the beloved son rejected and exalted, not as a coincidence, but as a deliberate frame for what the entire story of Israel is building toward.
 
-*(The formation of Israel as a nation through the Exodus, and the Mosaic Covenant established at Sinai, will be the subject of the next session.)*
+*(The formation of Israel as a nation through the Exodus, and the Mosaic Covenant established at Sinai, are the subject of [[i. Then You Will Know|Chapter 09]].)*
 
 ---
 

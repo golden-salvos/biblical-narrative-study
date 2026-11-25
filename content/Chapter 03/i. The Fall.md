@@ -37,7 +37,7 @@ The Hebrew word behind "serpent" is *nachash*. The same consonants appear in wor
 
 The creature itself is not the point. What matters is who is working through it.
 
-*(The full identity, origins, and cosmic history of Satan, including the Isaiah 14 and Ezekiel 28 descriptions of his assignment and rebellion, will be explored in a later session.)*
+*(The full identity, origins, and cosmic history of Satan, including the Isaiah 14 and Ezekiel 28 descriptions of his assignment and rebellion, is explored in [[i. The Divine Council and the Seventy Nations|Chapter 06]].)*
 
 ---
 
@@ -215,7 +215,7 @@ The standard entry in Genesis 5 records a lifespan and a death. Enoch's entry br
 
 [[Glossary#Enoch|Enoch]] will become a central figure as the study continues. His story is not fully told in the few verses Genesis gives him. It spills into [[Glossary#Extra-Biblical Literature|extra-biblical literature]] that the early Jewish and Christian communities treated with great seriousness, and it addresses events in Genesis 6 that the biblical text mentions without fully explaining.
 
-*(The Book of Enoch, the strange events that preceded the flood, and what Genesis 6 is actually describing will be the subject of the next session.)*
+*(The Book of Enoch, the strange events that preceded the flood, and what Genesis 6 is actually describing is the subject of [[i. The Watchers and the Flood|Chapter 04]].)*
 
 ---
 

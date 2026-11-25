@@ -80,7 +80,7 @@ During this same period, the gospel goes out to the whole world. *"This gospel o
 
 In the midst of this general persecution, one event stands entirely apart. *"When you see standing in the holy place 'the abomination that causes desolation,' spoken of through the prophet Daniel—let the reader understand—then let those who are in Judea flee to the mountains"* (Matthew 24:15–16).
 
-Jesus' explicit reference to Daniel, together with the aside "let the reader understand," makes unmistakable that the [[Glossary#Abomination of Desolation|Abomination of Desolation]] cannot be grasped apart from Daniel's prophecy. *(The full content of Daniel's prophecy, including the seven-year period, the Antichrist's covenant with many, and the specific sequence of events leading to this moment, will be addressed in the next session.)*
+Jesus' explicit reference to Daniel, together with the aside "let the reader understand," makes unmistakable that the [[Glossary#Abomination of Desolation|Abomination of Desolation]] cannot be grasped apart from Daniel's prophecy. *(The full content of Daniel's prophecy, including the seven-year period, the Antichrist's covenant with many, and the specific sequence of events leading to this moment, is addressed in [[i. Not by Human Hands|Chapter 15]] through [[i. No Wiggle Room|Chapter 19]].)*
 
 What is clear from Matthew 24 alone is that this is a singular, identifiable event. The [[Glossary#Antichrist|Antichrist]] will stand in the temple at Jerusalem, declare himself God, and end the sacrificial system. Nothing like this has been possible since the destruction of the temple in AD 70: there has been no temple, no active altar, no sacrificial system for the Antichrist to interrupt. The prerequisite conditions have not existed for nearly two thousand years. Since 1948, Israel has been back in the land. Since 1967, Jerusalem has been under Israeli control. The remaining steps are being prepared. *(The specific prerequisites for the end-times sequence will be examined when the study reaches Daniel.)*
 
@@ -196,7 +196,7 @@ The antidote is not a different institution. It is the text. When believers know
 - Matthew 24:36 — No one knows the day or hour; the Feast of Trumpets connection
 - 1 Thessalonians 4:13–18 — The dead in Christ rise first; the gathering of the living
 - 2 Thessalonians 2:1–12 — The man of lawlessness revealed; the restrainer removed
-- Daniel 9 — The seven-year period underlying the Olivet Discourse *(to be addressed in the next session)*
+- Daniel 9 — The seven-year period underlying the Olivet Discourse *(see [[i. Seventy Sevens|Chapter 16]])*
 
 ---
 

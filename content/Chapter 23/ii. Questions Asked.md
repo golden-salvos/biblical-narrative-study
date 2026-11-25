@@ -8,7 +8,7 @@ The distinction is real, but it marks two different phases of the same campaign 
 
 The bow is the weapon of the one who rides out to conquer. It signals reach and authorization: he has been given the means to subdue whoever stands in his way. The sword belongs to the phase after the conquest begins: peace taken from the earth, men killing each other, warfare at scale. A conqueror going out is not doing the same thing as a world at war, even though the second is the direct result of the first.
 
-The larger question the objection raises is whether anyone else in this period is bringing war on a scale that would require a separate rider. In this study's reading, prophetically there is no one. The Antichrist is the chief architect of every war in this period. There will be opposition to him, but he is the one winning, and he consolidates power continuously until the seventieth week runs out.
+The larger question the objection raises is whether anyone else in this period is bringing war on a scale that would require a separate rider. Prophetically there is no one. The Antichrist is the chief architect of every war in this period. There will be opposition to him, but he is the one winning, and he consolidates power continuously until the seventieth week runs out.
 
 ---
 
@@ -38,7 +38,7 @@ The rider is nameless in every scene. The only things that change from seal to s
 
 ### Q: Where does it actually say that all four riders are the Antichrist? Couldn't there just be four different evil kings doing four different things, the other "toe kings," for instance?
 
-The text does not say it outright, which is a fair objection. In this study's reading, it has to be established from Daniel.
+The text does not say it outright, which is a fair objection. It has to be established from Daniel.
 
 Ask what prophetic warrant exists for multiple significant rulers during this period. Daniel's visions center on one, and show how he gets there. Daniel 7 shows ten kings arising first, the ten horns on the fourth beast, and many readers see the same ten in the toes of iron and clay on the statue of chapter 2. Out of that group, the little horn rises and subdues three of the ten. Revelation 17:12–13 adds that the ten kings give their power and authority to the beast, and so he becomes king over all ten kingdoms.
 
@@ -84,7 +84,7 @@ Not everyone. Even though these events sound cataclysmic from where we stand, Go
 
 
 
-In this study's reading, they are not yet believers at the point they are sealed; they come to faith when the Lamb returns and they see him.
+They are not yet believers at the point they are sealed; they come to faith when the Lamb returns and they see him.
 
 The distinction being made here is between knowing and believing, and it runs throughout Scripture. When Jesus met the demon-possessed men in the region of the Gadarenes, the demons addressed him as Son of God and asked whether he had come to torture them before the appointed time (Matthew 8:29). They knew exactly who he was. "Even the demons believe that, and shudder" (James 2:19). That did not make him their Lord. Pharaoh understood perfectly well that he was under the hand of the God of Israel. He did not believe in him. You can acknowledge that someone exists, and even that he is who he says he is, without having submitted to him.
 
@@ -120,7 +120,7 @@ No. Jehovah's Witnesses teach that the 144,000 are a limited class of faithful C
 
 The covenant is the *reason* it happens. It is not the only purpose.
 
-In this study's reading, many of the covenant promises God made to Abraham, to Moses, to David, and through the prophets have not yet been fulfilled in history. They will be fulfilled in the millennial kingdom: Israel's king on the throne, the nation at peace in the land, the full geographical inheritance actually possessed.
+Many of the covenant promises God made to Abraham, to Moses, to David, and through the prophets have not yet been fulfilled in history. They will be fulfilled in the millennial kingdom: Israel's king on the throne, the nation at peace in the land, the full geographical inheritance actually possessed.
 
 But the purpose that sits alongside that is decisional. The millennial kingdom is where Israel and the rest of the nations come to terms with Jesus as King of kings and Lord of lords and make their final decision. Those who enter it have a choice to make, exactly as we do now, with one significant difference in their favor. They will watch a righteous king ruling the earth from Jerusalem and executing perfect judgment. That is not a condition any of us have had.
 
@@ -128,7 +128,7 @@ But the purpose that sits alongside that is decisional. The millennial kingdom i
 
 ### Q: What happens to the rest of the Jews who aren't among the 144,000?
 
-In this study's reading, if they survive, they enter the millennial kingdom. Survival, not prior belief, is the condition for entering it as a mortal; the church, resurrected, does not enter it the same way. Those who believe at the time of the Lord's return are resurrected and will reign with him. The millennial kingdom exists for those still living on the earth.
+If they survive, they enter the millennial kingdom. Survival, not prior belief, is the condition for entering it as a mortal; the church, resurrected, does not enter it the same way. Those who believe at the time of the Lord's return are resurrected and will reign with him. The millennial kingdom exists for those still living on the earth.
 
 ---
 

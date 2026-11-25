@@ -40,9 +40,9 @@ Those who truly belong to Christ are held in his hands (John 10:28–29). Romans
 
 ### Q: Does "neither Jew nor Greek" in Galatians 3:28 mean God is finished with Israel as a distinct people?
 
-No, and Paul addresses this directly in Romans 9–11, which will be the subject of the next session. Galatians 3:28 is not making a statement about the covenants God made with Israel or his ongoing purposes for the Jewish people. It is making a statement about standing before God within the body of Christ: in that relationship, no hierarchy of ethnicity, social status, or background exists. All believers stand on exactly the same footing: sons and daughters, heirs according to the promise.
+No, and Paul addresses this directly in Romans 9–11, the subject of [[i. Can These Bones Live|Chapter 13]]. Galatians 3:28 is not making a statement about the covenants God made with Israel or his ongoing purposes for the Jewish people. It is making a statement about standing before God within the body of Christ: in that relationship, no hierarchy of ethnicity, social status, or background exists. All believers stand on exactly the same footing: sons and daughters, heirs according to the promise.
 
-That is a statement about unity in Christ, not a cancellation of anything God promised Israel. Collapsing those two things produces [[Glossary#Replacement Theology|Replacement Theology]], a position Paul's own argument in Romans 11 directly contradicts. He will address it at length in the next session.
+That is a statement about unity in Christ, not a cancellation of anything God promised Israel. Collapsing those two things produces [[Glossary#Replacement Theology|Replacement Theology]], a position Paul's own argument in Romans 11 directly contradicts. [[i. Can These Bones Live|Chapter 13]] takes it up at length.
 
 ---
 

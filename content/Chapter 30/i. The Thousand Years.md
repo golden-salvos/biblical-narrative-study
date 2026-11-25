@@ -87,7 +87,7 @@ Then the Lord interprets it:
 
 *"Son of man, these bones are the whole house of Israel. Behold, they say, 'Our bones are dried up, and our hope is lost; we are indeed cut off.' Therefore prophesy, and say to them, Thus says the Lord God: Behold, I will open your graves and raise you from your graves, O my people. And I will bring you into the land of Israel. And you shall know that I am the Lord, when I open your graves, and raise you from your graves, O my people. And I will put my Spirit within you, and you shall live, and I will place you in your own land."* (Ezekiel 37:11–14)
 
-Not part of the house of Israel, but the *whole* house of Israel. The Lord says he will open their graves, raise them, and bring them into the land. Many interpreters read this as a picture of national restoration: the exiles say "our bones are dried up, and our hope is lost," and the graves are the graves of exile from which God brings the nation back to life. The study reads it more literally. The Lord explains the vision himself, and his explanation is a gathering, a raising from the graves, and a return to the land. In this study's reading, it describes an actual raising of the dead of Israel, though, as the previous session noted, this is not a point to stand on with full certainty.
+Not part of the house of Israel, but the *whole* house of Israel. The Lord says he will open their graves, raise them, and bring them into the land. Many interpreters read this as a picture of national restoration: the exiles say "our bones are dried up, and our hope is lost," and the graves are the graves of exile from which God brings the nation back to life. The study reads it more literally. The Lord explains the vision himself, and his explanation is a gathering, a raising from the graves, and a return to the land. In this study's reading, it describes an actual raising of the dead of Israel, though, as [[i. Faithful and True|Chapter 29]] noted, this is not a point to stand on with full certainty.
 
 What kind of raising is it? Not the kind the church receives. At the Lord's return the church is resurrected into its [[Glossary#Resurrection Body|resurrection bodies]], perfected and no longer subject to death. On this reading, this is the kind of raising Lazarus experienced: brought back to life in a mortal body, a man who would die again. Every person raised from the dead in the Old Testament and the Gospels was raised that way. Only Christ, the firstfruits, was resurrected into a glorified body. The house of Israel is brought back to life, into the land, as mortal people.
 
@@ -101,7 +101,7 @@ Again the northern and southern kingdoms. The Lord explains:
 
 *"I will make them one nation in the land, on the mountains of Israel. And one king shall be king over them all, and they shall be no longer two nations, and no longer divided into two kingdoms... My servant David shall be king over them, and they shall all have one shepherd. They shall walk in my rules and be careful to obey my statutes. They shall dwell in the land that I gave to my servant Jacob, where your fathers lived. They and their children and their children's children shall dwell there forever, and David my servant shall be their prince forever. I will make a covenant of peace with them. It shall be an everlasting covenant with them. And I will set them in their land and multiply them, and will set my sanctuary in their midst forevermore. My dwelling place shall be with them, and I will be their God, and they shall be my people. Then the nations will know that I am the Lord who sanctifies Israel, when my sanctuary is in their midst forevermore."* (Ezekiel 37:22, 24–28)
 
-In this study's reading, "my servant David" is not David raised to the throne. It is the son of David, the root of Jesse of Isaiah 11: Jesus. (Some interpreters expect David himself to be raised as a prince under the Messiah.) What did the Lord promise David? That a descendant of his would sit on the throne of Israel forever. This is the fulfillment of the [[Glossary#Davidic Covenant|Davidic Covenant]]. Has any of this happened on the earth? No. In this study's reading, it happens in the Millennial Kingdom, and the reign it describes does not end when the thousand years do. *(What follows the thousand years is the subject of the next session.)*
+In this study's reading, "my servant David" is not David raised to the throne. It is the son of David, the root of Jesse of Isaiah 11: Jesus. (Some interpreters expect David himself to be raised as a prince under the Messiah.) What did the Lord promise David? That a descendant of his would sit on the throne of Israel forever. This is the fulfillment of the [[Glossary#Davidic Covenant|Davidic Covenant]]. Has any of this happened on the earth? No. It happens in the Millennial Kingdom, and the reign it describes does not end when the thousand years do. *(What follows the thousand years is the subject of [[i. The Dwelling Place of God|Chapter 31]].)*
 
 ## 7. After Armageddon: Every Promise Kept
 
@@ -161,7 +161,7 @@ The [[Glossary#Feast of Tabernacles|Feast of Booths]], or Tabernacles, is one of
 
 The chapter closes with holiness reaching into ordinary things. *"Holy to the Lord"* is inscribed on the bells of the horses, and every pot in Jerusalem and Judah becomes as holy as the bowls before the altar. *"And there shall no longer be a trader in the house of the Lord of hosts on that day"* (14:21).
 
-This, in this study's reading, is the Millennial Kingdom as the Old Testament describes it. It is primarily for the Jews. The Lord is king in Jerusalem. There is a temple, and there are sacrifices. And he rules with absolute authority. This is not a democracy or a democratic republic. It is a King with absolute authority over the whole earth, governing all peoples from Jerusalem.
+This is the Millennial Kingdom as the Old Testament describes it. It is primarily for the Jews. The Lord is king in Jerusalem. There is a temple, and there are sacrifices. And he rules with absolute authority. This is not a democracy or a democratic republic. It is a King with absolute authority over the whole earth, governing all peoples from Jerusalem.
 
 ## 10. The Saints Reign With Him
 
@@ -235,7 +235,7 @@ People ask how a loving God could throw all these people into the lake of fire. 
 
 What about those who never heard the name of Jesus? Paul says God is visible in creation (Romans 1:19–20). The heavens declare his glory (Psalm 19:1). That testimony to a Creator does not take a book or a religion; it takes looking up at the stars, as David did and as Abraham did. Every person either glorifies him as Creator or does not, and so no one is without excuse. This is [[Glossary#General Revelation|general revelation]], and everyone has had it.
 
-Before Christ, was anyone a Christian? Was Abraham? Was Moses? No. But Abraham believed God's promise, *"and he counted it to him as righteousness"* (Genesis 15:6). Abraham did not know the name of Jesus Christ. God knows the heart. He made us, and he knows us inside and out. The book of life has been written since the foundation of the world (Revelation 13:8; 17:8): before a person lives a single day, they are already in it or not. In this study's reading, that is not because God chose for them, but because he knows what they will choose. That is his [[Glossary#Foreknowledge|foreknowledge]]. He can fairly judge one heart from another. We cannot, and we should never try.
+Before Christ, was anyone a Christian? Was Abraham? Was Moses? No. But Abraham believed God's promise, *"and he counted it to him as righteousness"* (Genesis 15:6). Abraham did not know the name of Jesus Christ. God knows the heart. He made us, and he knows us inside and out. The book of life has been written since the foundation of the world (Revelation 13:8; 17:8): before a person lives a single day, they are already in it or not. That is not because God chose for them, but because he knows what they will choose. That is his [[Glossary#Foreknowledge|foreknowledge]]. He can fairly judge one heart from another. We cannot, and we should never try.
 
 There is no hard-and-fast rule that says "do X, Y, and Z, and you are saved." The moment a qualifier is added, that only those who were preached to have had a chance, the argument collapses, because not every person in every era has heard the whole of God's plan. God judges the heart, and he is just. And he gives every person the ability to know him. In the end, no one goes to the lake of fire for any reason except their own choice: they were given every chance and still chose to rebel.
 
@@ -263,7 +263,7 @@ Christ remains the ultimate authority. The saints have made their choice to be t
 
 ## 15. Looking Ahead: The End of the Story
 
-Revelation 21 and 22 are the subject of the next session: the new heaven and the new earth, the New Jerusalem, and the last words of Jesus. *(This will be developed in the next session.)* The story began in Genesis in the garden, in paradise. It ends when everything is finished and God's people are back in paradise. What that looks like is very different from most people's perception of heaven.
+Revelation 21 and 22 are the subject of [[i. The Dwelling Place of God|Chapter 31]]: the new heaven and the new earth, the New Jerusalem, and the last words of Jesus. The story began in Genesis in the garden, in paradise. It ends when everything is finished and God's people are back in paradise. What that looks like is very different from most people's perception of heaven.
 
 Some of the details of Revelation are confusing, but the story is simple. It is a love story, an epic, a story of returning home, with all the elements of a story, which the Lord tells from the beginning to the end: what happened, the conflict, the enemies, what he is doing to destroy them, and how he will restore all things. It is not broadcast plainly; the enemy is not advertising the plan. That is why the Lord says *"seek, and you will find"* (Matthew 7:7). It takes curiosity and a desire to know.
 
@@ -279,6 +279,8 @@ For a narrative walk through the whole story from Jesus' perspective, beginning,
 - Revelation 20:4–6 — The saints reign with Christ; the first resurrection
 - Revelation 20:7–10 — Satan released, Gog and Magog, fire from heaven
 - Revelation 20:11–15 — The great white throne and the book of life
+- Revelation 19:20 — The beast and the false prophet thrown alive into the lake of fire
+- Revelation 13:8; 17:8 — Names written in the book of life from the foundation of the world
 - Isaiah 2:1–5 — The nations stream to the mountain of the Lord
 - Isaiah 11:1–16 — The shoot of Jesse and the second gathering of Israel
 - Ezekiel 36:22–38 — A new heart and a new spirit, for the sake of God's name

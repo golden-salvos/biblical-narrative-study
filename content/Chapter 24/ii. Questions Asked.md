@@ -32,7 +32,7 @@ They harm anyone in their operating region who lacks the seal of God, and in thi
 
 ### Q: Are the 144,000 saved? If so, why do they need to be sealed?
 
-In this study's reading, they are not yet believers at this point, and that is why the sealing is needed. If the 144,000 were Christians at the return of the Lord, they would have been gathered to heaven with the church and would not be on the earth to be sealed at all. They are Jews who do not yet believe in Jesus when the wrath begins. The seal keeps them alive through it so that they can serve as witnesses inside the Millennial Kingdom.
+They are not yet believers at this point, and that is why the sealing is needed. If the 144,000 were Christians at the return of the Lord, they would have been gathered to heaven with the church and would not be on the earth to be sealed at all. They are Jews who do not yet believe in Jesus when the wrath begins. The seal keeps them alive through it so that they can serve as witnesses inside the Millennial Kingdom.
 
 They do come to faith before the Millennial Kingdom begins. *(The 144,000 will be revisited when the study reaches Revelation 14.)*
 
@@ -64,11 +64,11 @@ But the material cannot be studied honestly without changing how a person sees G
 
 ### Q: Isn't what is happening now the groundwork for the Antichrist to arrive as a savior?
 
-In this study's reading, yes. He arrives as a conquering hero, not as an obvious villain. Lasting peace has eluded the Middle East for centuries, and he will appear to bring it. He will also, on this reading, allow the Jews to rebuild the temple. Hostility toward Israel is already rising in many parts of the world.
+Yes. He arrives as a conquering hero, not as an obvious villain. Lasting peace has eluded the Middle East for centuries, and he will appear to bring it. He will also, on this reading, allow the Jews to rebuild the temple. Hostility toward Israel is already rising in many parts of the world.
 
 The events Jesus called birth pains in Matthew 24 have been occurring periodically for two thousand years. What makes them birth pains is that they intensify and come closer together, so their presence now is expected.
 
-He will not announce himself. He operates in the shadows, and there will be no moment when someone declares this is the date or this is the man. What will be unmistakable is the effect of the covenant with many: peace, and with peace, Israel resuming sacrifices on the Temple Mount. In this study's reading, that is the sign that the covenant has been confirmed. At the midpoint of the seven years, three and a half years later, he is revealed.
+He will not announce himself. He operates in the shadows, and there will be no moment when someone declares this is the date or this is the man. What will be unmistakable is the effect of the covenant with many: peace, and with peace, Israel resuming sacrifices on the Temple Mount. That is the sign that the covenant has been confirmed. At the midpoint of the seven years, three and a half years later, he is revealed.
 
 ---
 

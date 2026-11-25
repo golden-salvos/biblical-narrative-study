@@ -138,7 +138,7 @@ Making disciples is therefore not primarily an information transfer. It is a for
 
 The final line of the commission is the guarantee that makes everything else possible: *"And surely I am with you always, to the very end of the age."*
 
-*(Paul's argument in Romans 9–11 regarding God's ongoing purposes for Israel, and the question of what role the church plays in relation to those purposes, will be the subject of the next session. Ezekiel 37 will be read alongside it.)*
+*(Paul's argument in Romans 9–11 regarding God's ongoing purposes for Israel, and the question of what role the church plays in relation to those purposes, are the subject of [[i. Can These Bones Live|Chapter 13]], where Ezekiel 37 is read alongside them.)*
 
 ---
 

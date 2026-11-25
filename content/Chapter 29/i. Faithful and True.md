@@ -75,7 +75,7 @@ Now Revelation says what the [[Glossary#White Robes and Fine Linen|fine linen]] 
 
 In this study's reading, that explains one of Jesus' most unsettling parables. In the [[Glossary#Parable of the Wedding Banquet|parable of the wedding banquet]], a king invites guests to his son's wedding, and the invited guests do not come; they are too busy. So he sends his servants out to the roads to call in everyone they find, and the hall fills. Then the king finds a man without wedding clothes. *"Friend, how did you get in here without a wedding garment?"* The man is speechless, and he is bound and cast into the outer darkness, where there is weeping and gnashing of teeth (Matthew 22:1–14).
 
-Read on its own, the parable leaves you asking what you just read. Where did everyone else get their wedding clothes? The parable gives no explanation. In this study's reading, Revelation 19 supplies it: the wedding clothes are the righteous deeds of the saints.
+Read on its own, the parable leaves you asking what you just read. Where did everyone else get their wedding clothes? The parable gives no explanation. Revelation 19 supplies it: the wedding clothes are the righteous deeds of the saints.
 
 ### Righteous Deeds Are Not a Scorecard
 
@@ -125,7 +125,7 @@ To be at the marriage supper in heaven, a person has to have been gathered at th
 
 That does not mean everyone who believes after the Lord returns is lost. People will come to him after his return. Some who have not yet accepted Christ will refuse the [[Glossary#Mark of the Beast|mark of the beast]] because their names are written in the [[Glossary#Book of Life|book of life]], and they will come in later. They will be in his kingdom. But they will not have been at this wedding supper. What that difference means in eternity, Scripture does not say. It says only that those who are invited are blessed.
 
-Why the distinction? In this study's reading, because before he is revealed, belief requires faith ("Blessed are those who have not seen and yet have believed," John 20:29). After he appears in glory, there is no faith left in believing him. Every knee will bow, and there will be no denying it. He honors differently those who trusted him before they could see him.
+Why the distinction? Because before he is revealed, belief requires faith ("Blessed are those who have not seen and yet have believed," John 20:29). After he appears in glory, there is no faith left in believing him. Every knee will bow, and there will be no denying it. He honors differently those who trusted him before they could see him.
 
 That is not a second chance for those who took the mark. Someone who took it and then sees the Lord return and realizes they chose the wrong side has no way back. Many will not repent at all; they will curse God instead.
 
@@ -187,9 +187,9 @@ That is why this study spent so much time on the covenants: the [[Glossary#Abrah
 
 It is not only for the Jews. The Lord promised Abraham that through him all nations would be blessed. Gentile nations will remain on the earth, stripped of their authority, and they will be required to come up to Jerusalem every year to worship the King at the Feast of Tabernacles (Zechariah 14:16). They will have to see that he is not only the King of Israel but ruler over the whole earth. The church will be there too, not ruling from heaven but on the earth, in [[Glossary#Resurrection Body|resurrection bodies]] like the one Jesus had after he rose.
 
-In this study's reading, Ezekiel 40–48 describes the temple he will reign from, including the glory of the Lord entering through the eastern gate and filling the temple (Ezekiel 43:1–5; 44:1–2). Ezekiel 37, the [[Glossary#Valley of Dry Bones|valley of dry bones]], will also need to be revisited. God tells Ezekiel the bones are the whole house of Israel. It may suggest that the Lord will raise up the entire house of Israel to live under their Messiah King. Why would he give that only to the last generation and not to all of them, including Abraham? It certainly reads that way, but it is not something to stand on firmly.
+Ezekiel 40–48 describes the temple he will reign from, including the glory of the Lord entering through the eastern gate and filling the temple (Ezekiel 43:1–5; 44:1–2). Ezekiel 37, the [[Glossary#Valley of Dry Bones|valley of dry bones]], will also need to be revisited. God tells Ezekiel the bones are the whole house of Israel. It may suggest that the Lord will raise up the entire house of Israel to live under their Messiah King. Why would he give that only to the last generation and not to all of them, including Abraham? It certainly reads that way, but it is not something to stand on firmly.
 
-Satan will be taken out of the picture for the thousand years, and people will still have a choice. *(The Millennial Kingdom, the passages that describe it, and the Great White Throne Judgment are the subject of the next session. The new heaven and the new earth, and how they differ from the Millennial Kingdom, will follow in the session after that.)*
+Satan will be taken out of the picture for the thousand years, and people will still have a choice. *(The Millennial Kingdom, the passages that describe it, and the Great White Throne Judgment are the subject of [[i. The Thousand Years|Chapter 30]]. The new heaven and the new earth, and how they differ from the Millennial Kingdom, will follow in the session after that.)*
 
 ### What the Millennium Reveals About God
 
@@ -205,6 +205,7 @@ No one will understand everything. God has not told us everything. But what he h
 
 - Revelation 19:1–10 — The hallelujahs of heaven and the marriage of the Lamb
 - Revelation 19:11–21 — The rider on the white horse, the great supper of God, and the end of the beast
+- Revelation 18:2 — "Fallen, fallen is Babylon the great"
 - Daniel 7:25–27 — The kingdom handed over to the saints
 - 2 Timothy 2:12; Revelation 20:4–6 — Reigning with Christ
 - Psalm 82 — God judges the gods who ruled the nations unjustly
@@ -212,6 +213,8 @@ No one will understand everything. God has not told us everything. But what he h
 - Matthew 22:1–14 — The guest without wedding clothes
 - Luke 23:43 — The thief on the cross
 - Ephesians 2:8–10 — Saved by grace, created for good works
+- 1 Corinthians 13 — The love the Spirit produces
+- Genesis 4:1 — "Knew" as the language of intimate union
 - Matthew 25:1–13 — The parable of the ten virgins
 - Matthew 7:21–23 — "I never knew you"
 - Revelation 14:17–20 — The winepress of the wrath of God
@@ -219,7 +222,7 @@ No one will understand everything. God has not told us everything. But what he h
 - Psalm 2:9 — The iron scepter
 - Ezekiel 39:17–20 — The feast for the birds
 - Revelation 1:9; 13:10; 14:12 — The call for patient endurance
-- 2 Thessalonians 2:2; 2 Peter 3:3–4 — Confusion and scoffing about the day of the Lord
+- 2 Thessalonians 1:4; 2:2; 2 Peter 3:3–4 — Endurance under persecution; confusion and scoffing about the day of the Lord
 - Ephesians 6:12 — Not against flesh and blood
 - Zechariah 14:16 — The nations go up to Jerusalem for the Feast of Tabernacles
 - Ezekiel 37; 40–48 — The dry bones and the millennial temple

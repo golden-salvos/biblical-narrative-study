@@ -20,7 +20,7 @@ Yes. Everyone is invited to love and serve him, and accepting is each person's c
 
 ### Q: Does this mean that people who accept Christ after he returns are thrown into hell?
 
-No. People will come to the Lord after his return, including those who refused the mark of the beast because their names are in the book of life. They will be in his kingdom. In this study's reading, they will not have been at the marriage supper, which takes place once, when the Bride and the Groom are married. The opportunity to repent runs throughout a person's life, including for those living in the Millennial Kingdom; judgment follows death (Hebrews 9:27).
+No. People will come to the Lord after his return, including those who refused the mark of the beast because their names are in the book of life. They will be in his kingdom. They will not have been at the marriage supper, which takes place once, when the Bride and the Groom are married. The opportunity to repent runs throughout a person's life, including for those living in the Millennial Kingdom; judgment follows death (Hebrews 9:27).
 
 ### Q: Why does it matter whether someone was at the marriage supper?
 
@@ -36,23 +36,23 @@ The invitation in verse 9 is not an invitation to salvation that some receive an
 
 ### Q: Are we still in heaven while this battle happens, or did we come down to the earth early?
 
-In this study's reading, the church comes with the King: the armies of heaven that follow him are clothed in the same fine linen as the Bride (Revelation 19:8, 14; compare 17:14). But the church does not fight; the victory is won by the word of his mouth. And it is told about the battle beforehand, in Revelation, which is why believers can endure patiently: they know how it ends.
+The church comes with the King: the armies of heaven that follow him are clothed in the same fine linen as the Bride (Revelation 19:8, 14; compare 17:14). But the church does not fight; the victory is won by the word of his mouth. And it is told about the battle beforehand, in Revelation, which is why believers can endure patiently: they know how it ends.
 
 ### Q: Will the 144,000 never die?
 
-In this study's reading, they will not die during the seven years. They are sealed and preserved through all of God's wrath, and they enter the Millennial Kingdom alive as its firstfruits. What happens to them over the course of the thousand years is not described here. *(The Millennial Kingdom is the subject of the next session.)*
+They will not die during the seven years. They are sealed and preserved through all of God's wrath, and they enter the Millennial Kingdom alive as its firstfruits. What happens to them over the course of the thousand years is not described here. *(The Millennial Kingdom is the subject of [[i. The Thousand Years|Chapter 30]].)*
 
 ### Q: Will we rule in the Millennial Kingdom from heaven?
 
-In this study's reading, no. The church will rule on the earth. Believers will be in their resurrection bodies, like the body Jesus had after he rose, able to appear and disappear, to enter a locked room, and to move from place to place in an instant, but the kingdom is on this earth, centered in Jerusalem.
+No. The church will rule on the earth. Believers will be in their resurrection bodies, like the body Jesus had after he rose, able to appear and disappear, to enter a locked room, and to move from place to place in an instant, but the kingdom is on this earth, centered in Jerusalem.
 
 ### Q: Is the eastern gate of Jerusalem still sealed?
 
-Yes. The eastern gate of the Temple Mount, often called the Golden Gate, has been walled shut for centuries; its present sealing is usually credited to the Ottoman sultan Suleiman the Magnificent in the 1540s. Ezekiel 43:1–5 and 44:1–2 describe the glory of the Lord entering the temple by the east gate and the gate then being shut because the Lord has entered by it. *(The millennial temple of Ezekiel 40–48 will be read in the next session.)*
+Yes. The eastern gate of the Temple Mount, often called the Golden Gate, has been walled shut for centuries; its present sealing is usually credited to the Ottoman sultan Suleiman the Magnificent in the 1540s. Ezekiel 43:1–5 and 44:1–2 describe the glory of the Lord entering the temple by the east gate and the gate then being shut because the Lord has entered by it.
 
 ### Q: Who else will be on the earth during the Millennial Kingdom? Will some people be surrendered to God and others not?
 
-In this study's reading, Israel will be in the land, but not only Israel. Daniel 7:12 says the other beasts had their dominion taken away but their lives prolonged for a season. The Gentile nations will remain on the earth, stripped of their authority, and they will have a choice. Some will be people who never made a choice for either side before the return. Some will have chosen God after he returned, too late to be gathered at the rapture. Everyone who took the mark of the beast will be dead.
+Israel will be in the land, but not only Israel. Daniel 7:12 says the other beasts had their dominion taken away but their lives prolonged for a season. The Gentile nations will remain on the earth, stripped of their authority, and they will have a choice. Some will be people who never made a choice for either side before the return. Some will have chosen God after he returned, too late to be gathered at the rapture. Everyone who took the mark of the beast will be dead.
 
 ### Q: Doesn't Scripture say those who take the mark will be tormented forever?
 
@@ -60,7 +60,7 @@ Yes (Revelation 14:10–11). Whether they are dead or in the lake of fire, the r
 
 ### Q: If it's a thousand years, will people be born during that time?
 
-Scripture says little directly about life during the Millennial Kingdom. The passages that describe it will be brought up in the next session.
+Scripture says little directly about life during the Millennial Kingdom. The passages that describe it are brought together in [[i. The Thousand Years|Chapter 30]].
 
 ---
 

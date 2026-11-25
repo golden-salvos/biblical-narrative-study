@@ -8,23 +8,23 @@ The angel answers it directly in Revelation 17:15: *"The waters that you saw, wh
 
 ### Q: Are the ten horns kingdoms, like the seven heads?
 
-No. In this study's reading, the seven heads are kingdoms, the empires spread across history that Satan has used to try to destroy Israel. The ten horns are kings (Revelation 17:12), and they exist together at one time and place, in the future. When those ten rulers arise in the Middle East, the little horn, the Antichrist, rises among them, subdues three (Daniel 7:8, 24), and the rest hand him their power. He becomes the sole ruler over all of it.
+No. The seven heads are kingdoms, the empires spread across history that Satan has used to try to destroy Israel. The ten horns are kings (Revelation 17:12), and they exist together at one time and place, in the future. When those ten rulers arise in the Middle East, the little horn, the Antichrist, rises among them, subdues three (Daniel 7:8, 24), and the rest hand him their power. He becomes the sole ruler over all of it.
 
 ### Q: Are the seven heads the seven kingdoms that are left after the ten?
 
-No. In this study's reading, the seven heads come first and span all of history. They are the empires Satan has used to try to destroy Israel: Egypt, Assyria, Babylon, Medo-Persia, Greece, Rome, and the Islamic caliphate. The ten horns come at the end, as ten kings who arise together within the last kingdom. The Antichrist's kingdom is simply the last in that line. The seventh head is Islam, and the eighth, *the beast that was and is not*, is also Islam: the caliphate abolished in 1924 and revived (Revelation 17:11).
+No. The seven heads come first and span all of history. They are the empires Satan has used to try to destroy Israel: Egypt, Assyria, Babylon, Medo-Persia, Greece, Rome, and the Islamic caliphate. The ten horns come at the end, as ten kings who arise together within the last kingdom. The Antichrist's kingdom is simply the last in that line. The seventh head is Islam, and the eighth, *the beast that was and is not*, is also Islam: the caliphate abolished in 1924 and revived (Revelation 17:11).
 
 ### Q: Is Satan driving the ten kings that become one, or the beast, or both?
 
-In this study's reading, both. Satan is driving the ten kings who come together into one, and he is driving the beast they hand their power to. There is some nuance in how he works through each, but for the purposes of this session, both. That is also why the eighth *belongs to the seven*: the common denominator among all eight is who is running them. The Antichrist cannot be behind all of them, because he is a man. Satan is behind every one.
+Both. Satan is driving the ten kings who come together into one, and he is driving the beast they hand their power to. There is some nuance in how he works through each, but for the purposes of this session, both. That is also why the eighth *belongs to the seven*: the common denominator among all eight is who is running them. The Antichrist cannot be behind all of them, because he is a man. Satan is behind every one.
 
 ### Q: Will the ten kings take power by military force?
 
-In this study's reading, the text points elsewhere. The ten kings *have not yet received royal power, but they are to receive authority as kings* (Revelation 17:12). Military power is power taken by force. Royal power, on this reading, is inherited through a family line. These are kings, not generals, presidents, or prime ministers, which fits a region where monarchies such as Saudi Arabia and Jordan still rule.
+The text points elsewhere. The ten kings *have not yet received royal power, but they are to receive authority as kings* (Revelation 17:12). Military power is power taken by force. Royal power, on this reading, is inherited through a family line. These are kings, not generals, presidents, or prime ministers, which fits a region where monarchies such as Saudi Arabia and Jordan still rule.
 
 ### Q: Which three kings does the Antichrist conquer?
 
-In this study's reading, Egypt, the king of the South, and the nations on either side of it: Libya to the west and Sudan, biblical Cush, to the south. Daniel 11:42–43 says the land of Egypt will not escape him, *"and the Libyans and the Cushites shall follow in his train."* (Ezekiel 38:5 also names Cush and Put, Libya, but there they appear among Gog's allies; on this study's reading they join him after being subdued.)
+Egypt, the king of the South, and the nations on either side of it: Libya to the west and Sudan, biblical Cush, to the south. Daniel 11:42–43 says the land of Egypt will not escape him, *"and the Libyans and the Cushites shall follow in his train."* (Ezekiel 38:5 also names Cush and Put, Libya, but there they appear among Gog's allies; on this study's reading they join him after being subdued.)
 
 ### Q: Was Muhammad a real historical person?
 
@@ -64,7 +64,7 @@ Islam split into two main branches early in its history over who should lead the
 
 ### Q: Is the caliphate the same thing as the Mahdi?
 
-No. The caliphate is the political entity, a government. It is the single state that unites the nations and peoples of the Islamic world under one ruler, as it did under Muhammad's successors and later the Ottomans, until it was abolished in 1924. The Mahdi is the figure Islamic tradition expects at the end of the age to unite the Muslim world. In this study's reading, the Mahdi corresponds to the Antichrist, and the revived caliphate is his kingdom: as he rises, all those kings hand him their power, and one man rules all that land, united by religion.
+No. The caliphate is the political entity, a government. It is the single state that unites the nations and peoples of the Islamic world under one ruler, as it did under Muhammad's successors and later the Ottomans, until it was abolished in 1924. The Mahdi is the figure Islamic tradition expects at the end of the age to unite the Muslim world. The Mahdi corresponds to the Antichrist, and the revived caliphate is his kingdom: as he rises, all those kings hand him their power, and one man rules all that land, united by religion.
 
 ### Q: Has Turkey's leadership talked about bringing the caliphate back?
 
@@ -76,7 +76,7 @@ In this study's assessment, because in the Middle East military strength is ever
 
 ### Q: You've never put it in terms of "a couple of years" before. Why now?
 
-Because, in this study's view, the chess pieces have never been in the places they are now. Preparations for the temple and for the sacrifices are far advanced. The rules on the Temple Mount are loosening. The alliances in the region are forming. No date can be set. But this is not decades away, and when sacrifice resumes in Jerusalem, the seven years will already be underway.
+Because the chess pieces have never been in the places they are now. Preparations for the temple and for the sacrifices are far advanced. The rules on the Temple Mount are loosening. The alliances in the region are forming. No date can be set. But this is not decades away, and when sacrifice resumes in Jerusalem, the seven years will already be underway.
 
 ### Q: Where does this information come from, if it isn't on the news?
 

@@ -26,7 +26,7 @@ Yes. The Abomination of Desolation, the Antichrist standing in the temple and de
 
 ### Q: Will there be sacrifices in the Millennial Kingdom?
 
-Yes, and there will also be a temple. This is one of the details Ezekiel describes in considerable length. The reason sacrifices continue in the Millennial Kingdom is not that the cross was insufficient. It is a different purpose altogether. *(The specifics of sacrificial worship in the Millennial Kingdom and the temple described in Ezekiel 40–48 will be addressed in a later session.)*
+Yes, and there will also be a temple. This is one of the details Ezekiel describes in considerable length. The reason sacrifices continue in the Millennial Kingdom is not that the cross was insufficient. It is a different purpose altogether. *(The specifics of sacrificial worship in the Millennial Kingdom and the temple described in Ezekiel 40–48 are addressed in [[i. Faithful and True|Chapter 29]].)*
 
 ---
 
@@ -50,13 +50,13 @@ The antidote is not a different institution. It is the text itself. When believe
 
 ### Q: Are there any scriptures that actually support the pre-tribulation rapture?
 
-Not in this study's reading. Advocates of the pre-tribulation view point most often to 1 Thessalonians 5:9 ("God did not appoint us to suffer wrath"), Revelation 3:10 (kept "from the hour of trial"), John 14:2–3 ("I will come back and take you to be with me"), and the absence of the word "church" in Revelation 4–18. The position taken here is that none of these passages, read on its own terms, places the gathering of the church before the tribulation; they become pre-tribulation texts only when the Dispensationalist framework is already assumed. The distinction between tribulation and God's wrath, which answers 1 Thessalonians 5:9, is taken up in Chapter 19. When the texts are read without the framework, looking at the sequence Jesus himself lays out, they place the gathering of the elect after the tribulation.
+Not in this study's reading. Advocates of the pre-tribulation view point most often to 1 Thessalonians 5:9 ("God did not appoint us to suffer wrath"), Revelation 3:10 (kept "from the hour of trial"), John 14:2–3 ("I will come back and take you to be with me"), and the absence of the word "church" in Revelation 4–19. The position taken here is that none of these passages, read on its own terms, places the gathering of the church before the tribulation; they become pre-tribulation texts only when the Dispensationalist framework is already assumed. The distinction between tribulation and God's wrath, which answers 1 Thessalonians 5:9, is taken up in Chapter 19. When the texts are read without the framework, looking at the sequence Jesus himself lays out, they place the gathering of the elect after the tribulation.
 
 ---
 
 ### Q: Does peace have to come to the Middle East before the temple can be rebuilt?
 
-For a temple to be built on the Temple Mount in Jerusalem and sacrifices to be reinstituted, some form of political resolution in the region would have to precede it. The Antichrist's first move, the covenant he makes with many at the beginning of the seven-year period, is understood in this study as a peace arrangement. Establishing peace in the Middle East, in a way no one has ever managed, is precisely the kind of achievement that would elevate a figure to world prominence. That peace opens the door for what follows. The wars that precede it, and the wars through which the Antichrist consolidates power on the way to that peace, are part of the birth pains sequence. The peace itself is the deception: the surface under which the Antichrist's true nature remains hidden for the first 3.5 years. *(The specifics of the Antichrist's covenant and Daniel's timeline will be examined in the next session.)*
+For a temple to be built on the Temple Mount in Jerusalem and sacrifices to be reinstituted, some form of political resolution in the region would have to precede it. The Antichrist's first move, the covenant he makes with many at the beginning of the seven-year period, is understood in this study as a peace arrangement. Establishing peace in the Middle East, in a way no one has ever managed, is precisely the kind of achievement that would elevate a figure to world prominence. That peace opens the door for what follows. The wars that precede it, and the wars through which the Antichrist consolidates power on the way to that peace, are part of the birth pains sequence. The peace itself is the deception: the surface under which the Antichrist's true nature remains hidden for the first 3.5 years. *(The specifics of the Antichrist's covenant and Daniel's timeline are examined in [[i. Seventy Sevens|Chapter 16]].)*
 
 ---
 

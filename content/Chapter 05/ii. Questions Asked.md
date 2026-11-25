@@ -40,7 +40,7 @@ Possibly, though the text doesn't say. Enoch is describing visions of dimensions
 
 ### Q: Was the Tower of Babel an attempt to reach the fallen angels?
 
-No, though the impulse behind it has a family resemblance to the rebellion at Mount Hermon. When the nations gathered at Babel, they were not trying to reach the imprisoned Watchers. They were doing something more elemental: refusing to spread across the earth as God had directed and attempting instead to band together, make a name for themselves, and build a civilization on their own terms. It is the same orientation that runs from the garden (*you will be like God*) through every subsequent rebellion. The desire to be captain of your own ship, to build a world without God's involvement. The full account, and why God's response to it set the stage for everything that follows, will be addressed in the next session.
+No, though the impulse behind it has a family resemblance to the rebellion at Mount Hermon. When the nations gathered at Babel, they were not trying to reach the imprisoned Watchers. They were doing something more elemental: refusing to spread across the earth as God had directed and attempting instead to band together, make a name for themselves, and build a civilization on their own terms. It is the same orientation that runs from the garden (*you will be like God*) through every subsequent rebellion. The desire to be captain of your own ship, to build a world without God's involvement. The full account, and why God's response to it set the stage for everything that follows, is taken up in [[i. The Divine Council and the Seventy Nations|Chapter 06]].
 
 ---
 

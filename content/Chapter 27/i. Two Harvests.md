@@ -41,11 +41,11 @@ The first clue is the [[Glossary#144,000|144,000]] themselves. They were sealed 
 
 The second clue is who is standing with them. In this study's reading, the Lamb is on Mount Zion in Jerusalem, on the earth. (Some interpreters take this Zion to be the heavenly Mount Zion of Hebrews 12:22, which would place the scene in heaven.) Christ does not stand on the earth until he returns. So this scene has to be after his return, which in this study's sequence falls between the sixth and seventh seals.
 
-The third clue is what they have come through. The 144,000 were sealed for a specific purpose: protection from the [[Glossary#Wrath of God|wrath of God]] in the trumpet judgments. When the demonic army of the fifth trumpet and the cavalry of the sixth are released on the earth, they are forbidden to touch those who bear God's seal (Revelation 9:4). Here, John sees the full number, all 144,000. In this study's reading, not one has died and not one is missing; they have been providentially sustained through everything the trumpets brought.
+The third clue is what they have come through. The 144,000 were sealed for a specific purpose: protection from the [[Glossary#Wrath of God|wrath of God]] in the trumpet judgments. When the demonic army of the fifth trumpet and the cavalry of the sixth are released on the earth, they are forbidden to touch those who bear God's seal (Revelation 9:4). Here, John sees the full number, all 144,000. Not one has died and not one is missing; they have been providentially sustained through everything the trumpets brought.
 
 Fourth, notice where John is. As far as the text has shown, the vantage point of the visions is still heaven. The voice and the new song come from before the throne. But the 144,000 are on the earth, and Jesus is on the earth with them.
 
-Put together, in this study's reading, the vision fits after the seven trumpets and before the seven bowls of wrath. The 144,000 have witnessed every trumpet. They are about to witness the bowls. And the passages that follow in chapters 15 and 16 move straight into those bowls, which confirms the placement.
+Put together, the vision fits after the seven trumpets and before the seven bowls of wrath. The 144,000 have witnessed every trumpet. They are about to witness the bowls. And the passages that follow in chapters 15 and 16 move straight into those bowls, which confirms the placement.
 
 ### Firstfruits of the Kingdom
 
@@ -77,7 +77,7 @@ In this study's reading, that places the message before the first trumpet. And t
 
 *"Another angel, a second, followed, saying, 'Fallen, fallen is Babylon the great, she who made all nations drink the wine of the passion of her sexual immorality.'"* (Revelation 14:8)
 
-This message is announced almost completely out of context. Revelation devotes two full chapters to [[Glossary#Babylon the Great|Babylon the Great]] later on, and its identity has not yet been developed. *(The identity, location, and characteristics of Babylon the Great are the subject of the next session.)* What the passage says is short and clear, and its purpose can be read from what the Antichrist offers the world.
+This message is announced almost completely out of context. Revelation devotes two full chapters to [[Glossary#Babylon the Great|Babylon the Great]] later on, and its identity has not yet been developed. *(The identity, location, and characteristics of Babylon the Great are the subject of [[i. The Great City|Chapter 28]].)* What the passage says is short and clear, and its purpose can be read from what the Antichrist offers the world.
 
 What is the incentive to take the mark? It is not the torment; that is the consequence. The incentive is participation in the economy: the ability to buy and sell, to share in the wealth. And that offer is only a temptation if there is something worth having. If the Antichrist ruled from an empty desert with no trade, no city, and no luxury, no one would take the deal. What makes his kingdom appealing to people who want riches, comfort, and luxury is what they can see and taste. His city is going to be glorious: a city of glamour, luxury, and trade. In this study's reading, Babylon is that great city: the center of the Antichrist's kingdom, the great prostitute that has drawn the kings of the earth into her riches and her idolatry.
 
@@ -93,7 +93,7 @@ Revelation 13:8 already said that everyone on the earth will worship the beast: 
 
 That should correct an arrogant habit among Christians: the assumption that someone who is not a believer today never will be. Only the Lord knows how much time a person has, and he knows when they are going to make that choice.
 
-The third message clearly reaches beyond the window of the first two: its consequences run forever. But its decision point does not. Its decision is *don't take the mark*. When is the first moment anyone can take the mark? Right after the Abomination of Desolation, when the opportunity to worship the beast first opens. In this study's reading, God would not allow a single person to take that mark without this message being spoken first.
+The third message clearly reaches beyond the window of the first two: its consequences run forever. But its decision point does not. Its decision is *don't take the mark*. When is the first moment anyone can take the mark? Right after the Abomination of Desolation, when the opportunity to worship the beast first opens. God would not allow a single person to take that mark without this message being spoken first.
 
 So all three messages belong at the same point: after the Abomination of Desolation, before the Great Tribulation runs its course and before the first trumpet.
 
@@ -131,9 +131,9 @@ A white cloud, and one like a [[Glossary#Son of Man|son of man]] seated on it. T
 
 Right after the blessing on those who die in the Lord, the vision shows what they have to look forward to. The harvest of the earth is coming. This is the great hope of those dying in the Great Tribulation.
 
-In this study's reading, it is not the same point on the timeline as the three messages. Those were spoken at the beginning of the Great Tribulation. The harvest comes later: before the end of the seven years, and, as established last session, no later than roughly six months before the end, leaving room for the trumpets and bowls that follow it.
+In this study's reading, it is not the same point on the timeline as the three messages. Those were spoken at the beginning of the Great Tribulation. The harvest comes later: before the end of the seven years, and, as established in [[i. War in Heaven|Chapter 26]], no later than roughly six months before the end, leaving room for the trumpets and bowls that follow it.
 
-The language reaches all the way back to the first parable this study read, in its opening weeks: the [[Glossary#Parable of the Wheat and Weeds|parable of the wheat and the weeds]] (Matthew 13:24–30, 36–43). The servants want to pull up the weeds, and the master tells them not to: the harvest is not ready. He is waiting for the whole field to ripen. Here an angel announces that the harvest of the earth is fully ripe, and the Son of Man reaps it. In this study's reading, this is the gathering of the church: the [[Glossary#Rapture|rapture]], the Lord's return for his people. (Some interpreters read both harvests in this chapter as pictures of judgment; the study reads the grain harvest as the gathering of the righteous, set against the grape harvest of wrath, as in Jesus' own parable, where the wheat is gathered into the barn.)
+The language reaches all the way back to the first parable this study read, in its opening weeks: the [[Glossary#Parable of the Wheat and Weeds|parable of the wheat and the weeds]] (Matthew 13:24–30, 36–43). The servants want to pull up the weeds, and the master tells them not to: the harvest is not ready. He is waiting for the whole field to ripen. Here an angel announces that the harvest of the earth is fully ripe, and the Son of Man reaps it. This is the gathering of the church: the [[Glossary#Rapture|rapture]], the Lord's return for his people. (Some interpreters read both harvests in this chapter as pictures of judgment; the study reads the grain harvest as the gathering of the righteous, set against the grape harvest of wrath, as in Jesus' own parable, where the wheat is gathered into the barn.)
 
 ## 6. The Grape Harvest
 
@@ -191,7 +191,7 @@ The **fifth bowl** is poured on the throne of the beast, and his kingdom is plun
 
 Videos regularly appear online announcing that the Euphrates is drying up and that the Battle of Armageddon is therefore near. In this study's reading, it is not time. The river's flow may well be dropping (upstream damming and drought have a great deal to do with that), but that is not this. This bowl comes at the very end of the seven years, after the trumpets and in the middle of the bowls. None of the events that must come before it have happened.
 
-The Euphrates rises in the mountains of Turkey and runs down through Syria and Iraq. Throughout biblical history it marked a frontier: the eastern limit of the land promised to Abraham (Genesis 15:18), and the line between the lands to its west and the empires of the east. The [[Glossary#Kings of the East|kings of the east]] are the rulers of the lands beyond it, from Mesopotamia and Iran eastward into Asia; in this study's reading, nations such as Afghanistan, Pakistan, and perhaps China may be in view. Drying the river removes the barrier for their armies.
+The Euphrates rises in the mountains of Turkey and runs down through Syria and Iraq. Throughout biblical history it marked a frontier: the eastern limit of the land promised to Abraham (Genesis 15:18), and the line between the lands to its west and the empires of the east. The [[Glossary#Kings of the East|kings of the east]] are the rulers of the lands beyond it, from Mesopotamia and Iran eastward into Asia; nations such as Afghanistan, Pakistan, and perhaps China may be in view. Drying the river removes the barrier for their armies.
 
 *"And I saw, coming out of the mouth of the dragon and out of the mouth of the beast and out of the mouth of the false prophet, three unclean spirits like frogs. For they are demonic spirits, performing signs, who go abroad to the kings of the whole world, to assemble them for battle on the great day of God the Almighty. ('Behold, I am coming like a thief! Blessed is the one who stays awake, keeping his garments on, that he may not go about naked and be seen exposed!') And they assembled them at the place that in Hebrew is called Armageddon."* (Revelation 16:13–16)
 
@@ -223,19 +223,19 @@ With the seven bowls, the study has now walked sequentially through twenty-one e
 
 The seven seals came first: the seals on the scroll that only the Lamb could open. In this study's reading, sometime between the sixth and seventh seals the Lord returns. No one knows the day or the hour, but he comes in that window, because he comes back before his wrath is poured out in the trumpets.
 
-The seventh seal opens the seven trumpets. The trumpets are wrath upon the earth, concentrated, in this study's reading, on a portion of it: most likely the Middle East, the heart of the Antichrist's kingdom, which is why the Lord seals his 144,000 before they begin, and why he tells his people to flee east, away from Jerusalem.
+The seventh seal opens the seven trumpets. The trumpets are wrath upon the earth, concentrated on a portion of it: most likely the Middle East, the heart of the Antichrist's kingdom, which is why the Lord seals his 144,000 before they begin, and why he tells his people to flee east, away from Jerusalem.
 
 At the seventh trumpet, there is no more delay, and the Lord begins to reign. That is most likely when he rejoins the 144,000 on the earth, because he reigns from Jerusalem, and in this vision he stands with them on Mount Zion.
 
 Following the seventh trumpet, as he begins his reign, he pours out the seven bowls. At the end he judges the Antichrist and the false prophet, throws them into the lake of fire, and kills everyone who has come against Jerusalem fighting alongside the Antichrist. Everyone who fights with the Antichrist dies. Anyone who comes against Jerusalem dies.
 
-After the Antichrist and false prophet are gone, Satan is chained in the Abyss for a thousand years while Christ reigns from Jerusalem. In this study's reading, there will be a temple and sacrifices, and the Lord will be enthroned there. Gentile nations will exist outside Israel and will be required to come up to Jerusalem once a year. At the end of the thousand years Satan is released, raises another army, and comes against Jerusalem again, and this time there is no battle. Fire comes down from heaven and consumes them. Then the earth as it exists now ceases to exist, there is a new heaven and a new earth, and the New Jerusalem comes down out of heaven: the city Jesus said he was going to prepare for his people (John 14:2–3). *(The millennial kingdom, the role of the nations, the new heaven and new earth, the New Jerusalem, and when and why the Father joins his people there will each be taken up as the study reaches Revelation 19–22.)*
+After the Antichrist and false prophet are gone, Satan is chained in the Abyss for a thousand years while Christ reigns from Jerusalem. There will be a temple and sacrifices, and the Lord will be enthroned there. Gentile nations will exist outside Israel and will be required to come up to Jerusalem once a year. At the end of the thousand years Satan is released, raises another army, and comes against Jerusalem again, and this time there is no battle. Fire comes down from heaven and consumes them. Then the earth as it exists now ceases to exist, there is a new heaven and a new earth, and the New Jerusalem comes down out of heaven: the city Jesus said he was going to prepare for his people (John 14:2–3). *(The millennial kingdom, the role of the nations, the new heaven and new earth, the New Jerusalem, and when and why the Father joins his people there will each be taken up as the study reaches Revelation 19–22.)*
 
 Much of what people imagine about heaven, souls as winged cherubs drifting among the clouds, is not what Scripture describes. The eternal home of God's people is a real city in a renewed creation: the New Jerusalem.
 
 ## 10. Looking Ahead: The Great Prostitute and the Beast
 
-Revelation 17 and 18 are the subject of the next session. Babylon the Great, the great prostitute, and the beast are two separate entities. How do they interact? How do they stay in agreement, and why do they eventually turn on one another? *(This will be developed in the next session.)*
+Revelation 17 and 18 are the subject of [[i. The Great City|Chapter 28]]. Babylon the Great, the great prostitute, and the beast are two separate entities. How do they interact? How do they stay in agreement, and why do they eventually turn on one another?
 
 ---
 
@@ -254,7 +254,8 @@ Revelation 17 and 18 are the subject of the next session. Babylon the Great, the
 - Ezekiel 38:4; 39:17–20 — Hooks in Gog's jaws; the feast for the birds
 - Isaiah 63:1–6 — The one who treads the winepress alone
 - Luke 24:31; John 20:19, 26 — The risen Jesus appearing and disappearing
-- Revelation 11:13, 17 — The survivors give glory; "who is and who was"
+- Matthew 24:2 — Not one stone left on another
+- Revelation 1:4, 8; 4:8; 11:13, 17 — "Who was and is and is to come" shortened to "who is and who was"; the survivors give glory
 - Exodus 7–14 — Pharaoh's hardened heart
 - John 14:2–3 — "I am going there to prepare a place for you"
 

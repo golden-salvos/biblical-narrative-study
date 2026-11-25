@@ -102,7 +102,7 @@ The beast who once was, and now is not, and yet will come is the eighth king: th
 
 This reading does not require that Rome be irrelevant to prophecy. Rome is the sixth king. What it requires is recognizing that the seventh and eighth are distinct from Rome, that the geographic data in Daniel points to the Middle Eastern north rather than to Europe, and that the conflict being traced here is the same spiritual war that has run from Genesis 3 through every empire on this list: Satan working through earthly kingdoms to eliminate the people and the land through whom God's redemption would and will come. The final chapter of that conflict is what Daniel, Revelation, and the prophets are positioning the reader to understand.
 
-*(The detailed campaigns of the king of the North against the king of the South, and the fuller portrait of the Antichrist in Daniel 11, will be addressed in the next session.)*
+*(The detailed campaigns of the king of the North against the king of the South, and the fuller portrait of the Antichrist in Daniel 11, are addressed in [[i. The War Behind the War|Chapter 17]].)*
 
 ---
 

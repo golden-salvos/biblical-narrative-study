@@ -8,7 +8,7 @@ The beast and the false prophet are captured and thrown alive into the lake of f
 
 ### Q: Is the thousand years a gift to Israel? Is Israel the only one receiving it?
 
-In this study's reading, it is a gift to Israel: the time in which God fulfills the covenant promises he made to the patriarchs and their descendants, and in which the nation lives under the Messiah it rejected. But Israel is not the only people on the earth during it. Isaiah 2 has all the nations streaming to Jerusalem to be taught, Daniel 7:12 has the earlier kingdoms' lives "prolonged for a season and a time" after their dominion is removed, and Zechariah 14:16 requires the survivors of the nations to go up to Jerusalem every year. The Gentile nations that survive the end are present in the kingdom.
+It is a gift to Israel: the time in which God fulfills the covenant promises he made to the patriarchs and their descendants, and in which the nation lives under the Messiah it rejected. But Israel is not the only people on the earth during it. Isaiah 2 has all the nations streaming to Jerusalem to be taught, Daniel 7:12 has the earlier kingdoms' lives "prolonged for a season and a time" after their dominion is removed, and Zechariah 14:16 requires the survivors of the nations to go up to Jerusalem every year. The Gentile nations that survive the end are present in the kingdom.
 
 ### Q: Where does the teaching that the Watchers taught mankind war come from?
 
@@ -28,7 +28,7 @@ Many interpreters read it as symbolic of national restoration: the exiles say th
 
 ### Q: Are the Jews of all of history raised, or only some?
 
-On this study's reading, that is what the text appears to say. The phrase is "the whole house of Israel" (Ezekiel 37:11), and Ezekiel 39:28 adds, "I will leave none of them remaining among the nations anymore." Scripture does not describe a parallel raising of the Gentile dead before the thousand years; the rest of the dead are raised at the end of the thousand years, at the Great White Throne (Revelation 20:5, 12–13).
+That is what the text appears to say. The phrase is "the whole house of Israel" (Ezekiel 37:11), and Ezekiel 39:28 adds, "I will leave none of them remaining among the nations anymore." Scripture does not describe a parallel raising of the Gentile dead before the thousand years; the rest of the dead are raised at the end of the thousand years, at the Great White Throne (Revelation 20:5, 12–13).
 
 ### Q: If Ezekiel 38–39 is the Battle of Armageddon, which comes before the kingdom, why is it written after the kingdom passages of Ezekiel 36–37?
 
@@ -36,7 +36,7 @@ Ezekiel's prophecies are not arranged in strict chronological order. Chapters 36
 
 ### Q: Is "my servant David" in Ezekiel 37 David himself, or Jesus?
 
-In this study's reading, Jesus. Isaiah 11 has already identified the coming King as the shoot from the stump of Jesse, David's father. The Davidic Covenant promised that a descendant of David would sit on the throne of Israel forever (2 Samuel 7:13–16), and Ezekiel 37:25 says "David my servant shall be their prince forever." That is the son of David reigning, not David raised to the throne.
+Jesus. Isaiah 11 has already identified the coming King as the shoot from the stump of Jesse, David's father. The Davidic Covenant promised that a descendant of David would sit on the throne of Israel forever (2 Samuel 7:13–16), and Ezekiel 37:25 says "David my servant shall be their prince forever." That is the son of David reigning, not David raised to the throne.
 
 ### Q: If God gives Israel a new heart and pours out his Spirit on them, isn't that the same as salvation? Doesn't that take away their choice?
 
@@ -64,11 +64,11 @@ No. The martyrs are named because martyrdom is the defining characteristic of th
 
 ### Q: Aren't there really three resurrections: Christ's, the church's, and the one after the millennium?
 
-In this study's reading, Scripture counts it differently. Christ's resurrection is called the firstfruits (1 Corinthians 15:20, 23) and stands apart from the sequence. "The first resurrection" in Revelation 20:5–6 is the resurrection of the saints at the Lord's return: the gathering of the church, when believers receive their resurrection bodies. "The rest of the dead" are raised after the thousand years and stand before the Great White Throne.
+Scripture counts it differently. Christ's resurrection is called the firstfruits (1 Corinthians 15:20, 23) and stands apart from the sequence. "The first resurrection" in Revelation 20:5–6 is the resurrection of the saints at the Lord's return: the gathering of the church, when believers receive their resurrection bodies. "The rest of the dead" are raised after the thousand years and stand before the Great White Throne.
 
 ### Q: Do people in the Millennial Kingdom still have a choice?
 
-In this study's reading, absolutely. That is why Satan is released at the end of the thousand years (Revelation 20:7–8). Everyone on the earth in that period lives under perfect justice, in peace, with God ruling in person. Those who rebel against that, knowing him as he is, have made the same choice Satan made.
+Absolutely. That is why Satan is released at the end of the thousand years (Revelation 20:7–8). Everyone on the earth in that period lives under perfect justice, in peace, with God ruling in person. Those who rebel against that, knowing him as he is, have made the same choice Satan made.
 
 ### Q: What is Gog and Magog in Revelation 20?
 

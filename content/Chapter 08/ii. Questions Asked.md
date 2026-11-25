@@ -8,7 +8,7 @@ That framing captures only half of it. The Mosaic Covenant is better understood 
 
 If Israel obeyed the terms, there would be blessing: national flourishing, protection, productivity, the continued favor of God among them. If Israel broke the terms, there would be curses, the consequences outlined at length in Deuteronomy 28. Those consequences were not arbitrary punishments but the removal of the protections and provisions that the covenant itself had established.
 
-The fuller picture of why God instituted a conditional covenant at all, and why he gave it knowing Israel would break it, is addressed in the next session, which covers the Exodus and Sinai.
+The fuller picture of why God instituted a conditional covenant at all, and why he gave it knowing Israel would break it, is addressed in [[i. Then You Will Know|Chapter 09]], which covers the Exodus and Sinai.
 
 ---
 

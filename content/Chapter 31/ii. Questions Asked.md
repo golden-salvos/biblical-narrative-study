@@ -16,7 +16,7 @@ They are listed together in the same paragraph of Leviticus 23 and kept at the s
 
 ### Q: If the trumpets are judgments, why would the Feast of Trumpets be something to celebrate?
 
-In this study's reading, because of what the last trumpet does. The trumpets and the bowls are a progressive revelation of God's wrath, but at the seventh trumpet the Lord takes control of the earth and begins to reign (Revelation 11:15). The feast is fulfilled at that last trumpet, and what it announces is the King.
+Because of what the last trumpet does. The trumpets and the bowls are a progressive revelation of God's wrath, but at the seventh trumpet the Lord takes control of the earth and begins to reign (Revelation 11:15). The feast is fulfilled at that last trumpet, and what it announces is the King.
 
 ### Q: Didn't we talk about "flying the bride"?
 
@@ -36,7 +36,7 @@ Yes. When Paul says sin dwells in the flesh (Romans 7:18), the flesh is not only
 
 ### Q: We sin every day. Won't we still sin in the new creation? How is that any different from us now?
 
-In this study's reading, it is different because of where sin lives. Paul locates sin in the flesh (Romans 7:18), not in the spirit. If sin were part of our spirit, it would never die, because the spirit never dies. At conversion the flesh is separated from the spirit and the spirit is joined to the Holy Spirit, which is why a believer now has a choice; but in this life the flesh is still present and still pulls. At death the flesh is gone, and in the resurrection believers are clothed in new bodies with no flesh left in them. In the resurrection body we have been completely separated from the flesh, and sin went with it.
+It is different because of where sin lives. Paul locates sin in the flesh (Romans 7:18), not in the spirit. If sin were part of our spirit, it would never die, because the spirit never dies. At conversion the flesh is separated from the spirit and the spirit is joined to the Holy Spirit, which is why a believer now has a choice; but in this life the flesh is still present and still pulls. At death the flesh is gone, and in the resurrection believers are clothed in new bodies with no flesh left in them. In the resurrection body we have been completely separated from the flesh, and sin went with it.
 
 That is the difference between the new creation and the Millennial Kingdom. During the thousand years, when Satan was released, the flesh was still there for him to appeal to, and the nations followed him into rebellion. In the new creation, Satan is never coming back, and there is no flesh left for anything to appeal to. For the first time in human history there is no sin anywhere, and that is what makes it possible for God the Father to dwell with mankind.
 
@@ -54,7 +54,7 @@ Yes, there is a difference. When Jesus says *"Judge not, that you be not judged"
 
 ### Q: If Satan and everyone in the lake of fire are finished, what is "outside" the city?
 
-In this study's reading, they are finished, but they have not ceased to exist. Satan, the Antichrist, and every human who rebelled are still being tormented forever, and they have to be somewhere. Revelation 22:15 says they are outside the city, because the city is the Bride and nothing unclean enters it. However the geography of the new creation works, the lake of fire is somewhere in it, and it is outside the gates.
+They are finished, but they have not ceased to exist. Satan, the Antichrist, and every human who rebelled are still being tormented forever, and they have to be somewhere. Revelation 22:15 says they are outside the city, because the city is the Bride and nothing unclean enters it. However the geography of the new creation works, the lake of fire is somewhere in it, and it is outside the gates.
 
 ### Q: Are the "dogs" outside the city literal dogs?
 

@@ -110,7 +110,7 @@ And Jesus responds with equal force: *"Get behind me, Satan! You are a stumbling
 
 This is not a casual rebuke. Jesus is identifying the *source* of Peter's objection. It is not simple misunderstanding but the same adversarial pressure that had confronted him in the wilderness. The mechanism is identical in both cases: **tempting Jesus to bypass the suffering.**
 
-*(The title "[[Glossary#Son of Man|Son of Man]]" that Jesus uses throughout these passages carries deep theological significance rooted in the book of Daniel. This will be explored in a later session.)*
+*(The title "[[Glossary#Son of Man|Son of Man]]" that Jesus uses throughout these passages carries deep theological significance rooted in the book of Daniel. This is explored in [[i. Not by Human Hands|Chapter 15]].)*
 
 ### The Wilderness Temptation: A Recurring Pattern
 
