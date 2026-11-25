@@ -1,3 +1,7 @@
+> *Scholarly and historical background for topics discussed at length in the teaching. Supplemental only, not required to understand the chapter.*
+
+---
+
 ## The Thousand Years in the Early Church
 
 Revelation 20 is the only passage in Scripture that gives the messianic kingdom a length. The phrase "a thousand years" appears six times in verses 2 through 7. Its interpretation divides Christians into three broad camps, named by how each relates the return of Christ to the millennium (from the Latin *mille*, "thousand").
@@ -8,15 +12,15 @@ Revelation 20 is the only passage in Scripture that gives the messianic kingdom 
 
 **Postmillennialism** holds that Christ returns *after* a long era of gospel success in which the world is progressively Christianized. It flourished among Puritans and in the eighteenth- and nineteenth-century revival movements.
 
-The study's reading rests on the sequence of Revelation itself: the beast and the false prophet are thrown into the lake of fire in 19:20, Satan is bound in 20:2, and the saints who refused the mark come to life and reign in 20:4. Those events follow the return of Christ in Revelation 19, and the prophets' detailed descriptions of a restored Israel under its King — none of which has yet taken place — supply the content of the thousand years.
+The study's reading rests on the sequence of Revelation itself: the beast and the false prophet are thrown into the lake of fire in 19:20, Satan is bound in 20:2, and the saints who refused the mark come to life and reign in 20:4. Those events follow the return of Christ in Revelation 19, and the prophets' detailed descriptions of a restored Israel under its King, none of which has yet taken place, supply the content of the thousand years.
 
 ## The Cosmic Week
 
 The idea that history runs for six thousand years followed by a thousand-year Sabbath is not stated in Scripture, but it is ancient and widespread in both Jewish and Christian sources. It rests on two texts read together: the six days of creation followed by a day of rest (Genesis 2:2–3), and the statement that *"a thousand years in your sight are but as yesterday when it is past"* (Psalm 90:4), which 2 Peter 3:8 restates: *"with the Lord one day is as a thousand years, and a thousand years as one day."*
 
-The Babylonian Talmud records two versions. One teaching divides history into three periods of two thousand years — "two thousand years of desolation, two thousand years of Torah, and two thousand years of the days of the Messiah." Another, attributed to Rav Kattina, says the world will exist for six thousand years and lie fallow for one thousand: as every seventh year is a year of release for the land, so one thousand years in seven will be a Sabbath for the world (*Sanhedrin* 97a). On the Christian side, the *Epistle of Barnabas*, from around AD 100–130, reads Genesis 2 the same way: *"He ended in six days. He meaneth this, that in six thousand years the Lord shall bring all things to an end; for the day with Him signifieth a thousand years"* (*Barnabas* 15:4, Lightfoot translation). Irenaeus repeats it: *"For in as many days as this world was made, in so many thousand years shall it be concluded"* (*Against Heresies* 5.28.3).
+The Babylonian Talmud records two versions. One teaching divides history into three periods of two thousand years: "two thousand years of desolation, two thousand years of Torah, and two thousand years of the days of the Messiah." Another, attributed to Rav Kattina, says the world will exist for six thousand years and lie fallow for one thousand: as every seventh year is a year of release for the land, so one thousand years in seven will be a Sabbath for the world (*Sanhedrin* 97a). On the Christian side, the *Epistle of Barnabas*, from around AD 100–130, reads Genesis 2 the same way: *"He ended in six days. He meaneth this, that in six thousand years the Lord shall bring all things to an end; for the day with Him signifieth a thousand years"* (*Barnabas* 15:4, Lightfoot translation). Irenaeus repeats it: *"For in as many days as this world was made, in so many thousand years shall it be concluded"* (*Against Heresies* 5.28.3).
 
-The New Testament connects the Promised Land to the Sabbath in the same way the study does. Hebrews 3–4 takes Psalm 95 — *"they shall not enter my rest"* — and reads Israel's entry into Canaan as a preview of a greater rest still to come: *"So then, there remains a Sabbath rest for the people of God"* (Hebrews 4:9).
+The New Testament connects the Promised Land to the Sabbath in the same way the study does. Hebrews 3–4 takes Psalm 95, *"they shall not enter my rest"*, and reads Israel's entry into Canaan as a preview of a greater rest still to come: *"So then, there remains a Sabbath rest for the people of God"* (Hebrews 4:9).
 
 The arithmetic depends on which chronology is used. The traditional Jewish calendar counts years from creation (*anno mundi*); the year that began in September 2026 is 5787, which would put the start of the year 6000 in AD 2239. Archbishop James Ussher's seventeenth-century chronology, long printed in the margins of English Bibles, dated creation to 4004 BC, which would have completed six thousand years in the late 1990s. The figures differ because the genealogies and reign lengths in Scripture can be totaled in more than one way, which is why the study speaks of roughly six thousand years and treats the Sabbath reading as a pattern rather than a calendar.
 
@@ -32,15 +36,15 @@ The places named in verse 11 cover the entire known world of Isaiah's day. **Pat
 
 The kingdom divided around 930 BC, after the death of Solomon, when the ten northern tribes rejected his son Rehoboam and made Jeroboam king (1 Kings 12). The northern kingdom took the name Israel, and the prophets often call it **Ephraim** after its largest tribe, or **Joseph**, after Ephraim's father. The southern kingdom, **Judah**, kept Jerusalem and the line of David. The north fell to Assyria in 722 BC; the south fell to Babylon in 586 BC.
 
-Ezekiel 37:15–28 addresses that division directly. The two sticks — one for Judah, one for Joseph — are joined into one in the prophet's hand, and the Lord promises one nation, one king, and one shepherd. Isaiah 11:13 makes the same promise in terms of the two kingdoms' old hostility: *"Ephraim shall not be jealous of Judah, and Judah shall not harass Ephraim."* No reunification of that kind has occurred in the twenty-nine centuries since the split.
+Ezekiel 37:15–28 addresses that division directly. The two sticks (one for Judah, one for Joseph) are joined into one in the prophet's hand, and the Lord promises one nation, one king, and one shepherd. Isaiah 11:13 makes the same promise in terms of the two kingdoms' old hostility: *"Ephraim shall not be jealous of Judah, and Judah shall not harass Ephraim."* No reunification of that kind has occurred in the twenty-nine centuries since the split.
 
 ## The Valley of Dry Bones: Two Readings
 
-Most modern interpreters read Ezekiel 37:1–14 as a vision of national restoration. The basis is verse 11, where the exiles say, *"Our bones are dried up, and our hope is lost; we are indeed cut off"* — an idiom of despair. On that reading, the Lord answers their saying in its own terms: a nation that considers itself dead and buried will be brought back to life and planted in its land.
+Most modern interpreters read Ezekiel 37:1–14 as a vision of national restoration. The basis is verse 11, where the exiles say, *"Our bones are dried up, and our hope is lost; we are indeed cut off"*: an idiom of despair. On that reading, the Lord answers their saying in its own terms: a nation that considers itself dead and buried will be brought back to life and planted in its land.
 
 Others, including this study, read the passage as an actual raising of the dead. The argument rests on the Lord's own interpretation, which does not leave the language of graves behind: *"I will open your graves and raise you from your graves, O my people. And I will bring you into the land of Israel"* (37:12–13).
 
-The debate is old. The Talmud records rabbis arguing over the same question (*Sanhedrin* 92b). Rabbi Eliezer held that the dead Ezekiel revived stood up, sang praise, and died again. Rabbi Eliezer the son of Rabbi Yose the Galilean held that they went up to the land of Israel, married, and had sons and daughters — and Rabbi Judah ben Bathyra claimed to be one of their descendants. Rabbi Judah gave the famously ambiguous answer *"it was truth; it was a parable."* The second view in that discussion is close to the study's: a real raising to ordinary mortal life, followed by settlement in the land.
+The debate is old. The Talmud records rabbis arguing over the same question (*Sanhedrin* 92b). Rabbi Eliezer held that the dead Ezekiel revived stood up, sang praise, and died again. Rabbi Eliezer the son of Rabbi Yose the Galilean held that they went up to the land of Israel, married, and had sons and daughters, and Rabbi Judah ben Bathyra claimed to be one of their descendants. Rabbi Judah gave the famously ambiguous answer *"it was truth; it was a parable."* The second view in that discussion is close to the study's: a real raising to ordinary mortal life, followed by settlement in the land.
 
 The vision held a central place in Jewish hope for resurrection. The synagogue at Dura-Europos, on the Euphrates in eastern Syria, painted around AD 244, devotes one of its largest wall panels to Ezekiel 37: the hand of God, the scattered limbs, and the revived dead standing together.
 
@@ -48,7 +52,7 @@ The same hope shapes the Jewish cemetery on the Mount of Olives, in continuous u
 
 ## A New Heart and the Outpoured Spirit
 
-The promise of Ezekiel 36:26–27 — a new heart, a new spirit, a heart of flesh in place of a heart of stone, and God's own Spirit within — appears earlier in Ezekiel in almost the same words (Ezekiel 11:19–20). It belongs with Jeremiah's promise of a new covenant written on the heart (Jeremiah 31:31–34), and the New Testament takes up both: Paul contrasts the letter written *"not on tablets of stone but on tablets of human hearts"* (2 Corinthians 3:3), and Hebrews 8 quotes Jeremiah in full as fulfilled in Christ.
+The promise of Ezekiel 36:26–27 (a new heart, a new spirit, a heart of flesh in place of a heart of stone, and God's own Spirit within) appears earlier in Ezekiel in almost the same words (Ezekiel 11:19–20). It belongs with Jeremiah's promise of a new covenant written on the heart (Jeremiah 31:31–34), and the New Testament takes up both: Paul contrasts the letter written *"not on tablets of stone but on tablets of human hearts"* (2 Corinthians 3:3), and Hebrews 8 quotes Jeremiah in full as fulfilled in Christ.
 
 Ezekiel holds God's gift and human responsibility together. The same prophet who records God saying *"I will give you a new heart"* also records him commanding, *"Cast away from you all the transgressions that you have committed, and make yourselves a new heart and a new spirit! Why will you die, O house of Israel?"* (Ezekiel 18:31). The tension raised in this session's discussion is built into the book itself.
 
@@ -72,7 +76,7 @@ Egypt receives separate mention because it has almost no rain; its water comes f
 
 ### The Nations at Sukkot
 
-The feast already looked toward the nations. Numbers 29:12–34 prescribes bulls offered across the seven days in a descending count — thirteen, twelve, eleven, ten, nine, eight, seven — for a total of seventy. The Talmud explains the seventy bulls as offerings on behalf of the seventy nations of the world (*Sukkah* 55b), the same seventy nations of the Table of Nations in Genesis 10. In Zechariah 14, those nations come up to keep the feast themselves.
+The feast already looked toward the nations. Numbers 29:12–34 prescribes bulls offered across the seven days in a descending count (thirteen, twelve, eleven, ten, nine, eight, seven) for a total of seventy. The Talmud explains the seventy bulls as offerings on behalf of the seventy nations of the world (*Sukkah* 55b), the same seventy nations of the Table of Nations in Genesis 10. In Zechariah 14, those nations come up to keep the feast themselves.
 
 ### "Holy to the Lord" and the Trader
 
@@ -92,7 +96,7 @@ The note that *"the sea gave up the dead who were in it"* answers an ancient fea
 
 ## The Saints and Judgment
 
-The New Testament does speak of the saints judging. Paul asks the Corinthians, *"Do you not know that the saints will judge the world?... Do you not know that we are to judge angels?"* (1 Corinthians 6:2–3). Jesus promises the twelve that they will sit on twelve thrones *"judging the twelve tribes of Israel"* (Matthew 19:28), and Revelation 20:4 sees thrones occupied by those *"to whom the authority to judge was committed,"* echoing Daniel 7:22, where *"judgment was given for the saints of the Most High."* In the Hebrew Bible, to "judge" often means to govern — the judges of Israel were its rulers — and interpreters commonly read these passages as describing the saints' share in Christ's reign. The study draws the line at final judgment: the saints rule under Christ, but the verdict of the Great White Throne belongs to him alone (John 5:22, 27).
+The New Testament does speak of the saints judging. Paul asks the Corinthians, *"Do you not know that the saints will judge the world?... Do you not know that we are to judge angels?"* (1 Corinthians 6:2–3). Jesus promises the twelve that they will sit on twelve thrones *"judging the twelve tribes of Israel"* (Matthew 19:28), and Revelation 20:4 sees thrones occupied by those *"to whom the authority to judge was committed,"* echoing Daniel 7:22, where *"judgment was given for the saints of the Most High."* In the Hebrew Bible, to "judge" often means to govern, the judges of Israel were its rulers, and interpreters commonly read these passages as describing the saints' share in Christ's reign. The study draws the line at final judgment: the saints rule under Christ, but the verdict of the Great White Throne belongs to him alone (John 5:22, 27).
 
 ## Those Who Never Heard
 
@@ -100,4 +104,6 @@ The discussion of fairness in this session drew on texts that the church has alw
 
 Christian thinkers have drawn different conclusions from these passages, from the view that explicit faith in Christ is necessary in every case to the view that God may save some who respond in faith to the light they were given. The study's position is that God judges the heart, knows every choice before it is made, and is just in every judgment, and it does not claim to know the details of how he applies that justice to each person.
 
-*This context is supplemental to the main chapter note and is not a complete treatment of any of these topics.*
+---
+
+*This document contains supplemental context for Chapter 30 and is intended to support, not replace, engagement with the main chapter and the biblical text itself.*

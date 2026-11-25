@@ -1,4 +1,6 @@
-*A record of genuine questions raised during this session, with the answers given in the room. This is a companion to the main chapter note, not a replacement for it.*
+> *Questions raised during the session, with answers drawn from the teaching.*
+
+---
 
 ### Q: If the fine linen is the righteous deeds of the saints, what about someone like the thief on the cross, who had no righteous deeds?
 
@@ -6,7 +8,7 @@ The thief on the cross got into paradise by believing, and that is all (Luke 23:
 
 ### Q: Where is the parable of the ten virgins?
 
-Matthew 25:1–13. It is part of the Olivet Discourse, immediately after Jesus's teaching on his return in Matthew 24.
+Matthew 25:1–13. It is part of the Olivet Discourse, immediately after Jesus' teaching on his return in Matthew 24.
 
 ### Q: Isn't the "I never knew you" passage connected to the sheep and the goats?
 
@@ -14,11 +16,11 @@ The passage in which people say *"Lord, Lord, did we not prophesy in your name?"
 
 ### Q: Isn't it true that God has invited everybody, and it's our choice whether to accept the invitation?
 
-Yes. Everyone is invited to love and serve him, and accepting is each person's choice. But the marriage supper of the Lamb is a specific event at a specific time in history, and the invitation to it goes to those who have already accepted him — the church, gathered at his return. The verse is not describing salvation in general.
+Yes. Everyone is invited to love and serve him, and accepting is each person's choice. But in this study's reading, the marriage supper of the Lamb is a specific event at a specific time in history, and the invitation to it goes to those who have already accepted him: the church, gathered at his return. The verse is not describing salvation in general.
 
 ### Q: Does this mean that people who accept Christ after he returns are thrown into hell?
 
-No. People will come to the Lord after his return, including those who refused the mark of the beast because their names are in the book of life. They will be in his kingdom. They will not have been at the marriage supper, which takes place once, when the Bride and the Groom are married. There is a later resurrection and the Great White Throne Judgment after the Millennial Kingdom, and the opportunity to repent runs until then.
+No. People will come to the Lord after his return, including those who refused the mark of the beast because their names are in the book of life. They will be in his kingdom. In this study's reading, they will not have been at the marriage supper, which takes place once, when the Bride and the Groom are married. The opportunity to repent runs throughout a person's life, including for those living in the Millennial Kingdom; judgment follows death (Hebrews 9:27).
 
 ### Q: Why does it matter whether someone was at the marriage supper?
 
@@ -34,15 +36,15 @@ The invitation in verse 9 is not an invitation to salvation that some receive an
 
 ### Q: Are we still in heaven while this battle happens, or did we come down to the earth early?
 
-The church is in heaven, witnessing it. But it is told about the battle beforehand, in Revelation, and that is why believers can endure patiently: they know how it ends.
+In this study's reading, the church comes with the King: the armies of heaven that follow him are clothed in the same fine linen as the Bride (Revelation 19:8, 14; compare 17:14). But the church does not fight; the victory is won by the word of his mouth. And it is told about the battle beforehand, in Revelation, which is why believers can endure patiently: they know how it ends.
 
 ### Q: Will the 144,000 never die?
 
-They will not die during the seven years. They are sealed and preserved through all of God's wrath, and they enter the Millennial Kingdom alive as its firstfruits. What happens to them over the course of the thousand years is not described here. *(The Millennial Kingdom is the subject of the next session.)*
+In this study's reading, they will not die during the seven years. They are sealed and preserved through all of God's wrath, and they enter the Millennial Kingdom alive as its firstfruits. What happens to them over the course of the thousand years is not described here. *(The Millennial Kingdom is the subject of the next session.)*
 
 ### Q: Will we rule in the Millennial Kingdom from heaven?
 
-No. The church will rule on the earth. Believers will be in their resurrection bodies, like the body Jesus had after he rose — able to appear and disappear, to enter a locked room, and to move from place to place in an instant — but the kingdom is on this earth, centered in Jerusalem.
+In this study's reading, no. The church will rule on the earth. Believers will be in their resurrection bodies, like the body Jesus had after he rose, able to appear and disappear, to enter a locked room, and to move from place to place in an instant, but the kingdom is on this earth, centered in Jerusalem.
 
 ### Q: Is the eastern gate of Jerusalem still sealed?
 
@@ -50,7 +52,7 @@ Yes. The eastern gate of the Temple Mount, often called the Golden Gate, has bee
 
 ### Q: Who else will be on the earth during the Millennial Kingdom? Will some people be surrendered to God and others not?
 
-Israel will be in the land, but not only Israel. Daniel 7:12 says the other beasts had their dominion taken away but their lives prolonged for a season. The Gentile nations will remain on the earth, stripped of their authority, and they will have a choice. Some will be people who never made a choice for either side before the return. Some will have chosen God after he returned, too late to be gathered at the rapture. Everyone who took the mark of the beast will be dead.
+In this study's reading, Israel will be in the land, but not only Israel. Daniel 7:12 says the other beasts had their dominion taken away but their lives prolonged for a season. The Gentile nations will remain on the earth, stripped of their authority, and they will have a choice. Some will be people who never made a choice for either side before the return. Some will have chosen God after he returned, too late to be gathered at the rapture. Everyone who took the mark of the beast will be dead.
 
 ### Q: Doesn't Scripture say those who take the mark will be tormented forever?
 
@@ -60,4 +62,6 @@ Yes (Revelation 14:10–11). Whether they are dead or in the lake of fire, the r
 
 Scripture says little directly about life during the Millennial Kingdom. The passages that describe it will be brought up in the next session.
 
-*These entries are a companion to the main chapter note, not a replacement for it.*
+---
+
+*These questions were raised during the session and are preserved here as a record of what came up in the room. They are a companion to, not a replacement for, the main chapter notes.*
