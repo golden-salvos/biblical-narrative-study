@@ -1,4 +1,4 @@
-> *Scholarly and historical background for topics discussed at length in the teaching. Supplemental only — not required to understand the chapter.*
+> *Scholarly and historical background for topics discussed at length in the teaching. Supplemental only, not required to understand the chapter.*
 
 ---
 

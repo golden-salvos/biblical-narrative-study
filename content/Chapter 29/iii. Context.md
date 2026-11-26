@@ -1,3 +1,7 @@
+> *Scholarly and historical background for topics discussed at length in the teaching. Supplemental only, not required to understand the chapter.*
+
+---
+
 ## Hallelujah
 
 *Hallelujah* is a Hebrew imperative: *hallelu*, "praise," and *Yah*, the short form of the divine name [[Glossary#Yahweh|Yahweh]]. It means "Praise the Lord." The word is common in the Psalms, where it opens or closes many of the psalms from 104 to 150, and it gives its name to the *Hallel*, Psalms 113–118, which Israel sang at the great feasts. At Passover the Hallel was sung in two parts during the meal, and the hymn Jesus and his disciples sang before going out to the Mount of Olives (Matthew 26:30) is traditionally understood to be its closing psalms.
@@ -32,13 +36,13 @@ The Greek of Revelation 19:8 is precise. The word for "righteous deeds" is *dika
 
 ## The Parable of the Ten Virgins
 
-In Matthew 25:1–13, the "lamps" were most likely torches — sticks wrapped with rags soaked in oil — which burned for only a short time and needed fresh oil to keep going. A torch without a supply of oil would fail during a long wait at night, which is exactly what happens to the five foolish virgins.
+In Matthew 25:1–13, the "lamps" may well have been torches (sticks wrapped with rags soaked in oil), which burned for only a short time and needed fresh oil to keep going. A torch without a supply of oil would fail during a long wait at night, which is exactly what happens to the five foolish virgins.
 
-The oil has been interpreted in several ways: as the Holy Spirit, as good works, as faith, or as genuine readiness for the Lord's return. The parable does not specify. Its point is clear from its ending: readiness cannot be borrowed from someone else at the last minute, and the door, once shut, stays shut. The bridegroom's answer, *"Truly, I say to you, I do not know you"* (Matthew 25:12), echoes Matthew 7:23 almost exactly.
+The oil has been interpreted in several ways: as the Holy Spirit, as good works, as faith, or as real readiness for the Lord's return. The parable does not specify. Its point is clear from its ending: readiness cannot be borrowed from someone else at the last minute, and the door, once shut, stays shut. The bridegroom's answer, *"Truly, I say to you, I do not know you"* (Matthew 25:12), echoes Matthew 7:23 almost exactly.
 
 ## "I Never Knew You": The Biblical Sense of Knowing
 
-The Hebrew verb *yada*, "to know," covers far more than knowing facts. It describes personal, experiential, covenantal knowledge, and it is the word used for sexual union: *"Now Adam knew Eve his wife, and she conceived"* (Genesis 4:1). The same verb describes God's choice of Israel: *"You only have I known of all the families of the earth"* (Amos 3:2), and his knowledge of Jeremiah before he was formed in the womb (Jeremiah 1:5). In the New Testament, Paul writes that *"if anyone loves God, he is known by God"* (1 Corinthians 8:3), and that *"the Lord knows those who are his"* (2 Timothy 2:19). Jesus's *"I never knew you"* (Matthew 7:23) is a denial of that relationship, not a statement that he lacks information about the person.
+The Hebrew verb *yada*, "to know," covers far more than knowing facts. It describes personal, experiential, covenantal knowledge, and it is the word used for sexual union: *"Now Adam knew Eve his wife, and she conceived"* (Genesis 4:1). The same verb describes God's choice of Israel: *"You only have I known of all the families of the earth"* (Amos 3:2), and his knowledge of Jeremiah before he was formed in the womb (Jeremiah 1:5). In the New Testament, Paul writes that *"if anyone loves God, he is known by God"* (1 Corinthians 8:3), and that *"the Lord knows those who are his"* (2 Timothy 2:19). Jesus' *"I never knew you"* (Matthew 7:23) is a denial of that relationship, not a statement that he lacks information about the person.
 
 ## The Rider on the White Horse
 
@@ -64,4 +68,6 @@ Revelation 19 contains two meals. The marriage supper of the Lamb (19:9) is a ce
 
 The beast and the false prophet are the first to be cast into the lake of fire, and they are thrown in alive (Revelation 19:20). Daniel saw the same end for the fourth beast: *"the beast was killed, and its body destroyed and given over to be burned with fire"* (Daniel 7:11). The phrase "lake of fire that burns with sulfur" combines the fire and sulfur that fell on Sodom (Genesis 19:24) with the burning place of judgment in Isaiah 30:33. One detail is significant for questions about whether the lake of fire destroys those thrown into it: a thousand years later, when the devil is thrown in, the beast and the false prophet are still there, and *"they will be tormented day and night forever and ever"* (Revelation 20:10).
 
-*This context is supplemental to the main chapter note and is not a complete treatment of any of these topics.*
+---
+
+*This document contains supplemental context for Chapter 29 and is intended to support, not replace, engagement with the main chapter and the biblical text itself.*
